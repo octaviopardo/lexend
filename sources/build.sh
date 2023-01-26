@@ -2,15 +2,15 @@
 set -e
 #source ../env/bin/activate
 
-vf=Lexend[slnt,HEXP,wght].ttf
+vf=Lexend[HEXP,slnt,wght].ttf
 
 echo ".
 BUILD LEXEND AND ALL STATICS
 ."
 
 gftools builder lexend.yaml
-fonttools varLib.instancer ../fonts/lexend/variable/$vf HEXP=0 --output ../fonts/lexend/variable/Lexend[slnt,wght].ttf
-rm ../fonts/lexend/variable/$vf
+#fonttools varLib.instancer ../fonts/lexend/variable/$vf HEXP=0 --output ../fonts/lexend/variable/Lexend[slnt,wght].ttf
+#rm ../fonts/lexend/variable/$vf
 
 echo ".
 BUILD DECA
