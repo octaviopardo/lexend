@@ -5,9 +5,16 @@
     buildOTF: False
     buildWebfont: False
     axisOrder:
+      - slnt
       # - HEXP
       - wght
     stat:
+      - name: Slant
+        tag: slnt
+        values:
+        - name: Default
+          value: 0
+          flags: 2
       # - name: Hyper Expansion
       #   tag: HEXP
       #   values:

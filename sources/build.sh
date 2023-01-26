@@ -2,14 +2,14 @@
 set -e
 #source ../env/bin/activate
 
-vf=Lexend[HEXP,wght].ttf
+vf=Lexend[slnt,HEXP,wght].ttf
 
 echo ".
 BUILD LEXEND AND ALL STATICS
 ."
 
 gftools builder lexend.yaml
-fonttools varLib.instancer ../fonts/lexend/variable/$vf HEXP=0 --output ../fonts/lexend/variable/Lexend[wght].ttf
+fonttools varLib.instancer ../fonts/lexend/variable/$vf HEXP=0 --output ../fonts/lexend/variable/Lexend[slnt,wght].ttf
 rm ../fonts/lexend/variable/$vf
 
 echo ".
@@ -17,49 +17,49 @@ BUILD DECA
 ."
 
 gftools builder deca.yaml
-fonttools varLib.instancer ../fonts/deca/variable/$vf HEXP=0 --output ../fonts/deca/variable/LexendDeca[wght].ttf 
+fonttools varLib.instancer ../fonts/deca/variable/$vf HEXP=0 --output ../fonts/deca/variable/LexendDeca[slnt,wght].ttf 
 rm ../fonts/deca/variable/$vf
 
 echo ".
 BUILD EXA
 ."
 gftools builder exa.yaml
-fonttools varLib.instancer ../fonts/exa/variable/$vf HEXP=40 --output ../fonts/exa/variable/LexendExa[wght].ttf 
+fonttools varLib.instancer ../fonts/exa/variable/$vf HEXP=40 --output ../fonts/exa/variable/LexendExa[slnt,wght].ttf 
 rm ../fonts/exa/variable/$vf
 
 echo ".
 BUILD GIGA
 ."
 gftools builder giga.yaml
-fonttools varLib.instancer ../fonts/giga/variable/$vf HEXP=56 --output ../fonts/giga/variable/LexendGiga[wght].ttf 
+fonttools varLib.instancer ../fonts/giga/variable/$vf HEXP=56 --output ../fonts/giga/variable/LexendGiga[slnt,wght].ttf 
 rm ../fonts/giga/variable/$vf
 
 echo ".
 BUILD MEGA
 ."
 gftools builder mega.yaml
-fonttools varLib.instancer ../fonts/mega/variable/$vf HEXP=64 --output ../fonts/mega/variable/LexendMega[wght].ttf 
+fonttools varLib.instancer ../fonts/mega/variable/$vf HEXP=64 --output ../fonts/mega/variable/LexendMega[slnt,wght].ttf 
 rm ../fonts/mega/variable/$vf
 
 echo ".
 BUILD PETA
 ."
 gftools builder peta.yaml
-fonttools varLib.instancer ../fonts/peta/variable/$vf HEXP=72 --output ../fonts/peta/variable/LexendPeta[wght].ttf 
+fonttools varLib.instancer ../fonts/peta/variable/$vf HEXP=72 --output ../fonts/peta/variable/LexendPeta[slnt,wght].ttf 
 rm ../fonts/peta/variable/$vf
 
 echo ".
 BUILD TERA
 ."
 gftools builder tera.yaml
-fonttools varLib.instancer ../fonts/tera/variable/$vf HEXP=80 --output ../fonts/tera/variable/LexendTera[wght].ttf 
+fonttools varLib.instancer ../fonts/tera/variable/$vf HEXP=80 --output ../fonts/tera/variable/LexendTera[slnt,wght].ttf 
 rm ../fonts/tera/variable/$vf
 
 echo ".
 BUILD ZETTA
 ."
 gftools builder zetta.yaml
-fonttools varLib.instancer ../fonts/zetta/variable/$vf HEXP=100 --output ../fonts/zetta/variable/LexendZetta[wght].ttf 
+fonttools varLib.instancer ../fonts/zetta/variable/$vf HEXP=100 --output ../fonts/zetta/variable/LexendZetta[slnt,wght].ttf 
 rm ../fonts/zetta/variable/$vf
 
 echo ".
