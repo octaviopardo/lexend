@@ -673,6 +673,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (403,720);
@@ -759,6 +760,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (443,778);
@@ -788,6 +790,7 @@ name = _top;
 pos = (200,535);
 }
 );
+color = 3;
 guides = (
 {
 pos = (563,801);

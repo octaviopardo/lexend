@@ -280,6 +280,7 @@ ref = comma;
 width = 307;
 },
 {
+color = 3;
 guides = (
 {
 pos = (238,571);
@@ -305,6 +306,7 @@ ref = comma;
 width = 376;
 },
 {
+color = 3;
 guides = (
 {
 pos = (284,749);
@@ -320,6 +322,7 @@ ref = comma;
 width = 332;
 },
 {
+color = 3;
 guides = (
 {
 pos = (208,748);

@@ -927,6 +927,7 @@ ref = dp.fig;
 width = 721;
 },
 {
+color = 3;
 guides = (
 {
 pos = (51,277);
@@ -1055,6 +1056,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -1122,6 +1124,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;

@@ -1024,6 +1024,7 @@ ref = ordmasculine;
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -1187,6 +1188,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -1280,6 +1282,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;

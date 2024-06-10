@@ -213,6 +213,7 @@ ref = quotedblleft;
 width = 590;
 },
 {
+color = 3;
 guides = (
 {
 pos = (394,571);
@@ -248,6 +249,7 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quoteright;
 width = 543;
 },
 {
+color = 3;
 guides = (
 {
 pos = (164,749);
@@ -264,6 +266,7 @@ ref = quotedblleft;
 width = 534;
 },
 {
+color = 3;
 guides = (
 {
 pos = (227,748);

@@ -748,6 +748,7 @@ ref = C;
 }
 );
 };
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
@@ -840,6 +841,7 @@ ref = C;
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -889,6 +891,7 @@ ref = C;
 }
 );
 };
+color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {

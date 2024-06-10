@@ -58,6 +58,7 @@ layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
 width = 400;
 },
 {
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 width = 520;
 },
@@ -66,10 +67,12 @@ layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
 width = 520;
 },
 {
+color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 width = 480;
 },
 {
+color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 width = 480;
 },

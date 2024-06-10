@@ -2680,6 +2680,7 @@ nodes = (
 }
 );
 };
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
@@ -3102,6 +3103,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (420,613);
@@ -3204,6 +3206,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (540,199);

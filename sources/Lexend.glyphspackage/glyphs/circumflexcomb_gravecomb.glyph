@@ -563,6 +563,7 @@ ref = "grave-combinator";
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -638,6 +639,7 @@ ref = "grave-combinator";
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (560,762);
@@ -675,6 +677,7 @@ ref = "grave-combinator";
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (713,774);

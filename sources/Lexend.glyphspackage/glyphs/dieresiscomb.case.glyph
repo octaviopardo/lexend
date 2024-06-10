@@ -561,6 +561,7 @@ name = top;
 pos = (250,810);
 }
 );
+color = 3;
 guides = (
 {
 pos = (221,789);
@@ -655,6 +656,7 @@ name = top;
 pos = (250,850);
 }
 );
+color = 3;
 guides = (
 {
 pos = (451,759);
@@ -680,6 +682,7 @@ name = top;
 pos = (251,920);
 }
 );
+color = 3;
 guides = (
 {
 pos = (296,750);

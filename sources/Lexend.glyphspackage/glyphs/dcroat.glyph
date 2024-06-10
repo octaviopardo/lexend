@@ -1357,6 +1357,7 @@ ref = d;
 }
 );
 };
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
@@ -1551,6 +1552,7 @@ ref = d;
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (443,524);
@@ -1633,6 +1635,7 @@ ref = d;
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (472,517);

@@ -168,6 +168,7 @@ ref = exclam;
 width = 324;
 },
 {
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
@@ -198,6 +199,7 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = exclam;
 width = 460;
 },
 {
+color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
@@ -209,6 +211,7 @@ ref = exclam;
 width = 424;
 },
 {
+color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {

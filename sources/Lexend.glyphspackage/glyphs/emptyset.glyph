@@ -489,6 +489,7 @@ ref = oslash;
 width = 801;
 },
 {
+color = 3;
 guides = (
 {
 angle = 90;
@@ -519,6 +520,7 @@ ref = oslash;
 width = 731;
 },
 {
+color = 3;
 guides = (
 {
 angle = 90;
@@ -538,6 +540,7 @@ ref = oslash;
 width = 711;
 },
 {
+color = 3;
 guides = (
 {
 angle = 90;

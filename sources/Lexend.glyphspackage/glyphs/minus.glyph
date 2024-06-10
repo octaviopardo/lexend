@@ -367,6 +367,7 @@ nodes = (
 }
 );
 };
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
@@ -409,6 +410,7 @@ name = center;
 pos = (351,288);
 }
 );
+color = 3;
 guides = (
 {
 pos = (646,237);
@@ -438,6 +440,7 @@ name = center;
 pos = (346,288);
 }
 );
+color = 3;
 guides = (
 {
 pos = (401,366);

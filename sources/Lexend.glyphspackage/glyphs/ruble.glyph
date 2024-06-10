@@ -881,6 +881,7 @@ ref = leftbar.currency;
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -956,6 +957,7 @@ ref = naira;
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 180;
@@ -1011,6 +1013,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (215,200);

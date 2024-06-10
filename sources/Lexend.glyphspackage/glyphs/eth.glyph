@@ -1648,6 +1648,7 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = o;
 width = 606;
 },
 {
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
@@ -1879,6 +1880,7 @@ ref = partialdiff;
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (197,508);
@@ -2143,6 +2145,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (318,488);

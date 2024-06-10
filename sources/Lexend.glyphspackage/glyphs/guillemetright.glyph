@@ -212,6 +212,7 @@ ref = guillemetleft;
 width = 661;
 },
 {
+color = 3;
 guides = (
 {
 pos = (80,73);
@@ -239,6 +240,7 @@ ref = guillemetleft;
 width = 538;
 },
 {
+color = 3;
 guides = (
 {
 pos = (303,45);
@@ -255,6 +257,7 @@ ref = guillemetleft;
 width = 550;
 },
 {
+color = 3;
 guides = (
 {
 pos = (429,9);

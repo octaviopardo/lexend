@@ -818,6 +818,7 @@ ref = leftbar.currency;
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -934,6 +935,7 @@ ref = leftbar.currency;
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -992,6 +994,7 @@ ref = leftbar.currency;
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;

@@ -207,6 +207,7 @@ ref = braceleft;
 width = 559;
 },
 {
+color = 3;
 guides = (
 {
 pos = (395,-186);
@@ -234,6 +235,7 @@ ref = braceleft;
 width = 481;
 },
 {
+color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
@@ -245,6 +247,7 @@ ref = braceleft;
 width = 478;
 },
 {
+color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {

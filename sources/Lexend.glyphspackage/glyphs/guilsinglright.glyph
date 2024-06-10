@@ -194,6 +194,7 @@ ref = guilsinglleft;
 width = 367;
 },
 {
+color = 3;
 guides = (
 {
 pos = (323,457);
@@ -224,6 +225,7 @@ ref = guilsinglleft;
 width = 345;
 },
 {
+color = 3;
 guides = (
 {
 pos = (273,45);
@@ -240,6 +242,7 @@ ref = guilsinglleft;
 width = 336;
 },
 {
+color = 3;
 guides = (
 {
 pos = (432,9);

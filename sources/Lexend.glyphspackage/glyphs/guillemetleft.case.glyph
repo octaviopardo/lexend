@@ -177,6 +177,7 @@ ref = guillemetleft;
 width = 660;
 },
 {
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
@@ -208,6 +209,7 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = guillemetleft;
 width = 538;
 },
 {
+color = 3;
 guides = (
 {
 pos = (127,126);
@@ -223,6 +225,7 @@ ref = guillemetleft;
 width = 550;
 },
 {
+color = 3;
 guides = (
 {
 pos = (261,90);

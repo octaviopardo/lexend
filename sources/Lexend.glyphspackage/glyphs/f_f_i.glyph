@@ -421,6 +421,7 @@ name = caret_2;
 pos = (661,0);
 }
 );
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
@@ -483,6 +484,7 @@ name = caret_2;
 pos = (686,0);
 }
 );
+color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
@@ -510,6 +512,7 @@ name = caret_2;
 pos = (739.333,0);
 }
 );
+color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {

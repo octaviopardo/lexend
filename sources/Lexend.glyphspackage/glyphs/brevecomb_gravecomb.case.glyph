@@ -523,6 +523,7 @@ ref = brevecomb_gravecomb;
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (49,894);
@@ -623,6 +624,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (104,750);
@@ -682,6 +684,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (181,762);

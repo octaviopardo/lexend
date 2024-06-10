@@ -275,6 +275,7 @@ ref = comma;
 width = 307;
 },
 {
+color = 3;
 guides = (
 {
 pos = (509,749);
@@ -302,6 +303,7 @@ ref = comma;
 width = 376;
 },
 {
+color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
@@ -341,6 +343,7 @@ nodes = (
 }
 );
 };
+color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {

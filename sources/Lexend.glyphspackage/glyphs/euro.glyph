@@ -1635,6 +1635,7 @@ nodes = (
 }
 );
 };
+color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
@@ -1851,6 +1852,7 @@ nodes = (
 }
 );
 };
+color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
@@ -1959,6 +1961,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;

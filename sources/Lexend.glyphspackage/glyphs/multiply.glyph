@@ -829,6 +829,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (253,102);
@@ -953,6 +954,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 pos = (275,527);
@@ -1018,6 +1020,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;

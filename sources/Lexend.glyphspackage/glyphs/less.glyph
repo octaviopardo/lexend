@@ -189,6 +189,7 @@ ref = greater;
 width = 630;
 },
 {
+color = 3;
 guides = (
 {
 pos = (259,303);
@@ -224,6 +225,7 @@ scale = (-1,1);
 width = 610;
 },
 {
+color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
@@ -235,6 +237,7 @@ scale = (-1,1);
 width = 605;
 },
 {
+color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {

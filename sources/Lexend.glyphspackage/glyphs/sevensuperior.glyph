@@ -149,6 +149,7 @@ ref = seven.numr;
 width = 365;
 },
 {
+color = 3;
 guides = (
 {
 pos = (301,779);
@@ -174,6 +175,7 @@ ref = seven.numr;
 width = 378;
 },
 {
+color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
@@ -185,6 +187,7 @@ ref = seven.numr;
 width = 325;
 },
 {
+color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {

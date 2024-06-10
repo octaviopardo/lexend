@@ -620,6 +620,7 @@ name = _rightcurrency;
 pos = (40,355);
 }
 );
+color = 3;
 guides = (
 {
 pos = (207,421);
@@ -697,6 +698,7 @@ name = _rightcurrency;
 pos = (28,484);
 }
 );
+color = 3;
 guides = (
 {
 angle = 180;
@@ -758,6 +760,7 @@ nodes = (
 }
 );
 };
+color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {

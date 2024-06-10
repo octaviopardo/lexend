@@ -1386,6 +1386,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -1598,6 +1599,7 @@ nodes = (
 }
 );
 };
+color = 3;
 guides = (
 {
 angle = 90;
@@ -1655,6 +1657,7 @@ nodes = (
 width = 685;
 },
 {
+color = 3;
 guides = (
 {
 angle = 90;
