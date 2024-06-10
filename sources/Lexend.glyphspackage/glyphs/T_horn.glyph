@@ -996,7 +996,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = P;
 };
-width = 701;
+width = 741;
 },
 {
 anchors = (

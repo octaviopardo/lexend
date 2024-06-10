@@ -840,7 +840,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = l;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = v;
 };
-width = 627;
+width = 657;
 },
 {
 anchors = (

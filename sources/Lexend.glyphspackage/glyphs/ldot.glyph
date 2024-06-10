@@ -391,11 +391,11 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (81,339);
+pos = (204,339);
 ref = period;
 }
 );
-width = 294;
+width = 442;
 },
 {
 background = {

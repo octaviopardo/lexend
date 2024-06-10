@@ -593,7 +593,7 @@ pos = (844,701);
 ref = U;
 },
 {
-pos = (371,1);
+pos = (351,1);
 ref = manatbar.currency;
 }
 );

@@ -494,7 +494,7 @@ nodes = (
 );
 }
 );
-width = 375;
+width = 388;
 },
 {
 background = {

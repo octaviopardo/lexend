@@ -936,11 +936,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (237,0);
+pos = (242,0);
 ref = doubleslash.currency;
 }
 );
-width = 841;
+width = 886;
 },
 {
 background = {

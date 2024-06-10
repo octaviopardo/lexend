@@ -199,11 +199,11 @@ shapes = (
 ref = ohorn;
 },
 {
-pos = (108,0);
+pos = (103,0);
 ref = gravecomb;
 }
 );
-width = 744;
+width = 734;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";

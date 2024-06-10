@@ -805,11 +805,11 @@ layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
 angle = 180;
-pos = (675,740);
+pos = (725,700);
 ref = six;
 }
 );
-width = 675;
+width = 725;
 },
 {
 background = {

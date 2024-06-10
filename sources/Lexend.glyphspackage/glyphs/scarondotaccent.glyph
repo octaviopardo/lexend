@@ -195,7 +195,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (64,0);
+pos = (69,0);
 ref = caroncomb_dotaccentcomb;
 }
 );

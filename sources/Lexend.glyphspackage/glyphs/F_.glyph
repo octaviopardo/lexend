@@ -1067,7 +1067,7 @@ nodes = (
 userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
 };
-width = 701;
+width = 735;
 },
 {
 anchors = (

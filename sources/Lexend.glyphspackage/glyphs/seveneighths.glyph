@@ -305,15 +305,15 @@ shapes = (
 ref = seven.numr;
 },
 {
-pos = (325,0);
+pos = (338,0);
 ref = fraction;
 },
 {
-pos = (620,0);
+pos = (773,0);
 ref = eight.dnom;
 }
 );
-width = 1068;
+width = 1249;
 },
 {
 background = {

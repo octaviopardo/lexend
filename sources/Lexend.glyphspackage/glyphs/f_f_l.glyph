@@ -413,11 +413,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (320,0);
+pos = (348,0);
 ref = f;
 },
 {
-pos = (710,0);
+pos = (766,0);
 ref = l;
 }
 );
@@ -425,7 +425,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = l;
 };
-width = 1072;
+width = 1128;
 },
 {
 anchors = (

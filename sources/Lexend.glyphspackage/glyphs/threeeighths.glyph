@@ -301,15 +301,15 @@ shapes = (
 ref = three.numr;
 },
 {
-pos = (435,0);
+pos = (398,0);
 ref = fraction;
 },
 {
-pos = (730,0);
+pos = (833,0);
 ref = eight.dnom;
 }
 );
-width = 1178;
+width = 1309;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";

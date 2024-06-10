@@ -193,11 +193,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-129,0);
+pos = (-69,0);
 ref = circumflexcomb;
 }
 );
-width = 304;
+width = 362;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";

@@ -1579,11 +1579,11 @@ ref = fraction;
 },
 {
 alignment = 1;
-pos = (709,0);
+pos = (849,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1093;
+width = 1233;
 },
 {
 background = {

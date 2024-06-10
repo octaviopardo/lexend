@@ -2132,7 +2132,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = n;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = o;
 };
-width = 772;
+width = 767;
 },
 {
 anchors = (

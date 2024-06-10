@@ -700,7 +700,7 @@ shapes = (
 ref = won.bold;
 },
 {
-pos = (243,-27);
+pos = (253,-27);
 ref = centerbar.currency;
 scale = (1.1559,1);
 }

@@ -65,16 +65,16 @@ layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
 shapes = (
 {
 alignment = -1;
-pos = (50,0);
+pos = (20,0);
 ref = l;
 },
 {
 alignment = 1;
-pos = (-10,0);
+pos = (-39,0);
 ref = slash.lc;
 }
 );
-width = 297;
+width = 202;
 },
 {
 background = {
@@ -481,16 +481,15 @@ layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
 alignment = -1;
-pos = (-35,0);
 ref = l;
 },
 {
 alignment = 1;
-pos = (5,0);
+pos = (40,0);
 ref = slash.lc;
 }
 );
-width = 290;
+width = 362;
 },
 {
 background = {

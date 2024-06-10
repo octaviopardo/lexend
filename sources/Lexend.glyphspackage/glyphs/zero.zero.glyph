@@ -420,7 +420,7 @@ alignment = 1;
 ref = zero;
 },
 {
-pos = (230,324);
+pos = (240,324);
 ref = period;
 }
 );
@@ -428,7 +428,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = zero;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = zero;
 };
-width = 856;
+width = 876;
 },
 {
 background = {

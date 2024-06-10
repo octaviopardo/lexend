@@ -1232,7 +1232,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = O;
 };
-width = 922;
+width = 927;
 },
 {
 anchors = (

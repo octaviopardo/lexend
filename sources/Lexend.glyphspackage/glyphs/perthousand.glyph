@@ -810,7 +810,7 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1093,0);
+pos = (1233,0);
 ref = zero.percent.dnom;
 }
 );
@@ -818,7 +818,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = percent;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = percent;
 };
-width = 1477;
+width = 1617;
 },
 {
 background = {

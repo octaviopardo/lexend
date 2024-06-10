@@ -779,11 +779,11 @@ pos = (20,0);
 ref = W;
 },
 {
-pos = (43,-28);
+pos = (53,-28);
 ref = leftbar.currency;
 },
 {
-pos = (772,-27);
+pos = (782,-27);
 ref = rigthbar.currency;
 }
 );

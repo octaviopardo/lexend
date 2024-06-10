@@ -755,14 +755,14 @@ shapes = (
 ref = C;
 },
 {
-pos = (62,0);
+pos = (67,0);
 ref = bar.currency;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = C;
 };
-width = 841;
+width = 886;
 },
 {
 background = {

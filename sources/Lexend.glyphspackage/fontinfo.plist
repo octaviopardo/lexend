@@ -42337,7 +42337,6 @@ two = -50;
 "@MMK_L_j" = {
 "@MMK_R_T" = -30;
 "@MMK_R_U" = -10;
-"@MMK_R_j" = 5;
 };
 "@MMK_L_k" = {
 "@MMK_R_C" = -10;
@@ -42379,7 +42378,6 @@ periodcentered = -40;
 "@MMK_R_c" = -10;
 "@MMK_R_g" = -10;
 "@MMK_R_j" = 0;
-"@MMK_R_t" = -3;
 "@MMK_R_u" = -5;
 "@MMK_R_v" = -25;
 "@MMK_R_w" = -15;

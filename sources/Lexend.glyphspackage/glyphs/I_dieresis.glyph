@@ -203,11 +203,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (23,0);
+pos = (-2,0);
 ref = dieresiscomb.case;
 }
 );
-width = 546;
+width = 496;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";

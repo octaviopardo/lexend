@@ -206,7 +206,7 @@ shapes = (
 ref = f;
 },
 {
-pos = (390,0);
+pos = (418,0);
 ref = l;
 }
 );
@@ -214,7 +214,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = "+10";
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = "+10";
 };
-width = 752;
+width = 780;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";

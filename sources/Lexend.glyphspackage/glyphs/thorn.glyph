@@ -1430,7 +1430,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = p;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = p;
 };
-width = 772;
+width = 767;
 },
 {
 anchors = (
