@@ -1,0 +1,372 @@
+{
+glyphname = Ddotbelow;
+kernLeft = H;
+kernRight = D;
+layers = (
+{
+layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (99,0);
+ref = dotbelowcomb;
+}
+);
+width = 737;
+},
+{
+layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (125,0);
+ref = dotbelowcomb;
+}
+);
+width = 765;
+},
+{
+layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (149,0);
+ref = dotbelowcomb;
+}
+);
+width = 790;
+},
+{
+layerId = "9FF8E21A-ED06-4F66-AEDE-2CE647DC4B08";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (141,0);
+ref = dotbelowcomb;
+}
+);
+width = 892;
+},
+{
+layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (164,0);
+ref = dotbelowcomb;
+}
+);
+width = 904;
+},
+{
+layerId = "ED109265-B005-47B0-97BD-F1815082B32B";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (168,0);
+ref = dotbelowcomb;
+}
+);
+width = 930;
+},
+{
+layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (120,0);
+ref = dotbelowcomb;
+}
+);
+width = 742;
+},
+{
+layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (118,0);
+ref = dotbelowcomb;
+}
+);
+width = 737;
+},
+{
+layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (123,0);
+ref = dotbelowcomb;
+}
+);
+width = 744;
+},
+{
+layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (150,0);
+ref = dotbelowcomb;
+}
+);
+width = 790;
+},
+{
+layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (122,0);
+ref = dotbelowcomb;
+}
+);
+width = 765;
+},
+{
+layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (164,0);
+ref = dotbelowcomb;
+}
+);
+width = 893;
+},
+{
+layerId = "210AF8B6-7730-458C-980B-516175326DAB";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (185,0);
+ref = dotbelowcomb;
+}
+);
+width = 931;
+},
+{
+layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (168,0);
+ref = dotbelowcomb;
+}
+);
+width = 904;
+},
+{
+layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (199,0);
+ref = dotbelowcomb;
+}
+);
+width = 922;
+},
+{
+layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (212,0);
+ref = dotbelowcomb;
+}
+);
+width = 914;
+},
+{
+layerId = "B37EE612-3452-4020-8432-4D908928325E";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (197,0);
+ref = dotbelowcomb;
+}
+);
+width = 899;
+},
+{
+layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (205,0);
+ref = dotbelowcomb;
+}
+);
+width = 900;
+},
+{
+layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (230,0);
+ref = dotbelowcomb;
+}
+);
+width = 1046;
+},
+{
+layerId = "56E2E529-1525-41E1-A6C9-F61509B51536";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (261,0);
+ref = dotbelowcomb;
+}
+);
+width = 1074;
+},
+{
+layerId = "ECA432A1-DADC-473D-86B5-C0054BBC86FE";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (266,0);
+ref = dotbelowcomb;
+}
+);
+width = 1099;
+},
+{
+layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (218,0);
+ref = dotbelowcomb;
+}
+);
+width = 922;
+},
+{
+layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (216,0);
+ref = dotbelowcomb;
+}
+);
+width = 916;
+},
+{
+layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (193,0);
+ref = dotbelowcomb;
+}
+);
+width = 899;
+},
+{
+layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (206,0);
+ref = dotbelowcomb;
+}
+);
+width = 900;
+},
+{
+layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (253,0);
+ref = dotbelowcomb;
+}
+);
+width = 1047;
+},
+{
+layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (265,0);
+ref = dotbelowcomb;
+}
+);
+width = 1074;
+},
+{
+layerId = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (282,0);
+ref = dotbelowcomb;
+}
+);
+width = 1099;
+}
+);
+unicode = 7692;
+}
