@@ -6,7 +6,6 @@ layers = (
 background = {
 shapes = (
 {
-pos = (30,0);
 ref = percent;
 },
 {
@@ -53,11 +52,11 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1324,0);
+pos = (910,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1672;
+width = 1276;
 },
 {
 background = {
@@ -110,11 +109,11 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1484,0);
+pos = (1084,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1893;
+width = 1493;
 },
 {
 background = {
@@ -166,7 +165,7 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1286,0);
+pos = (843,0);
 ref = zero.percent.dnom;
 }
 );
@@ -174,7 +173,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = percent;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = percent;
 };
-width = 1626;
+width = 1187;
 },
 {
 background = {
@@ -399,7 +398,7 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1285,0);
+pos = (863,0);
 ref = zero.percent.dnom;
 }
 );
@@ -407,7 +406,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = percent;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = percent;
 };
-width = 1624;
+width = 1222;
 },
 {
 background = {
@@ -459,11 +458,11 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1294,0);
+pos = (843,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1638;
+width = 1187;
 },
 {
 background = {
@@ -516,11 +515,11 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1288,0);
+pos = (862,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1628;
+width = 1220;
 },
 {
 background = {
@@ -569,11 +568,11 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1482,0);
+pos = (1084,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1890;
+width = 1493;
 },
 {
 background = {
@@ -626,11 +625,11 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1322,0);
+pos = (910,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1670;
+width = 1276;
 },
 {
 background = {

@@ -91,16 +91,16 @@ alignment = 1;
 ref = zero.percent.numr;
 },
 {
-pos = (348,0);
+pos = (366,0);
 ref = fraction;
 },
 {
 alignment = 1;
-pos = (976,0);
+pos = (544,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1324;
+width = 910;
 },
 {
 background = {
@@ -196,11 +196,11 @@ ref = fraction;
 },
 {
 alignment = 1;
-pos = (1075,0);
+pos = (675,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1484;
+width = 1084;
 },
 {
 background = {
@@ -291,16 +291,16 @@ alignment = 1;
 ref = zero.percent.numr;
 },
 {
-pos = (340,0);
+pos = (344,0);
 ref = fraction;
 },
 {
 alignment = 1;
-pos = (946,0);
+pos = (499,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1286;
+width = 843;
 },
 {
 background = {
@@ -691,16 +691,16 @@ alignment = 1;
 ref = zero.percent.numr;
 },
 {
-pos = (339,0);
+pos = (359,0);
 ref = fraction;
 },
 {
 alignment = 1;
-pos = (946,0);
+pos = (504,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1285;
+width = 863;
 },
 {
 background = {
@@ -826,11 +826,11 @@ ref = fraction;
 },
 {
 alignment = 1;
-pos = (950,0);
+pos = (499,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1294;
+width = 843;
 },
 {
 background = {
@@ -927,16 +927,16 @@ alignment = 1;
 ref = zero.percent.numr;
 },
 {
-pos = (341,0);
+pos = (359,0);
 ref = fraction;
 },
 {
 alignment = 1;
-pos = (948,0);
+pos = (504,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1288;
+width = 862;
 },
 {
 background = {
@@ -1082,16 +1082,16 @@ alignment = 1;
 ref = zero.percent.numr;
 },
 {
-pos = (408,0);
+pos = (409,0);
 ref = fraction;
 },
 {
 alignment = 1;
-pos = (1074,0);
+pos = (675,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1482;
+width = 1084;
 },
 {
 background = {
@@ -1206,16 +1206,16 @@ alignment = 1;
 ref = zero.percent.numr;
 },
 {
-pos = (348,0);
+pos = (366,0);
 ref = fraction;
 },
 {
 alignment = 1;
-pos = (974,0);
+pos = (544,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1322;
+width = 910;
 },
 {
 background = {

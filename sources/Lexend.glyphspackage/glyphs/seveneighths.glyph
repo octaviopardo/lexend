@@ -13,11 +13,11 @@ pos = (278,0);
 ref = fraction;
 },
 {
-pos = (906,0);
+pos = (456,0);
 ref = eight.dnom;
 }
 );
-width = 1311;
+width = 861;
 },
 {
 background = {
@@ -47,11 +47,11 @@ pos = (318,0);
 ref = fraction;
 },
 {
-pos = (984,0);
+pos = (584,0);
 ref = eight.dnom;
 }
 );
-width = 1436;
+width = 1036;
 },
 {
 layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
@@ -64,11 +64,11 @@ pos = (284,0);
 ref = fraction;
 },
 {
-pos = (860,0);
+pos = (409,0);
 ref = eight.dnom;
 }
 );
-width = 1255;
+width = 804;
 },
 {
 layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
@@ -169,14 +169,14 @@ pos = (289,0);
 ref = fraction;
 },
 {
-pos = (876,0);
+pos = (414,0);
 ref = eight.dnom;
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = eight;
 };
-width = 1270;
+width = 808;
 },
 {
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
@@ -189,11 +189,11 @@ pos = (284,0);
 ref = fraction;
 },
 {
-pos = (861,0);
+pos = (410,0);
 ref = eight.dnom;
 }
 );
-width = 1256;
+width = 805;
 },
 {
 layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
@@ -206,11 +206,11 @@ pos = (288,0);
 ref = fraction;
 },
 {
-pos = (875,0);
+pos = (413,0);
 ref = eight.dnom;
 }
 );
-width = 1269;
+width = 807;
 },
 {
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
@@ -223,11 +223,11 @@ pos = (318,0);
 ref = fraction;
 },
 {
-pos = (984,0);
+pos = (584,0);
 ref = eight.dnom;
 }
 );
-width = 1436;
+width = 1036;
 },
 {
 layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
@@ -240,11 +240,11 @@ pos = (278,0);
 ref = fraction;
 },
 {
-pos = (904,0);
+pos = (456,0);
 ref = eight.dnom;
 }
 );
-width = 1309;
+width = 861;
 },
 {
 layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
