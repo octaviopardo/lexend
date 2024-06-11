@@ -167,7 +167,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = at;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = at;
 };
-width = 1135;
+width = 1115;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";

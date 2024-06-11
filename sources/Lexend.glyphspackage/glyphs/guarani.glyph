@@ -710,11 +710,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (46,0);
+pos = (40,0);
 ref = bar.currency;
 }
 );
-width = 881;
+width = 883;
 },
 {
 background = {

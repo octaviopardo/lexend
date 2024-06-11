@@ -668,11 +668,11 @@ alignment = 1;
 ref = sterling.base;
 },
 {
-pos = (271,53);
+pos = (281,53);
 ref = singledash.currency;
 }
 );
-width = 700;
+width = 720;
 },
 {
 background = {

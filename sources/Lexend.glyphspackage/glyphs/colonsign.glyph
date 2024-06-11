@@ -940,7 +940,7 @@ pos = (242,0);
 ref = doubleslash.currency;
 }
 );
-width = 886;
+width = 896;
 },
 {
 background = {
@@ -1120,11 +1120,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (54,0);
+pos = (48,0);
 ref = doubleslash.currency;
 }
 );
-width = 775;
+width = 805;
 },
 {
 background = {

@@ -174,7 +174,7 @@ ref = emdash;
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = hyphen;
 };
-width = 1045;
+width = 925;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";

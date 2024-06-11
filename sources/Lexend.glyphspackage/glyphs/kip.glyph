@@ -844,7 +844,7 @@ ref = kipbar.currency;
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = K;
 };
-width = 863;
+width = 938;
 },
 {
 background = {

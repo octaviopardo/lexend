@@ -909,7 +909,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = peso;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = P;
 };
-width = 813;
+width = 853;
 },
 {
 background = {

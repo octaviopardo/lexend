@@ -649,7 +649,7 @@ alignment = 1;
 ref = sterling.base;
 },
 {
-pos = (271,73);
+pos = (281,73);
 ref = doubledash.currency;
 }
 );
@@ -657,7 +657,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = sterling;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = sterling;
 };
-width = 700;
+width = 720;
 },
 {
 background = {

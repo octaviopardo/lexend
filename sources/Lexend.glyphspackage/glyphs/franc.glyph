@@ -568,7 +568,7 @@ pos = (0,11);
 ref = bar2.currency;
 }
 );
-width = 775;
+width = 809;
 },
 {
 background = {

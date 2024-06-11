@@ -741,31 +741,31 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(185,316,l),
-(179,337,l),
-(25,337,l),
-(25,316,l)
+(206,316,l),
+(200,337,l),
+(46,337,l),
+(46,316,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(924,316,l),
-(924,337,l),
-(770,337,l),
-(766,316,l)
+(945,316,l),
+(945,337,l),
+(791,337,l),
+(787,316,l)
 );
 },
 {
-pos = (20,0);
+pos = (41,0);
 ref = W;
 },
 {
-pos = (0,154);
+pos = (21,154);
 ref = leftbar.currency;
 },
 {
-pos = (564,154);
+pos = (585,154);
 ref = rigthbar.currency;
 }
 );
@@ -775,15 +775,15 @@ layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
 alignment = -1;
-pos = (20,0);
+pos = (41,0);
 ref = W;
 },
 {
-pos = (53,-28);
+pos = (74,-28);
 ref = leftbar.currency;
 },
 {
-pos = (782,-27);
+pos = (803,-27);
 ref = rigthbar.currency;
 }
 );
@@ -791,7 +791,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = W;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = W;
 };
-width = 949;
+width = 1104;
 },
 {
 background = {
@@ -929,11 +929,11 @@ pos = (20,0);
 ref = W;
 },
 {
-pos = (-19,-138);
+pos = (13,-138);
 ref = leftbar.currency;
 },
 {
-pos = (851,-137);
+pos = (883,-137);
 ref = rigthbar.currency;
 }
 );
