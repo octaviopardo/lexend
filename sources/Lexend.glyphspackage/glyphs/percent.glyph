@@ -1574,16 +1574,16 @@ alignment = 1;
 ref = zero.percent.numr;
 },
 {
-pos = (384,0);
+pos = (414,0);
 ref = fraction;
 },
 {
 alignment = 1;
-pos = (849,0);
+pos = (829,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1233;
+width = 1243;
 },
 {
 background = {
@@ -1876,16 +1876,16 @@ alignment = 1;
 ref = zero.percent.numr;
 },
 {
-pos = (434,0);
+pos = (444,0);
 ref = fraction;
 },
 {
 alignment = 1;
-pos = (1120,0);
+pos = (790,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1554;
+width = 1234;
 },
 {
 background = {

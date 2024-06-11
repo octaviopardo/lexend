@@ -180,12 +180,11 @@ color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
-alignment = -1;
 pos = (0,330);
 ref = three.dnom;
 }
 );
-width = 378;
+width = 518;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

@@ -325,11 +325,11 @@ pos = (398,0);
 ref = fraction;
 },
 {
-pos = (833,0);
+pos = (783,0);
 ref = eight.dnom;
 }
 );
-width = 1309;
+width = 1259;
 },
 {
 background = {
@@ -414,15 +414,15 @@ shapes = (
 ref = five.numr;
 },
 {
-pos = (372,0);
+pos = (501,0);
 ref = fraction;
 },
 {
-pos = (1058,0);
+pos = (847,0);
 ref = eight.dnom;
 }
 );
-width = 1590;
+width = 1399;
 },
 {
 background = {

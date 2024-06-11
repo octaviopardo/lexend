@@ -809,7 +809,7 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1233,0);
+pos = (1243,0);
 ref = zero.percent.dnom;
 }
 );
@@ -817,7 +817,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = percent;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = percent;
 };
-width = 1617;
+width = 1657;
 },
 {
 background = {
@@ -987,11 +987,11 @@ ref = percent;
 },
 {
 alignment = 1;
-pos = (1554,0);
+pos = (1234,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1988;
+width = 1678;
 },
 {
 background = {
