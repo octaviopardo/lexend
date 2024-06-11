@@ -757,11 +757,11 @@ shapes = (
 ref = sterling.base;
 },
 {
-pos = (247,83);
+pos = (251,83);
 ref = singledash.currency;
 }
 );
-width = 673;
+width = 679;
 },
 {
 background = {

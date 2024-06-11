@@ -644,14 +644,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(501,62,l),
-(501,197,l),
-(17,197,l),
-(17,62,l)
+(491,62,l),
+(491,197,l),
+(7,197,l),
+(7,62,l)
 );
 },
 {
-pos = (50,0);
+pos = (40,0);
 ref = F;
 }
 );
@@ -661,16 +661,16 @@ layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
 alignment = -1;
-pos = (49,0);
+pos = (39,0);
 ref = F;
 },
 {
 alignment = 1;
-pos = (0,21);
+pos = (-10,21);
 ref = bar2.currency;
 }
 );
-width = 742;
+width = 776;
 },
 {
 background = {

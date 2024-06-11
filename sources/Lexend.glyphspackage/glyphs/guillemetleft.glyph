@@ -33,17 +33,16 @@ width = 501;
 {
 guides = (
 {
-pos = (393,9);
+pos = (398,9);
 }
 );
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
-pos = (265,0);
+pos = (270,0);
 ref = guilsinglleft;
 },
 {
-pos = (-5,0);
 ref = guilsinglleft;
 }
 );

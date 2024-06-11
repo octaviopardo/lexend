@@ -374,21 +374,18 @@ color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
-alignment = -1;
 ref = three.numr;
 },
 {
-alignment = -1;
 pos = (378,0);
 ref = fraction;
 },
 {
-alignment = -1;
-pos = (826,0);
+pos = (1064,0);
 ref = eight.dnom;
 }
 );
-width = 1294;
+width = 1596;
 },
 {
 background = {

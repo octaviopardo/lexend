@@ -996,19 +996,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(577,60,l),
-(577,168,l),
-(83,168,l),
-(83,60,l)
+(567,60,l),
+(567,168,l),
+(73,168,l),
+(73,60,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(295,200,l),
-(295,383,l),
-(83,383,l),
-(83,200,l)
+(285,200,l),
+(285,383,l),
+(73,383,l),
+(73,200,l)
 );
 }
 );
@@ -1016,29 +1016,29 @@ nodes = (
 color = 3;
 guides = (
 {
-pos = (215,200);
+pos = (205,200);
 },
 {
-pos = (243,383);
+pos = (233,383);
 }
 );
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
 alignment = -1;
-pos = (64,0);
+pos = (54,0);
 ref = P;
 },
 {
-pos = (0,1);
+pos = (-10,1);
 ref = bar2.currency;
 },
 {
-pos = (72,-164);
+pos = (62,-164);
 ref = leftbarbottom.currency;
 }
 );
-width = 822;
+width = 862;
 },
 {
 background = {

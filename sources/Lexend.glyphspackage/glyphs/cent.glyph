@@ -805,7 +805,7 @@ pos = (258,0);
 ref = shortbar.currency;
 }
 );
-width = 594;
+width = 633;
 },
 {
 background = {

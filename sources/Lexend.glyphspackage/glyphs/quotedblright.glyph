@@ -269,18 +269,18 @@ width = 534;
 color = 3;
 guides = (
 {
-pos = (227,748);
+pos = (263,748);
 }
 );
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
 angle = 180;
-pos = (565,1134);
+pos = (601,1134);
 ref = quotedblleft;
 }
 );
-width = 565;
+width = 601;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

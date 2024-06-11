@@ -647,11 +647,11 @@ shapes = (
 ref = naira.bold;
 },
 {
-pos = (273,0);
+pos = (263,0);
 ref = centerbar.currency;
 }
 );
-width = 1059;
+width = 1039;
 },
 {
 background = {

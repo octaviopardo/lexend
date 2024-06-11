@@ -1881,11 +1881,11 @@ ref = fraction;
 },
 {
 alignment = 1;
-pos = (882,0);
+pos = (1120,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1316;
+width = 1554;
 },
 {
 background = {

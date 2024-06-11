@@ -933,23 +933,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(808,382,l),
-(808,527,l),
-(577,527,l),
-(577,382,l)
+(798,382,l),
+(798,527,l),
+(567,527,l),
+(567,382,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(17,527,l),
-(17,382,l),
-(215,382,l),
-(215,527,l)
+(7,527,l),
+(7,382,l),
+(205,382,l),
+(205,527,l)
 );
 },
 {
-pos = (61,0);
+pos = (51,0);
 ref = P;
 }
 );
@@ -959,19 +959,19 @@ layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
 alignment = -1;
-pos = (61,0);
+pos = (51,0);
 ref = P;
 },
 {
-pos = (69,2);
+pos = (59,2);
 ref = leftbar.currency;
 },
 {
-pos = (661,2);
+pos = (651,2);
 ref = rigthbar.currency;
 }
 );
-width = 966;
+width = 946;
 },
 {
 background = {

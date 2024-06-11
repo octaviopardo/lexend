@@ -509,12 +509,12 @@ alignment = 1;
 ref = zero;
 },
 {
-pos = (287,270);
+pos = (252,270);
 ref = period;
 scale = (0.8557,0.8557);
 }
 );
-width = 846;
+width = 806;
 },
 {
 background = {

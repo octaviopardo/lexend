@@ -563,10 +563,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(536,401,l),
-(474,564,l),
-(67,387,l),
-(129,224,l)
+(519,401,l),
+(457,564,l),
+(50,387,l),
+(112,224,l)
 );
 }
 );
@@ -576,15 +576,15 @@ layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
 alignment = -1;
-pos = (27,0);
+pos = (10,0);
 ref = l;
 },
 {
-pos = (22,0);
+pos = (5,0);
 ref = slash.lc;
 }
 );
-width = 477;
+width = 443;
 },
 {
 background = {

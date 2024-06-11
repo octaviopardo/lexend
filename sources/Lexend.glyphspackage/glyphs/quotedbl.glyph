@@ -41,11 +41,10 @@ width = 384;
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
-pos = (30,0);
 ref = quotesingle;
 },
 {
-pos = (274,0);
+pos = (244,0);
 ref = quotesingle;
 }
 );
@@ -429,7 +428,7 @@ pos = (244,0);
 ref = quotesingle;
 }
 );
-width = 540;
+width = 570;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

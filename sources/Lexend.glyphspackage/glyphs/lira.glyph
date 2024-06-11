@@ -779,11 +779,11 @@ alignment = 1;
 ref = sterling.base;
 },
 {
-pos = (247,129);
+pos = (251,129);
 ref = doubledash.currency;
 }
 );
-width = 673;
+width = 679;
 },
 {
 background = {

@@ -327,15 +327,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (335,0);
+pos = (405,0);
 ref = fraction;
 },
 {
-pos = (733,0);
+pos = (1041,0);
 ref = four.dnom;
 }
 );
-width = 1135;
+width = 1525;
 },
 {
 background = {

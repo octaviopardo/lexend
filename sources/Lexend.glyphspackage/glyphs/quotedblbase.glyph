@@ -413,7 +413,7 @@ width = 534;
 background = {
 shapes = (
 {
-pos = (16,0);
+pos = (48,0);
 ref = comma;
 }
 );
@@ -423,11 +423,11 @@ layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
 angle = 180;
-pos = (545,572);
+pos = (577,572);
 ref = quotedblleft;
 }
 );
-width = 565;
+width = 601;
 },
 {
 background = {

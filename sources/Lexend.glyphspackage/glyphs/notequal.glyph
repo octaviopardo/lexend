@@ -729,7 +729,7 @@ ref = equal;
 },
 {
 alignment = -1;
-pos = (62,0);
+pos = (32,0);
 ref = ne.fig;
 }
 );

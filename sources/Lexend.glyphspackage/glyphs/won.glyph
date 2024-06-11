@@ -809,11 +809,11 @@ shapes = (
 ref = won.bold;
 },
 {
-pos = (301,-17);
+pos = (299,-17);
 ref = centerbar.currency;
 }
 );
-width = 1068;
+width = 1128;
 },
 {
 background = {

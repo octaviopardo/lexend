@@ -500,7 +500,7 @@ shapes = (
 ref = peseta.bold;
 },
 {
-pos = (215,117);
+pos = (205,117);
 ref = centerbar.currency;
 }
 );
