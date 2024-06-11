@@ -878,11 +878,11 @@ pos = (-22,0);
 ref = W;
 },
 {
-pos = (-12,-163);
+pos = (2,-163);
 ref = leftbar.currency;
 },
 {
-pos = (782,-162);
+pos = (796,-162);
 ref = rigthbar.currency;
 }
 );

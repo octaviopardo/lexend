@@ -230,11 +230,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (7,0);
+pos = (13,0);
 ref = dieresiscomb.case;
 }
 );
-width = 514;
+width = 526;
 },
 {
 color = 3;

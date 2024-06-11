@@ -220,11 +220,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-81,0);
+pos = (-67,0);
 ref = circumflexcomb;
 }
 );
-width = 349;
+width = 363;
 },
 {
 color = 3;

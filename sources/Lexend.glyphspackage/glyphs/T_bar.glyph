@@ -605,11 +605,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (124,0);
+pos = (140,0);
 ref = ShortBar.UC;
 }
 );
-width = 630;
+width = 662;
 },
 {
 background = {

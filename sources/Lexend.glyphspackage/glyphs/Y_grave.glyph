@@ -226,11 +226,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (75,0);
+pos = (99,0);
 ref = gravecomb.case;
 }
 );
-width = 685;
+width = 733;
 },
 {
 color = 3;

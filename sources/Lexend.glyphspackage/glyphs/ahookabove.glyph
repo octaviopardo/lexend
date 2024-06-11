@@ -226,11 +226,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (109,0);
+pos = (117,0);
 ref = hookabovecomb;
 }
 );
-width = 733;
+width = 741;
 },
 {
 color = 3;

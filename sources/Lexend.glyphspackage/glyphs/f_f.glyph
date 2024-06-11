@@ -241,11 +241,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (330,0);
+pos = (354,0);
 ref = f;
 }
 );
-width = 730;
+width = 778;
 },
 {
 color = 3;
@@ -255,11 +255,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (407,0);
+pos = (399,0);
 ref = f;
 }
 );
-width = 874;
+width = 858;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

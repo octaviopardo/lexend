@@ -220,11 +220,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (76,0);
+pos = (106,0);
 ref = dotbelowcomb;
 }
 );
-width = 698;
+width = 740;
 },
 {
 color = 3;

@@ -220,11 +220,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (214,0);
+pos = (244,0);
 ref = dotbelowcomb;
 }
 );
-width = 577;
+width = 637;
 },
 {
 color = 3;

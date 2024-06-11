@@ -1039,7 +1039,7 @@ pos = (176,0);
 ref = doubleslash.currency;
 }
 );
-width = 795;
+width = 838;
 },
 {
 background = {

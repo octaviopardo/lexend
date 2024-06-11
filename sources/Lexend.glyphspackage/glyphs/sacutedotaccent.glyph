@@ -220,11 +220,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (86,0);
+pos = (77,0);
 ref = acutecomb_dotaccentcomb;
 }
 );
-width = 633;
+width = 610;
 },
 {
 color = 3;

@@ -356,11 +356,11 @@ pos = (363,0);
 ref = jdotless;
 },
 {
-pos = (302,0);
+pos = (316,0);
 ref = acutecomb;
 }
 );
-width = 712;
+width = 726;
 },
 {
 color = 3;

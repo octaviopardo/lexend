@@ -224,11 +224,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (96,0);
+pos = (104,0);
 ref = macroncomb;
 }
 );
-width = 647;
+width = 655;
 },
 {
 color = 3;

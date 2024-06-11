@@ -220,11 +220,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (68,0);
+pos = (84,0);
 ref = macronbelowcomb;
 }
 );
-width = 630;
+width = 662;
 },
 {
 color = 3;

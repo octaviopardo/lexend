@@ -230,7 +230,7 @@ pos = (81,0);
 ref = commaaccentcomb;
 }
 );
-width = 646;
+width = 680;
 },
 {
 color = 3;

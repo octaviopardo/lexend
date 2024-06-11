@@ -220,11 +220,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (274,0);
+pos = (288,0);
 ref = gravecomb.case;
 }
 );
-width = 1068;
+width = 1096;
 },
 {
 color = 3;

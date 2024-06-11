@@ -228,11 +228,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (162,0);
+pos = (178,0);
 ref = macroncomb_dieresiscomb.case;
 }
 );
-width = 824;
+width = 856;
 },
 {
 color = 3;

@@ -230,11 +230,11 @@ shapes = (
 ref = z;
 },
 {
-pos = (2,-7);
+pos = (24,-7);
 ref = caroncomb;
 }
 );
-width = 520;
+width = 564;
 },
 {
 color = 3;

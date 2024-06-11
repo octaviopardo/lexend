@@ -228,11 +228,11 @@ shapes = (
 ref = Z;
 },
 {
-pos = (80,0);
+pos = (115,0);
 ref = caroncomb.case;
 }
 );
-width = 676;
+width = 746;
 },
 {
 color = 3;

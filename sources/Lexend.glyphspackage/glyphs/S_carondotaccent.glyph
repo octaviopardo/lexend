@@ -290,15 +290,15 @@ shapes = (
 ref = S;
 },
 {
-pos = (104,0);
+pos = (134,0);
 ref = caroncomb.case;
 },
 {
-pos = (114,150);
+pos = (144,150);
 ref = dotaccentcomb.case;
 }
 );
-width = 698;
+width = 740;
 },
 {
 color = 3;

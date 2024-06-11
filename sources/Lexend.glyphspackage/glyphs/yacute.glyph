@@ -221,11 +221,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (68,0);
+pos = (98,0);
 ref = acutecomb;
 }
 );
-width = 577;
+width = 637;
 },
 {
 color = 3;

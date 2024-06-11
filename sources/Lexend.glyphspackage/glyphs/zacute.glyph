@@ -222,11 +222,11 @@ shapes = (
 ref = z;
 },
 {
-pos = (22,0);
+pos = (44,0);
 ref = acutecomb;
 }
 );
-width = 520;
+width = 564;
 },
 {
 color = 3;

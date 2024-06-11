@@ -228,11 +228,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (104,0);
+pos = (112,0);
 ref = tildecomb_dieresiscomb;
 }
 );
-width = 711;
+width = 727;
 },
 {
 color = 3;

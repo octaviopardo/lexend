@@ -222,11 +222,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (151,7);
+pos = (159,7);
 ref = hungarumlautcomb;
 }
 );
-width = 711;
+width = 727;
 },
 {
 color = 3;

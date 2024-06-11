@@ -220,11 +220,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (165,148);
+pos = (175,148);
 ref = caroncomb.alt;
 }
 );
-width = 444;
+width = 464;
 },
 {
 color = 3;

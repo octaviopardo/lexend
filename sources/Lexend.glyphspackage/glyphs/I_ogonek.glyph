@@ -220,11 +220,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (88,0);
+pos = (94,0);
 ref = ogonekcomb.case;
 }
 );
-width = 514;
+width = 526;
 },
 {
 color = 3;

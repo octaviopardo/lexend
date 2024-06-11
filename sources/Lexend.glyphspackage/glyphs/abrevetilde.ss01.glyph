@@ -222,11 +222,11 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (78,-7);
+pos = (80,-7);
 ref = brevecomb_tildecomb;
 }
 );
-width = 682;
+width = 684;
 },
 {
 color = 3;

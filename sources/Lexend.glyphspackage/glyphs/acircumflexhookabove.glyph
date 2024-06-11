@@ -222,11 +222,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (110,-7);
+pos = (118,-7);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 733;
+width = 741;
 },
 {
 color = 3;

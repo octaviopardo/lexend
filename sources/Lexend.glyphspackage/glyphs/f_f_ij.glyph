@@ -568,15 +568,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (330,0);
+pos = (354,0);
 ref = f;
 },
 {
-pos = (730,0);
+pos = (778,0);
 ref = ij;
 }
 );
-width = 1442;
+width = 1504;
 },
 {
 anchors = (
@@ -600,15 +600,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (407,0);
+pos = (399,0);
 ref = f;
 },
 {
-pos = (874,0);
+pos = (858,0);
 ref = ij;
 }
 );
-width = 1720;
+width = 1704;
 },
 {
 anchors = (

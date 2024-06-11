@@ -284,15 +284,15 @@ shapes = (
 ref = s;
 },
 {
-pos = (56,0);
+pos = (47,0);
 ref = dotbelowcomb;
 },
 {
-pos = (64,0);
+pos = (55,0);
 ref = dotaccentcomb;
 }
 );
-width = 633;
+width = 610;
 },
 {
 color = 3;

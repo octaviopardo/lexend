@@ -226,11 +226,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (125,0);
+pos = (142,0);
 ref = brevecomb_acutecomb.case;
 }
 );
-width = 750;
+width = 784;
 },
 {
 color = 3;

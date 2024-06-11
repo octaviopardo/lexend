@@ -356,19 +356,19 @@ shapes = (
 ref = I;
 },
 {
-pos = (17,0);
+pos = (23,0);
 ref = acutecomb.case;
 },
 {
-pos = (499,0);
+pos = (511,0);
 ref = J;
 },
 {
-pos = (685,0);
+pos = (697,0);
 ref = acutecomb.case;
 }
 );
-width = 1150;
+width = 1162;
 },
 {
 color = 3;

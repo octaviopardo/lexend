@@ -222,11 +222,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (53,0);
+pos = (61,0);
 ref = dblgravecomb;
 }
 );
-width = 733;
+width = 741;
 },
 {
 color = 3;

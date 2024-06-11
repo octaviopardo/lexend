@@ -224,11 +224,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (105,0);
+pos = (135,0);
 ref = circumflexcomb.case;
 }
 );
-width = 698;
+width = 740;
 },
 {
 color = 3;

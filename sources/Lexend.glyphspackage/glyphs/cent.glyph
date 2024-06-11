@@ -757,7 +757,7 @@ pos = (0,88);
 ref = c;
 },
 {
-pos = (266,-1);
+pos = (274,-1);
 ref = shortbar.currency;
 }
 );

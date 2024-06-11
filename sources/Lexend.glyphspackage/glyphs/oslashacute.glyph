@@ -223,11 +223,11 @@ shapes = (
 ref = oslash;
 },
 {
-pos = (126,7);
+pos = (134,7);
 ref = acutecomb;
 }
 );
-width = 711;
+width = 727;
 },
 {
 color = 3;

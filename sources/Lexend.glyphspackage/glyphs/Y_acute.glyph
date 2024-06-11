@@ -226,11 +226,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (95,0);
+pos = (119,0);
 ref = acutecomb.case;
 }
 );
-width = 685;
+width = 733;
 },
 {
 color = 3;

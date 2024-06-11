@@ -639,11 +639,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-81,0);
+pos = (-67,0);
 ref = dotaccentcomb;
 }
 );
-width = 349;
+width = 363;
 },
 {
 background = {

@@ -220,11 +220,11 @@ shapes = (
 ref = A;
 },
 {
-pos = (127,0);
+pos = (144,0);
 ref = tildecomb.case;
 }
 );
-width = 750;
+width = 784;
 },
 {
 color = 3;
