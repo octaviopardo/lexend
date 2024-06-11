@@ -888,7 +888,7 @@ pos = (212,370);
 },
 {
 name = periodcentered;
-pos = (473,341);
+pos = (483,341);
 },
 {
 name = top;

@@ -436,11 +436,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (10,0);
+pos = (25,0);
 ref = shortstroke.lc;
 }
 );
-width = 450;
+width = 479;
 },
 {
 background = {

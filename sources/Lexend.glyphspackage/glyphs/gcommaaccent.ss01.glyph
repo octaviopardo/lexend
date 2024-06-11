@@ -240,11 +240,11 @@ shapes = (
 ref = g.ss01;
 },
 {
-pos = (89,10);
+pos = (117,10);
 ref = commaturnedabovecomb;
 }
 );
-width = 658;
+width = 705;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

@@ -246,14 +246,15 @@ color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
+pos = (-60,0);
 ref = apostrophemod;
 },
 {
-pos = (200,0);
+pos = (140,0);
 ref = n;
 }
 );
-width = 935;
+width = 875;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

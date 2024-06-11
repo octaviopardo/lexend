@@ -244,7 +244,7 @@ pos = (205,0);
 ref = caroncomb.case;
 }
 );
-width = 900;
+width = 894;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

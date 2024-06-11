@@ -234,11 +234,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (81,10);
+pos = (91,10);
 ref = breveinvertedcomb;
 }
 );
-width = 647;
+width = 667;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

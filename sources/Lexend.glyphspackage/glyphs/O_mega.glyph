@@ -150,7 +150,7 @@ alignment = 1;
 ref = Ohm;
 }
 );
-width = 866;
+width = 886;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";

@@ -236,11 +236,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (125,0);
+pos = (145,0);
 ref = hookabovecomb.case;
 }
 );
-width = 750;
+width = 790;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

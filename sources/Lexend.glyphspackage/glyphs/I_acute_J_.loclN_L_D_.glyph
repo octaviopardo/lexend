@@ -378,19 +378,19 @@ shapes = (
 ref = I;
 },
 {
-pos = (58,0);
+pos = (76,0);
 ref = acutecomb.case;
 },
 {
-pos = (587,0);
+pos = (623,0);
 ref = J;
 },
 {
-pos = (741,0);
+pos = (825,0);
 ref = acutecomb.case;
 }
 );
-width = 1223;
+width = 1307;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

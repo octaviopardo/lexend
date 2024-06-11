@@ -242,11 +242,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (228,0);
+pos = (222,0);
 ref = caroncomb.case;
 }
 );
-width = 881;
+width = 883;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

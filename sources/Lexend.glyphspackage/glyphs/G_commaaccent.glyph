@@ -240,11 +240,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (201,0);
+pos = (195,0);
 ref = commaaccentcomb.case;
 }
 );
-width = 881;
+width = 883;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

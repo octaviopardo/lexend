@@ -390,7 +390,7 @@ alignment = -1;
 ref = L;
 },
 {
-pos = (292,339);
+pos = (340,339);
 ref = period;
 }
 );

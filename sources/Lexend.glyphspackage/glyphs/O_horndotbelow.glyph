@@ -241,11 +241,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (217,0);
+pos = (211,0);
 ref = dotbelowcomb;
 }
 );
-width = 934;
+width = 922;
 },
 {
 background = {

@@ -560,7 +560,7 @@ shapes = (
 ref = oslash;
 }
 );
-width = 716;
+width = 736;
 },
 {
 background = {

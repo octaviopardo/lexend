@@ -318,11 +318,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (302,0);
+pos = (312,0);
 ref = ogonekcomb;
 }
 );
-width = 757;
+width = 767;
 },
 {
 anchors = (

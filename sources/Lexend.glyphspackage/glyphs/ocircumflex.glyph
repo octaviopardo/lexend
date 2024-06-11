@@ -295,11 +295,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (108,10);
+pos = (118,10);
 ref = circumflexcomb;
 }
 );
-width = 716;
+width = 736;
 },
 {
 background = {

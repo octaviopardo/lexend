@@ -791,11 +791,11 @@ layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
 angle = 180;
-pos = (647,535);
+pos = (667,535);
 ref = e;
 }
 );
-width = 647;
+width = 667;
 },
 {
 associatedMasterId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";

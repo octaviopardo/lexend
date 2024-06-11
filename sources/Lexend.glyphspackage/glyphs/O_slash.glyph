@@ -593,11 +593,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (45,0);
+pos = (39,0);
 ref = diagonal.UC;
 }
 );
-width = 934;
+width = 922;
 },
 {
 background = {

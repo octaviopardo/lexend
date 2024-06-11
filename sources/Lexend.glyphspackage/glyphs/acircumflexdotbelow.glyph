@@ -302,15 +302,15 @@ shapes = (
 ref = a;
 },
 {
-pos = (121,0);
+pos = (131,0);
 ref = dotbelowcomb;
 },
 {
-pos = (124,10);
+pos = (134,10);
 ref = circumflexcomb;
 }
 );
-width = 757;
+width = 767;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
