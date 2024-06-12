@@ -287,14 +287,15 @@ width = 638;
 layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
 shapes = (
 {
+pos = (1,0);
 ref = comma;
 },
 {
-pos = (120,446);
+pos = (121,446);
 ref = period;
 }
 );
-width = 302;
+width = 301;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";

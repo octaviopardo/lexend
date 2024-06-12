@@ -352,11 +352,11 @@ layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
 shapes = (
 {
 angle = 180;
-pos = (642,1318);
+pos = (640,1318);
 ref = quotedblleft;
 }
 );
-width = 430;
+width = 428;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
@@ -374,7 +374,7 @@ layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
 shapes = (
 {
 angle = 180;
-pos = (791,1212);
+pos = (741,1212);
 ref = quotedblleft;
 }
 );

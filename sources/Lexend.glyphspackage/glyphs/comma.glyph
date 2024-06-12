@@ -1739,7 +1739,7 @@ nodes = (
 );
 }
 );
-width = 302;
+width = 300;
 },
 {
 background = {

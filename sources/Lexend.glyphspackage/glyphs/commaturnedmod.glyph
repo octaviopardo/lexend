@@ -247,7 +247,7 @@ alignment = 1;
 ref = quoteleft;
 }
 );
-width = 301;
+width = 299;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";

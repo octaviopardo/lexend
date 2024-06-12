@@ -399,11 +399,11 @@ width = 598;
 layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
 shapes = (
 {
-pos = (169,690);
+pos = (167,690);
 ref = comma;
 }
 );
-width = 302;
+width = 300;
 },
 {
 background = {
