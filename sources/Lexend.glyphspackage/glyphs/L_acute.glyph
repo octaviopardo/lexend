@@ -201,7 +201,7 @@ pos = (-9,0);
 ref = acutecomb.case;
 }
 );
-width = 713;
+width = 695;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
@@ -242,7 +242,7 @@ pos = (7,0);
 ref = acutecomb.case;
 }
 );
-width = 736;
+width = 730;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

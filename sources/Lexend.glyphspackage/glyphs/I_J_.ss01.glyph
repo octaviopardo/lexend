@@ -228,7 +228,7 @@ pos = (448,0);
 ref = J.ss01;
 }
 );
-width = 1070;
+width = 1080;
 },
 {
 color = 3;
@@ -242,7 +242,7 @@ pos = (496,0);
 ref = J.ss01;
 }
 );
-width = 1170;
+width = 1164;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

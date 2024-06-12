@@ -193,11 +193,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (116,0);
+pos = (105,0);
 ref = tildecomb;
 }
 );
-width = 767;
+width = 756;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
@@ -220,11 +220,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (118,0);
+pos = (132,0);
 ref = tildecomb;
 }
 );
-width = 741;
+width = 755;
 },
 {
 color = 3;
@@ -234,11 +234,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (134,10);
+pos = (132,10);
 ref = tildecomb;
 }
 );
-width = 767;
+width = 765;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

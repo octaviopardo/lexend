@@ -222,11 +222,11 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (60,0);
+pos = (69,0);
 ref = gravecomb;
 }
 );
-width = 684;
+width = 693;
 },
 {
 color = 3;

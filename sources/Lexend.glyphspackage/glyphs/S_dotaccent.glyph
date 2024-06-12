@@ -220,11 +220,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (144,0);
+pos = (146,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 740;
+width = 744;
 },
 {
 color = 3;
@@ -234,11 +234,11 @@ shapes = (
 ref = S;
 },
 {
-pos = (153,0);
+pos = (149,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 769;
+width = 761;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

@@ -309,17 +309,17 @@ width = 376;
 color = 3;
 guides = (
 {
-pos = (284,749);
+pos = (282,749);
 }
 );
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
-pos = (16,613);
+pos = (14,613);
 ref = comma;
 }
 );
-width = 332;
+width = 356;
 },
 {
 color = 3;

@@ -224,11 +224,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (37,0);
+pos = (47,0);
 ref = commaaccentcomb;
 }
 );
-width = 610;
+width = 633;
 },
 {
 color = 3;

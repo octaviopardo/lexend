@@ -224,7 +224,7 @@ pos = (87,0);
 ref = gravecomb.case;
 }
 );
-width = 856;
+width = 860;
 },
 {
 color = 3;
@@ -238,7 +238,7 @@ pos = (106,0);
 ref = gravecomb.case;
 }
 );
-width = 864;
+width = 856;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

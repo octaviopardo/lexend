@@ -184,7 +184,7 @@ pos = (0,70);
 ref = three.numr;
 }
 );
-width = 440;
+width = 499;
 },
 {
 color = 3;

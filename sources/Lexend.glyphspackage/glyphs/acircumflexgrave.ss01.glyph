@@ -222,11 +222,11 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (80,-7);
+pos = (89,-7);
 ref = circumflexcomb_gravecomb;
 }
 );
-width = 684;
+width = 693;
 },
 {
 color = 3;

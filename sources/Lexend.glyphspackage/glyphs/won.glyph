@@ -700,7 +700,7 @@ shapes = (
 ref = won.bold;
 },
 {
-pos = (274,-27);
+pos = (264,-27);
 ref = centerbar.currency;
 scale = (1.1559,1);
 }
@@ -709,7 +709,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = W;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = W;
 };
-width = 1136;
+width = 1084;
 },
 {
 background = {
@@ -781,12 +781,12 @@ shapes = (
 ref = won.bold;
 },
 {
-pos = (225,-35);
+pos = (251,-35);
 ref = centerbar.currency;
 scale = (1.2968,1);
 }
 );
-width = 1026;
+width = 1098;
 },
 {
 background = {
@@ -809,7 +809,7 @@ shapes = (
 ref = won.bold;
 },
 {
-pos = (299,-17);
+pos = (295,-17);
 ref = centerbar.currency;
 }
 );

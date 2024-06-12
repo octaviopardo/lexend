@@ -360,15 +360,15 @@ shapes = (
 ref = seven.numr;
 },
 {
-pos = (295,0);
+pos = (343,0);
 ref = fraction;
 },
 {
-pos = (673,0);
+pos = (731,0);
 ref = eight.dnom;
 }
 );
-width = 1110;
+width = 1222;
 },
 {
 background = {

@@ -221,11 +221,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (98,0);
+pos = (97,0);
 ref = acutecomb;
 }
 );
-width = 637;
+width = 634;
 },
 {
 color = 3;
@@ -235,11 +235,11 @@ shapes = (
 ref = y;
 },
 {
-pos = (108,10);
+pos = (98,10);
 ref = acutecomb;
 }
 );
-width = 693;
+width = 673;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

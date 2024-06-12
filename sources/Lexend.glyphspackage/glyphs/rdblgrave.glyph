@@ -226,7 +226,7 @@ pos = (-33,0);
 ref = dblgravecomb;
 }
 );
-width = 476;
+width = 496;
 },
 {
 color = 3;
@@ -240,7 +240,7 @@ pos = (-14,10);
 ref = dblgravecomb;
 }
 );
-width = 549;
+width = 553;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

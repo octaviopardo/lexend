@@ -664,7 +664,7 @@ pos = (0,88);
 ref = c;
 },
 {
-pos = (321,0);
+pos = (310,0);
 ref = shortbar.currency;
 }
 );
@@ -757,11 +757,11 @@ pos = (0,88);
 ref = c;
 },
 {
-pos = (274,-1);
+pos = (288,-1);
 ref = shortbar.currency;
 }
 );
-width = 615;
+width = 633;
 },
 {
 background = {
@@ -801,7 +801,7 @@ pos = (0,83);
 ref = c;
 },
 {
-pos = (258,0);
+pos = (256,0);
 ref = shortbar.currency;
 }
 );

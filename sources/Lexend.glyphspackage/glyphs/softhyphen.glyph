@@ -168,10 +168,11 @@ color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
+alignment = -1;
 ref = hyphen;
 }
 );
-width = 516;
+width = 522;
 },
 {
 color = 3;

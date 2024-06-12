@@ -283,15 +283,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (317,0);
+pos = (398,0);
 ref = fraction;
 },
 {
-pos = (655,0);
+pos = (746,0);
 ref = two.dnom;
 }
 );
-width = 1054;
+width = 1209;
 },
 {
 color = 3;

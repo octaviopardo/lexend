@@ -220,7 +220,7 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-67,0);
+pos = (-67,7);
 ref = circumflexcomb;
 }
 );

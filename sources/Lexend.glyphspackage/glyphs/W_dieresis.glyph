@@ -230,11 +230,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (298,0);
+pos = (300,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1096;
+width = 1100;
 },
 {
 color = 3;
@@ -244,11 +244,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (296,0);
+pos = (292,0);
 ref = dieresiscomb.case;
 }
 );
-width = 1094;
+width = 1086;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

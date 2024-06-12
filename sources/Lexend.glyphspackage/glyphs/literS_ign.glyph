@@ -1900,7 +1900,7 @@ nodes = (
 );
 }
 );
-width = 480;
+width = 496;
 },
 {
 background = {

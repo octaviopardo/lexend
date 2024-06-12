@@ -197,7 +197,7 @@ pos = (74,0);
 ref = dblgravecomb.case;
 }
 );
-width = 824;
+width = 819;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
@@ -238,7 +238,7 @@ pos = (113,0);
 ref = dblgravecomb.case;
 }
 );
-width = 832;
+width = 828;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

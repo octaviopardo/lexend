@@ -173,7 +173,7 @@ alignment = 1;
 ref = increment;
 }
 );
-width = 716;
+width = 758;
 },
 {
 color = 3;

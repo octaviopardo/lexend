@@ -171,7 +171,7 @@ pos = (0,53);
 ref = bullet;
 }
 );
-width = 473;
+width = 476;
 },
 {
 color = 3;

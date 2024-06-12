@@ -156,7 +156,7 @@ shapes = (
 ref = Uhorn;
 }
 );
-width = 856;
+width = 860;
 },
 {
 color = 3;
@@ -166,7 +166,7 @@ shapes = (
 ref = Uhorn;
 }
 );
-width = 864;
+width = 856;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

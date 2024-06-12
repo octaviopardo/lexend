@@ -222,11 +222,11 @@ shapes = (
 ref = g.ss01;
 },
 {
-pos = (88,-7);
+pos = (93,-7);
 ref = caroncomb;
 }
 );
-width = 666;
+width = 676;
 },
 {
 color = 3;

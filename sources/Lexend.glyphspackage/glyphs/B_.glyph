@@ -1862,7 +1862,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = O;
 };
-width = 877;
+width = 871;
 },
 {
 anchors = (
@@ -2103,7 +2103,7 @@ nodes = (
 );
 }
 );
-width = 828;
+width = 829;
 },
 {
 anchors = (

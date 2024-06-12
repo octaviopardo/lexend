@@ -694,7 +694,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (50,0);
+pos = (39,0);
 ref = diagonal.lc;
 }
 );
@@ -702,7 +702,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = o;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = o;
 };
-width = 734;
+width = 712;
 },
 {
 background = {
@@ -767,11 +767,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (43,0);
+pos = (57,0);
 ref = diagonal.lc;
 }
 );
-width = 727;
+width = 755;
 },
 {
 background = {
@@ -803,11 +803,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (39,0);
+pos = (37,0);
 ref = diagonal.lc;
 }
 );
-width = 736;
+width = 732;
 },
 {
 background = {

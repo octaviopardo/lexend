@@ -918,7 +918,7 @@ locked = 1;
 ref = O;
 },
 {
-pos = (488,0);
+pos = (469,0);
 ref = Qbar.UC;
 }
 );
@@ -926,7 +926,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = O;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = O;
 };
-width = 978;
+width = 940;
 },
 {
 anchors = (
@@ -1030,11 +1030,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (55,0);
+pos = (59,0);
 ref = Qbar.UC;
 }
 );
-width = 950;
+width = 958;
 },
 {
 anchors = (
@@ -1085,11 +1085,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (39,0);
+pos = (43,0);
 ref = Qbar.UC;
 }
 );
-width = 922;
+width = 930;
 },
 {
 anchors = (

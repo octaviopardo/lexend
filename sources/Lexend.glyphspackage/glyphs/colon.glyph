@@ -222,15 +222,16 @@ color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
-pos = (0,1);
+alignment = -1;
 ref = period;
 },
 {
-pos = (0,376);
+alignment = -1;
+pos = (0,384);
 ref = period;
 }
 );
-width = 332;
+width = 356;
 },
 {
 color = 3;

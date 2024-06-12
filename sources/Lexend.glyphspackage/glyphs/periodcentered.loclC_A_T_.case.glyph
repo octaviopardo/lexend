@@ -185,11 +185,11 @@ layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
 alignment = -1;
-pos = (-254,0);
+pos = (-247,7);
 ref = periodcentered.case;
 }
 );
-width = 10;
+width = 3;
 },
 {
 color = 3;

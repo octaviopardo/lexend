@@ -1591,7 +1591,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = n;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = o;
 };
-width = 767;
+width = 756;
 },
 {
 anchors = (
@@ -1781,7 +1781,7 @@ nodes = (
 );
 }
 );
-width = 740;
+width = 754;
 },
 {
 anchors = (
@@ -1894,7 +1894,7 @@ nodes = (
 );
 }
 );
-width = 767;
+width = 765;
 },
 {
 anchors = (

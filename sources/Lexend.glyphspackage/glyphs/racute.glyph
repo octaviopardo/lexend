@@ -228,7 +228,7 @@ pos = (44,0);
 ref = acutecomb;
 }
 );
-width = 476;
+width = 496;
 },
 {
 color = 3;
@@ -242,7 +242,7 @@ pos = (77,10);
 ref = acutecomb;
 }
 );
-width = 549;
+width = 553;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

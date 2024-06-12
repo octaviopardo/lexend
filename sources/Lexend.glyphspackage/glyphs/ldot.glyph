@@ -444,7 +444,7 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (202,278);
+pos = (190,284);
 ref = period;
 }
 );

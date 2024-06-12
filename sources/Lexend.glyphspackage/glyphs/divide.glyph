@@ -1070,11 +1070,11 @@ alignment = 1;
 ref = minus;
 },
 {
-pos = (185,0);
+pos = (192,0);
 ref = dp.fig;
 }
 );
-width = 701;
+width = 715;
 },
 {
 background = {

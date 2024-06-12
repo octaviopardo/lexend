@@ -1080,16 +1080,13 @@ width = 225;
 background = {
 shapes = (
 {
-pos = (13,0);
-ref = idotless;
-},
-{
-pos = (-122,0);
-ref = dotaccentcomb;
-},
-{
-pos = (-155,0);
-ref = ogonekcomb;
+closed = 1;
+nodes = (
+(233,0,l),
+(233,532,l),
+(130,532,l),
+(130,0,l)
+);
 }
 );
 };

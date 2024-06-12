@@ -203,7 +203,7 @@ pos = (135,0);
 ref = gravecomb.case;
 }
 );
-width = 768;
+width = 764;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
@@ -230,7 +230,7 @@ pos = (139,0);
 ref = gravecomb.case;
 }
 );
-width = 747;
+width = 753;
 },
 {
 color = 3;
@@ -244,7 +244,7 @@ pos = (157,0);
 ref = gravecomb.case;
 }
 );
-width = 777;
+width = 775;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

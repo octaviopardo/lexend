@@ -414,7 +414,7 @@ pos = (179,0);
 ref = quotesingle;
 }
 );
-width = 460;
+width = 479;
 },
 {
 color = 3;

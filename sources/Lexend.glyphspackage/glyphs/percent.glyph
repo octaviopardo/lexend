@@ -1775,16 +1775,16 @@ alignment = 1;
 ref = zero.percent.numr;
 },
 {
-pos = (388,0);
+pos = (410,0);
 ref = fraction;
 },
 {
 alignment = 1;
-pos = (766,0);
+pos = (798,0);
 ref = zero.percent.dnom;
 }
 );
-width = 1154;
+width = 1208;
 },
 {
 background = {

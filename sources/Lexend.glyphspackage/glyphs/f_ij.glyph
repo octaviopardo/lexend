@@ -428,11 +428,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (424,0);
+pos = (431,0);
 ref = ij;
 }
 );
-width = 1150;
+width = 1157;
 },
 {
 anchors = (
@@ -452,11 +452,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (459,0);
+pos = (455,0);
 ref = ij;
 }
 );
-width = 1305;
+width = 1301;
 },
 {
 anchors = (

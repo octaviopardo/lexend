@@ -651,19 +651,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(526,254,l),
-(526,802,l),
-(429,802,l),
-(429,254,l)
+(558,254,l),
+(558,802,l),
+(461,802,l),
+(461,254,l)
 );
 },
 {
 angle = 180;
-pos = (824,699);
+pos = (856,699);
 ref = U;
 },
 {
-pos = (130,0);
+pos = (162,0);
 ref = manatbar.currency;
 }
 );
@@ -671,7 +671,7 @@ ref = manatbar.currency;
 color = 3;
 guides = (
 {
-pos = (391,254);
+pos = (423,254);
 }
 );
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
@@ -679,15 +679,15 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (824,699);
+pos = (856,699);
 ref = U;
 },
 {
-pos = (308,-1);
+pos = (338,-1);
 ref = manatbar.currency;
 }
 );
-width = 824;
+width = 856;
 },
 {
 background = {
@@ -727,7 +727,7 @@ pos = (864,700);
 ref = U;
 },
 {
-pos = (345,0);
+pos = (349,0);
 ref = manatbar.currency;
 }
 );

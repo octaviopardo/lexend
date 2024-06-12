@@ -420,7 +420,7 @@ alignment = 1;
 ref = zero;
 },
 {
-pos = (288,324);
+pos = (280,324);
 ref = period;
 }
 );
@@ -428,7 +428,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = zero;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = zero;
 };
-width = 876;
+width = 860;
 },
 {
 background = {
@@ -481,11 +481,11 @@ alignment = 1;
 ref = zero;
 },
 {
-pos = (249,285);
+pos = (245,291);
 ref = period;
 }
 );
-width = 829;
+width = 845;
 },
 {
 background = {
@@ -509,12 +509,12 @@ alignment = 1;
 ref = zero;
 },
 {
-pos = (252,270);
+pos = (270,270);
 ref = period;
 scale = (0.8557,0.8557);
 }
 );
-width = 806;
+width = 842;
 },
 {
 background = {

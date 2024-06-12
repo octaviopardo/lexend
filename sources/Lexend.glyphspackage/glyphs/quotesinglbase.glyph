@@ -156,7 +156,7 @@ shapes = (
 ref = comma;
 }
 );
-width = 332;
+width = 356;
 },
 {
 color = 3;

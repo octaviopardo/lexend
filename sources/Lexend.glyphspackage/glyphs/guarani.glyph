@@ -581,7 +581,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (75,0);
+pos = (56,0);
 ref = bar.currency;
 }
 );
@@ -589,7 +589,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = G;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = G;
 };
-width = 955;
+width = 936;
 },
 {
 background = {
@@ -672,11 +672,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (56,0);
+pos = (42,0);
 ref = bar.currency;
 }
 );
-width = 924;
+width = 938;
 },
 {
 background = {
@@ -710,11 +710,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (40,0);
+pos = (44,0);
 ref = bar.currency;
 }
 );
-width = 883;
+width = 885;
 },
 {
 background = {

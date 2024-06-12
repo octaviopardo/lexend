@@ -222,11 +222,11 @@ shapes = (
 ref = s;
 },
 {
-pos = (55,-7);
+pos = (65,-7);
 ref = caroncomb_dotaccentcomb;
 }
 );
-width = 610;
+width = 633;
 },
 {
 color = 3;

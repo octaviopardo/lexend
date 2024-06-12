@@ -186,11 +186,11 @@ color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
-pos = (0,36);
+pos = (0,43);
 ref = periodcentered;
 }
 );
-width = 332;
+width = 368;
 },
 {
 color = 3;

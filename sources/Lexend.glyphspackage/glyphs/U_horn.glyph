@@ -1073,11 +1073,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (483,0);
+pos = (485,0);
 ref = horncomb.case;
 }
 );
-width = 856;
+width = 860;
 },
 {
 anchors = (
@@ -1142,11 +1142,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (480,0);
+pos = (476,0);
 ref = horncomb.case;
 }
 );
-width = 864;
+width = 856;
 },
 {
 anchors = (

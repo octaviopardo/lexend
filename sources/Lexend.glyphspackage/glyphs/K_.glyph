@@ -1240,7 +1240,7 @@ nodes = (
 userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
 };
-width = 861;
+width = 854;
 },
 {
 anchors = (
@@ -1473,7 +1473,7 @@ nodes = (
 );
 }
 );
-width = 878;
+width = 870;
 },
 {
 associatedMasterId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";

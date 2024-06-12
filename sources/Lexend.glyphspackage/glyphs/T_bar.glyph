@@ -538,7 +538,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (140,-14);
+pos = (136,-14);
 ref = ShortBar.UC;
 }
 );
@@ -546,7 +546,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = T;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = T;
 };
-width = 632;
+width = 624;
 },
 {
 background = {
@@ -605,11 +605,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (140,0);
+pos = (144,0);
 ref = ShortBar.UC;
 }
 );
-width = 662;
+width = 670;
 },
 {
 background = {
@@ -635,11 +635,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (174,-33);
+pos = (170,-33);
 ref = ShortBar.UC;
 }
 );
-width = 776;
+width = 768;
 },
 {
 background = {

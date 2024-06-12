@@ -311,15 +311,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (317,0);
+pos = (398,0);
 ref = fraction;
 },
 {
-pos = (695,0);
+pos = (786,0);
 ref = eight.dnom;
 }
 );
-width = 1132;
+width = 1277;
 },
 {
 color = 3;

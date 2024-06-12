@@ -173,7 +173,7 @@ pos = (0,-190);
 ref = zero.dnom;
 }
 );
-width = 422;
+width = 500;
 },
 {
 color = 3;

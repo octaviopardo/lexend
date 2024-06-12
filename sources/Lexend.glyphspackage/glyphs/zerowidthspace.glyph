@@ -3,11 +3,11 @@ glyphname = zerowidthspace;
 layers = (
 {
 layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
-width = 10;
+width = 0;
 },
 {
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
-width = 10;
+width = 0;
 },
 {
 layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
@@ -35,19 +35,19 @@ width = 0;
 },
 {
 layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
-width = 600;
+width = 0;
 },
 {
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
-width = 600;
+width = 0;
 },
 {
 layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
-width = 600;
+width = 0;
 },
 {
 layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
-width = 600;
+width = 0;
 },
 {
 layerId = "210AF8B6-7730-458C-980B-516175326DAB";
@@ -69,7 +69,7 @@ width = 0;
 {
 color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
-width = 20;
+width = 0;
 },
 {
 color = 3;
@@ -94,19 +94,19 @@ width = 0;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
-width = 1200;
+width = 0;
 },
 {
 layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
-width = 1200;
+width = 0;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
-width = 1200;
+width = 0;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
-width = 1200;
+width = 0;
 },
 {
 layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";

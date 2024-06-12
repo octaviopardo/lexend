@@ -222,11 +222,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (-18,0);
+pos = (-13,0);
 ref = macronbelowcomb;
 }
 );
-width = 464;
+width = 476;
 },
 {
 color = 3;
@@ -236,11 +236,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (-5,0);
+pos = (-7,0);
 ref = macronbelowcomb;
 }
 );
-width = 479;
+width = 475;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";

@@ -412,11 +412,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (30,0);
+pos = (35,0);
 ref = shortstroke.lc;
 }
 );
-width = 464;
+width = 476;
 },
 {
 color = 3;
@@ -436,11 +436,11 @@ shapes = (
 ref = t;
 },
 {
-pos = (25,0);
+pos = (23,0);
 ref = shortstroke.lc;
 }
 );
-width = 479;
+width = 475;
 },
 {
 background = {

@@ -277,11 +277,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (282,0);
+pos = (271,0);
 ref = ogonekcomb;
 }
 );
-width = 767;
+width = 756;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
@@ -304,11 +304,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (275,0);
+pos = (289,0);
 ref = ogonekcomb;
 }
 );
-width = 741;
+width = 755;
 },
 {
 color = 3;
@@ -318,11 +318,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (312,0);
+pos = (310,0);
 ref = ogonekcomb;
 }
 );
-width = 767;
+width = 765;
 },
 {
 anchors = (

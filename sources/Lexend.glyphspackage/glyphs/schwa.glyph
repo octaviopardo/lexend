@@ -637,11 +637,11 @@ layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
 angle = 180;
-pos = (677,525);
+pos = (666,525);
 ref = e;
 }
 );
-width = 677;
+width = 666;
 },
 {
 anchors = (
@@ -729,11 +729,11 @@ layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
 angle = 180;
-pos = (655,532);
+pos = (686,532);
 ref = e;
 }
 );
-width = 655;
+width = 686;
 },
 {
 anchors = (
@@ -791,11 +791,11 @@ layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
 angle = 180;
-pos = (667,535);
+pos = (665,535);
 ref = e;
 }
 );
-width = 667;
+width = 665;
 },
 {
 associatedMasterId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
