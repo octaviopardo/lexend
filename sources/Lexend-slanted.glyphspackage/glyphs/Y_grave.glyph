@@ -1,0 +1,190 @@
+{
+glyphname = Ygrave;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (24,0);
+ref = gravecomb.case;
+}
+);
+width = 592;
+},
+{
+layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (49,0);
+ref = gravecomb.case;
+}
+);
+width = 634;
+},
+{
+layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (75,0);
+ref = gravecomb.case;
+}
+);
+width = 710;
+},
+{
+layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (59,0);
+ref = gravecomb.case;
+}
+);
+width = 646;
+},
+{
+layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (114,0);
+ref = gravecomb.case;
+}
+);
+width = 772;
+},
+{
+layerId = "210AF8B6-7730-458C-980B-516175326DAB";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (142,0);
+ref = gravecomb.case;
+}
+);
+width = 890;
+},
+{
+layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (102,0);
+ref = gravecomb.case;
+}
+);
+width = 805;
+},
+{
+layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (87,0);
+ref = gravecomb.case;
+}
+);
+width = 716;
+},
+{
+layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (89,0);
+ref = gravecomb.case;
+}
+);
+width = 716;
+},
+{
+layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (98,0);
+ref = gravecomb.case;
+}
+);
+width = 738;
+},
+{
+layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (112,0);
+ref = gravecomb.case;
+}
+);
+width = 790;
+},
+{
+layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (175,0);
+ref = gravecomb.case;
+}
+);
+width = 882;
+},
+{
+layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (168,0);
+ref = gravecomb.case;
+}
+);
+width = 935;
+},
+{
+layerId = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (187,0);
+ref = gravecomb.case;
+}
+);
+width = 1000;
+}
+);
+unicode = 7922;
+}

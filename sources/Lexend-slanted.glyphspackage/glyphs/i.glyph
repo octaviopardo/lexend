@@ -1,0 +1,354 @@
+{
+glyphname = i;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(420,0,l),
+(541,525,l),
+(519,525,l),
+(398,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(585,663,o),
+(593,671,o),
+(597,688,cs),
+(600,705,o),
+(589,721,o),
+(572,721,cs),
+(553,721,o),
+(544,712,o),
+(541,696,cs),
+(537,679,o),
+(547,663,o),
+(566,663,cs)
+);
+}
+);
+};
+layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-170,0);
+ref = dotaccentcomb;
+}
+);
+width = 162;
+},
+{
+layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-154,-5);
+ref = dotaccentcomb;
+}
+);
+width = 196;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(449,0,l),
+(572,535,l),
+(369,535,l),
+(246,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(565,632,o),
+(618,672,o),
+(631,728,cs),
+(645,789,o),
+(610,824,o),
+(538,824,cs),
+(467,824,o),
+(414,784,o),
+(401,728,cs),
+(387,667,o),
+(422,632,o),
+(494,632,cs)
+);
+}
+);
+};
+layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-78,0);
+ref = dotaccentcomb;
+}
+);
+width = 345;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(593,641,o),
+(625,667,o),
+(634,706,cs),
+(643,747,o),
+(624,771,o),
+(580,771,cs),
+(537,771,o),
+(505,745,o),
+(496,706,cs),
+(487,665,o),
+(506,641,o),
+(550,641,cs)
+);
+}
+);
+};
+layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-133,0);
+ref = dotaccentcomb;
+}
+);
+width = 247;
+},
+{
+layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-177,0);
+ref = dotaccentcomb;
+}
+);
+width = 192;
+},
+{
+layerId = "210AF8B6-7730-458C-980B-516175326DAB";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-115,0);
+ref = dotaccentcomb;
+}
+);
+width = 313;
+},
+{
+layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-156,0);
+ref = dotaccentcomb;
+}
+);
+width = 233;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(414,0,l),
+(535,525,l),
+(513,525,l),
+(392,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(579,663,o),
+(587,671,o),
+(591,688,cs),
+(594,705,o),
+(583,721,o),
+(566,721,cs),
+(547,721,o),
+(538,712,o),
+(535,696,cs),
+(531,679,o),
+(541,663,o),
+(560,663,cs)
+);
+}
+);
+};
+layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-69,0);
+ref = dotaccentcomb;
+}
+);
+width = 362;
+},
+{
+layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-68,-5);
+ref = dotaccentcomb;
+}
+);
+width = 370;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(548,641,o),
+(580,667,o),
+(589,706,cs),
+(598,747,o),
+(579,771,o),
+(535,771,cs),
+(492,771,o),
+(460,745,o),
+(451,706,cs),
+(442,665,o),
+(461,641,o),
+(505,641,cs)
+);
+}
+);
+};
+layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-75,0);
+ref = dotaccentcomb;
+}
+);
+width = 363;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(414,0,l),
+(537,535,l),
+(334,535,l),
+(211,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(530,632,o),
+(583,672,o),
+(596,728,cs),
+(610,789,o),
+(575,824,o),
+(503,824,cs),
+(432,824,o),
+(379,784,o),
+(366,728,cs),
+(352,667,o),
+(387,632,o),
+(459,632,cs)
+);
+}
+);
+};
+layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-38,0);
+ref = dotaccentcomb;
+}
+);
+width = 425;
+},
+{
+layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-24,0);
+ref = dotaccentcomb;
+}
+);
+width = 458;
+},
+{
+layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-2,0);
+ref = dotaccentcomb;
+}
+);
+width = 543;
+},
+{
+layerId = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (35,0);
+ref = dotaccentcomb;
+}
+);
+width = 603;
+}
+);
+metricLeft = idotless;
+metricRight = idotless;
+unicode = 105;
+}

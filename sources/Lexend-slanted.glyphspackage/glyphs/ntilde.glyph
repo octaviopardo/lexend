@@ -1,0 +1,190 @@
+{
+glyphname = ntilde;
+kernLeft = m;
+kernRight = h;
+layers = (
+{
+layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (21,0);
+ref = tildecomb;
+}
+);
+width = 542;
+},
+{
+layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (22,-5);
+ref = tildecomb;
+}
+);
+width = 560;
+},
+{
+layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (28,10);
+ref = tildecomb;
+}
+);
+width = 666;
+},
+{
+layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (28,0);
+ref = tildecomb;
+}
+);
+width = 596;
+},
+{
+layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (64,0);
+ref = tildecomb;
+}
+);
+width = 690;
+},
+{
+layerId = "210AF8B6-7730-458C-980B-516175326DAB";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (99,10);
+ref = tildecomb;
+}
+);
+width = 755;
+},
+{
+layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (87,0);
+ref = tildecomb;
+}
+);
+width = 702;
+},
+{
+layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (127,0);
+ref = tildecomb;
+}
+);
+width = 738;
+},
+{
+layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (117,-5);
+ref = tildecomb;
+}
+);
+width = 729;
+},
+{
+layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (109,0);
+ref = tildecomb;
+}
+);
+width = 710;
+},
+{
+layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (100,10);
+ref = tildecomb;
+}
+);
+width = 736;
+},
+{
+layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (180,0);
+ref = tildecomb;
+}
+);
+width = 961;
+},
+{
+layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (205,0);
+ref = tildecomb;
+}
+);
+width = 1015;
+},
+{
+layerId = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (219,10);
+ref = tildecomb;
+}
+);
+width = 1045;
+}
+);
+unicode = 241;
+}

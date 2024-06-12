@@ -1,0 +1,384 @@
+{
+color = 0;
+glyphname = Ldot;
+kernLeft = H;
+kernRight = Ldot;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (277,30);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (358,341);
+ref = period;
+}
+);
+width = 534;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (278,20);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (360,324);
+ref = period;
+}
+);
+width = 535;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (392,36);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (462,289);
+ref = period;
+}
+);
+width = 630;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (313,30);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (388,308);
+ref = period;
+}
+);
+width = 600;
+},
+{
+background = {
+shapes = (
+{
+ref = L;
+},
+{
+pos = (338,30);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (421,342);
+ref = period;
+}
+);
+width = 678;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (428,50);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "210AF8B6-7730-458C-980B-516175326DAB";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (497,303);
+ref = period;
+}
+);
+width = 819;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (375,41);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (446,310);
+ref = period;
+}
+);
+width = 701;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (277,30);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (358,341);
+ref = period;
+}
+);
+width = 539;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (278,20);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (360,324);
+ref = period;
+}
+);
+width = 547;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (313,30);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (388,308);
+ref = period;
+}
+);
+width = 582;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (392,36);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (462,289);
+ref = period;
+}
+);
+width = 669;
+},
+{
+background = {
+shapes = (
+{
+pos = (-51,0);
+ref = L;
+},
+{
+pos = (287,30);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (427,342);
+ref = period;
+}
+);
+width = 792;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (38,0);
+ref = L;
+},
+{
+alignment = -1;
+pos = (413,41);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (496,310);
+ref = period;
+}
+);
+width = 898;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+pos = (428,50);
+ref = periodcentered.case;
+}
+);
+};
+layerId = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (497,303);
+ref = period;
+}
+);
+width = 915;
+}
+);
+metricLeft = L;
+unicode = 319;
+}
