@@ -736,7 +736,7 @@ ref = "diag-stroke.UC";
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = L;
 };
-width = 737;
+width = 729;
 },
 {
 background = {
@@ -825,7 +825,7 @@ pos = (85,0);
 ref = "diag-stroke.UC";
 }
 );
-width = 713;
+width = 735;
 },
 {
 background = {
@@ -863,7 +863,7 @@ pos = (70,0);
 ref = "diag-stroke.UC";
 }
 );
-width = 730;
+width = 754;
 },
 {
 background = {
@@ -1068,7 +1068,7 @@ alignment = -1;
 ref = "diag-stroke.UC";
 }
 );
-width = 737;
+width = 729;
 },
 {
 background = {
@@ -1164,7 +1164,7 @@ alignment = -1;
 ref = "diag-stroke.UC";
 }
 );
-width = 712;
+width = 736;
 },
 {
 background = {
@@ -1212,7 +1212,7 @@ alignment = -1;
 ref = "diag-stroke.UC";
 }
 );
-width = 729;
+width = 753;
 },
 {
 background = {

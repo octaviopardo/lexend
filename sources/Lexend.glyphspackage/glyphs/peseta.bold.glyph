@@ -53,7 +53,7 @@ pos = (559,0);
 ref = rigthbar.currency;
 }
 );
-width = 794;
+width = 820;
 },
 {
 background = {
@@ -98,7 +98,7 @@ pos = (601,2);
 ref = rigthbar.currency;
 }
 );
-width = 826;
+width = 846;
 },
 {
 background = {
@@ -143,7 +143,7 @@ pos = (569,154);
 ref = rigthbar.currency;
 }
 );
-width = 791;
+width = 801;
 },
 {
 background = {
@@ -389,7 +389,7 @@ pos = (578,-2);
 ref = rigthbar.currency;
 }
 );
-width = 802;
+width = 818;
 },
 {
 background = {
@@ -442,7 +442,7 @@ pos = (561,0);
 ref = rigthbar.currency;
 }
 );
-width = 787;
+width = 797;
 },
 {
 background = {
@@ -495,7 +495,7 @@ pos = (575,-1);
 ref = rigthbar.currency;
 }
 );
-width = 798;
+width = 814;
 },
 {
 background = {
@@ -548,7 +548,7 @@ pos = (592,1);
 ref = rigthbar.currency;
 }
 );
-width = 829;
+width = 849;
 },
 {
 background = {
@@ -601,7 +601,7 @@ pos = (554,-3);
 ref = rigthbar.currency;
 }
 );
-width = 804;
+width = 830;
 },
 {
 background = {
@@ -1030,7 +1030,7 @@ pos = (832,0);
 ref = rigthbar.currency;
 }
 );
-width = 1225;
+width = 1193;
 },
 {
 background = {
@@ -1088,7 +1088,7 @@ pos = (849,-2);
 ref = rigthbar.currency;
 }
 );
-width = 1235;
+width = 1259;
 },
 {
 background = {
@@ -1141,7 +1141,7 @@ pos = (893,2);
 ref = rigthbar.currency;
 }
 );
-width = 1236;
+width = 1284;
 },
 {
 anchors = (
@@ -1492,7 +1492,7 @@ pos = (865,0);
 ref = rigthbar.currency;
 }
 );
-width = 1246;
+width = 1270;
 },
 {
 background = {
@@ -1537,7 +1537,7 @@ pos = (890,3);
 ref = rigthbar.currency;
 }
 );
-width = 1235;
+width = 1283;
 },
 {
 anchors = (

@@ -671,7 +671,7 @@ ref = shortbar.currency;
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = c;
 };
-width = 665;
+width = 654;
 },
 {
 background = {
@@ -761,7 +761,7 @@ pos = (288,-1);
 ref = shortbar.currency;
 }
 );
-width = 633;
+width = 662;
 },
 {
 background = {
@@ -805,7 +805,7 @@ pos = (256,0);
 ref = shortbar.currency;
 }
 );
-width = 633;
+width = 628;
 },
 {
 background = {
@@ -987,11 +987,11 @@ pos = (24,88);
 ref = c;
 },
 {
-pos = (305,-1);
+pos = (289,-1);
 ref = shortbar.currency;
 }
 );
-width = 666;
+width = 655;
 },
 {
 background = {
@@ -1073,11 +1073,11 @@ pos = (24,88);
 ref = c;
 },
 {
-pos = (258,0);
+pos = (280,0);
 ref = shortbar.currency;
 }
 );
-width = 612;
+width = 667;
 },
 {
 background = {
@@ -1122,11 +1122,11 @@ pos = (23,88);
 ref = c;
 },
 {
-pos = (252,-1);
+pos = (260,-1);
 ref = shortbar.currency;
 }
 );
-width = 593;
+width = 627;
 },
 {
 background = {

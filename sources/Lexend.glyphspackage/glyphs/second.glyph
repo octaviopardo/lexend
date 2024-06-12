@@ -222,7 +222,7 @@ alignment = 1;
 ref = quotedbl;
 }
 );
-width = 412;
+width = 496;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
@@ -242,7 +242,7 @@ alignment = 1;
 ref = quotedbl;
 }
 );
-width = 456;
+width = 475;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -252,7 +252,7 @@ alignment = 1;
 ref = quotedbl;
 }
 );
-width = 540;
+width = 570;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

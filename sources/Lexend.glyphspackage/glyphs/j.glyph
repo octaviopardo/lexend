@@ -870,11 +870,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-131,0);
+pos = (-72,0);
 ref = dotaccentcomb;
 }
 );
-width = 303;
+width = 362;
 },
 {
 background = {
@@ -970,11 +970,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-90,0);
+pos = (-76,0);
 ref = dotaccentcomb;
 }
 );
-width = 346;
+width = 360;
 },
 {
 background = {
@@ -1019,11 +1019,11 @@ shapes = (
 ref = jdotless;
 },
 {
-pos = (-24,0);
+pos = (-37,0);
 ref = dotaccentcomb;
 }
 );
-width = 436;
+width = 423;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

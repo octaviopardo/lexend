@@ -809,7 +809,7 @@ shapes = (
 ref = won.bold;
 },
 {
-pos = (295,-17);
+pos = (299,-17);
 ref = centerbar.currency;
 }
 );
@@ -1030,7 +1030,7 @@ shapes = (
 ref = won.bold;
 },
 {
-pos = (227,-27);
+pos = (237,-27);
 ref = centerbar.currency;
 scale = (1.1696,1);
 }
@@ -1166,7 +1166,7 @@ shapes = (
 ref = won.bold;
 },
 {
-pos = (261,-34);
+pos = (277,-34);
 ref = centerbar.currency;
 scale = (1.163,1);
 }
@@ -1234,11 +1234,11 @@ shapes = (
 ref = won.bold;
 },
 {
-pos = (265,-10);
+pos = (293,-10);
 ref = centerbar.currency;
 }
 );
-width = 1067;
+width = 1128;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

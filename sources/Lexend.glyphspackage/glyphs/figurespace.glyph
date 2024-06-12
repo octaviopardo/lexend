@@ -60,7 +60,7 @@ width = 846;
 {
 color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
-width = 876;
+width = 860;
 },
 {
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
@@ -69,12 +69,12 @@ width = 854;
 {
 color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
-width = 823;
+width = 845;
 },
 {
 color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
-width = 806;
+width = 842;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
@@ -90,7 +90,7 @@ width = 964;
 },
 {
 layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
-width = 859;
+width = 861;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
@@ -98,11 +98,11 @@ width = 849;
 },
 {
 layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
-width = 830;
+width = 846;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
-width = 849;
+width = 843;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

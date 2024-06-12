@@ -1055,11 +1055,11 @@ shapes = (
 ref = sterling.base;
 },
 {
-pos = (285,54);
+pos = (295,54);
 ref = singledash.currency;
 }
 );
-width = 700;
+width = 720;
 },
 {
 background = {
@@ -1151,11 +1151,11 @@ shapes = (
 ref = sterling.base;
 },
 {
-pos = (271,64);
+pos = (288,64);
 ref = singledash.currency;
 }
 );
-width = 650;
+width = 707;
 },
 {
 background = {
@@ -1190,11 +1190,11 @@ shapes = (
 ref = sterling.base;
 },
 {
-pos = (261,83);
+pos = (277,83);
 ref = singledash.currency;
 }
 );
-width = 669;
+width = 683;
 },
 {
 background = {

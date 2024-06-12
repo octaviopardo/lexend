@@ -642,7 +642,7 @@ pos = (105,0);
 ref = ShortBar.UC;
 }
 );
-width = 922;
+width = 908;
 },
 {
 background = {
@@ -704,7 +704,7 @@ pos = (85,0);
 ref = ShortBar.UC;
 }
 );
-width = 934;
+width = 938;
 },
 {
 background = {
@@ -741,7 +741,7 @@ pos = (70,0);
 ref = ShortBar.UC;
 }
 );
-width = 919;
+width = 917;
 },
 {
 background = {
@@ -923,7 +923,7 @@ alignment = -1;
 ref = ShortBar.UC;
 }
 );
-width = 958;
+width = 944;
 },
 {
 background = {
@@ -1017,7 +1017,7 @@ alignment = -1;
 ref = ShortBar.UC;
 }
 );
-width = 933;
+width = 937;
 },
 {
 background = {
@@ -1053,7 +1053,7 @@ pos = (70,1);
 ref = ShortBar.UC;
 }
 );
-width = 919;
+width = 917;
 },
 {
 background = {

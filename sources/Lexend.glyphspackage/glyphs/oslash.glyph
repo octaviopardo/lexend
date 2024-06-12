@@ -966,11 +966,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (55,0);
+pos = (39,0);
 ref = diagonal.lc;
 }
 );
-width = 744;
+width = 712;
 },
 {
 background = {
@@ -1086,11 +1086,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (35,0);
+pos = (57,0);
 ref = diagonal.lc;
 }
 );
-width = 711;
+width = 755;
 },
 {
 background = {
@@ -1146,11 +1146,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (29,0);
+pos = (37,0);
 ref = diagonal.lc;
 }
 );
-width = 718;
+width = 734;
 },
 {
 background = {

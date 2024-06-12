@@ -620,7 +620,7 @@ pos = (857,1641);
 ref = brevecomb.case;
 }
 );
-width = 558;
+width = 541;
 },
 {
 anchors = (
@@ -642,7 +642,7 @@ pos = (871,1647);
 ref = brevecomb.case;
 }
 );
-width = 572;
+width = 540;
 },
 {
 anchors = (
@@ -664,7 +664,7 @@ pos = (896,1700);
 ref = brevecomb.case;
 }
 );
-width = 584;
+width = 580;
 }
 );
 metricWidth = dieresiscomb;

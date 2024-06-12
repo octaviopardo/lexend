@@ -59,7 +59,7 @@ pos = (202,128);
 ref = doublecenterbar.currency;
 }
 );
-width = 794;
+width = 820;
 },
 {
 background = {
@@ -98,7 +98,7 @@ pos = (202,117);
 ref = doublecenterbar.currency;
 }
 );
-width = 826;
+width = 846;
 },
 {
 layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
@@ -115,7 +115,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = peseta;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = peseta;
 };
-width = 791;
+width = 801;
 },
 {
 background = {
@@ -300,7 +300,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = peseta;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = peseta;
 };
-width = 802;
+width = 818;
 },
 {
 background = {
@@ -335,7 +335,7 @@ pos = (232,153);
 ref = doublecenterbar.currency;
 }
 );
-width = 788;
+width = 798;
 },
 {
 background = {
@@ -386,7 +386,7 @@ pos = (240,153);
 ref = doublecenterbar.currency;
 }
 );
-width = 792;
+width = 808;
 },
 {
 background = {
@@ -421,7 +421,7 @@ pos = (194,110);
 ref = doublecenterbar.currency;
 }
 );
-width = 828;
+width = 848;
 },
 {
 background = {
@@ -456,7 +456,7 @@ pos = (248,129);
 ref = doublecenterbar.currency;
 }
 );
-width = 796;
+width = 822;
 },
 {
 layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
@@ -769,11 +769,11 @@ shapes = (
 ref = peso.bold;
 },
 {
-pos = (262,117);
+pos = (252,117);
 ref = doublecenterbar.currency;
 }
 );
-width = 966;
+width = 946;
 },
 {
 background = {
@@ -804,7 +804,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = peseta;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = peseta;
 };
-width = 1215;
+width = 1183;
 },
 {
 background = {
@@ -839,7 +839,7 @@ pos = (344,127);
 ref = doublecenterbar.currency;
 }
 );
-width = 1235;
+width = 1259;
 },
 {
 background = {
@@ -864,7 +864,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = peseta;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = peseta;
 };
-width = 1236;
+width = 1284;
 },
 {
 anchors = (
@@ -1130,7 +1130,7 @@ pos = (368,125);
 ref = doublecenterbar.currency;
 }
 );
-width = 1247;
+width = 1271;
 },
 {
 background = {
@@ -1189,7 +1189,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = peseta;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = peseta;
 };
-width = 1237;
+width = 1285;
 },
 {
 anchors = (

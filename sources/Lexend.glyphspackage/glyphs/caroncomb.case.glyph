@@ -200,7 +200,7 @@ pos = (798,1635);
 ref = circumflexcomb.case;
 }
 );
-width = 501;
+width = 500;
 },
 {
 anchors = (
@@ -222,7 +222,7 @@ pos = (800,1647);
 ref = circumflexcomb.case;
 }
 );
-width = 500;
+width = 503;
 },
 {
 anchors = (
@@ -261,7 +261,7 @@ pos = (808,1689);
 ref = circumflexcomb.case;
 }
 );
-width = 499;
+width = 503;
 },
 {
 anchors = (
@@ -536,7 +536,7 @@ ref = circumflexcomb.case;
 scale = (1,-1);
 }
 );
-width = 558;
+width = 540;
 },
 {
 anchors = (
@@ -709,7 +709,7 @@ pos = (852,1635);
 ref = circumflexcomb.case;
 }
 );
-width = 555;
+width = 541;
 },
 {
 anchors = (
@@ -737,7 +737,7 @@ pos = (857,1648);
 ref = circumflexcomb.case;
 }
 );
-width = 558;
+width = 540;
 },
 {
 anchors = (
@@ -765,7 +765,7 @@ pos = (879,1690);
 ref = circumflexcomb.case;
 }
 );
-width = 570;
+width = 580;
 }
 );
 metricWidth = dieresiscomb;

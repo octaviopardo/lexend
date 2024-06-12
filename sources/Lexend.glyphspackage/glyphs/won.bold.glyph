@@ -894,23 +894,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(206,246,l),
-(178,391,l),
-(-6,391,l),
-(-6,246,l)
+(210,246,l),
+(182,391,l),
+(-2,391,l),
+(-2,246,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(1061,246,l),
-(1061,391,l),
-(819,391,l),
-(784,246,l)
+(1065,246,l),
+(1065,391,l),
+(823,391,l),
+(788,246,l)
 );
 },
 {
-pos = (18,0);
+pos = (22,0);
 ref = W;
 }
 );
@@ -918,22 +918,22 @@ ref = W;
 color = 3;
 guides = (
 {
-pos = (164,357);
+pos = (168,357);
 }
 );
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
 alignment = -1;
-pos = (18,0);
+pos = (22,0);
 ref = W;
 },
 {
-pos = (7,-138);
+pos = (11,-138);
 ref = leftbar.currency;
 },
 {
-pos = (877,-137);
+pos = (881,-137);
 ref = rigthbar.currency;
 }
 );
@@ -1152,11 +1152,11 @@ pos = (19,0);
 ref = W;
 },
 {
-pos = (-11,-181);
+pos = (-1,-181);
 ref = leftbar.currency;
 },
 {
-pos = (728,-180);
+pos = (738,-180);
 ref = rigthbar.currency;
 }
 );
@@ -1242,11 +1242,11 @@ pos = (-4,0);
 ref = W;
 },
 {
-pos = (-34,-164);
+pos = (-18,-164);
 ref = leftbar.currency;
 },
 {
-pos = (756,-163);
+pos = (772,-163);
 ref = rigthbar.currency;
 }
 );
@@ -1287,15 +1287,15 @@ pos = (13,0);
 ref = W;
 },
 {
-pos = (-50,-135);
+pos = (-22,-135);
 ref = leftbar.currency;
 },
 {
-pos = (807,-134);
+pos = (835,-134);
 ref = rigthbar.currency;
 }
 );
-width = 1067;
+width = 1128;
 },
 {
 background = {

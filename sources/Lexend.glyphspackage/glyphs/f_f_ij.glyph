@@ -568,15 +568,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (361,0);
+pos = (366,0);
 ref = f;
 },
 {
-pos = (792,0);
+pos = (802,0);
 ref = ij;
 }
 );
-width = 1518;
+width = 1528;
 },
 {
 anchors = (
@@ -737,15 +737,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (320,0);
+pos = (348,0);
 ref = f;
 },
 {
-pos = (710,0);
+pos = (766,0);
 ref = ij;
 }
 );
-width = 1375;
+width = 1490;
 },
 {
 anchors = (
@@ -799,15 +799,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (341,0);
+pos = (377,0);
 ref = f;
 },
 {
-pos = (742,0);
+pos = (814,0);
 ref = ij;
 }
 );
-width = 1451;
+width = 1537;
 },
 {
 anchors = (
@@ -830,15 +830,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (401,0);
+pos = (403,0);
 ref = f;
 },
 {
-pos = (852,0);
+pos = (856,0);
 ref = ij;
 }
 );
-width = 1713;
+width = 1704;
 },
 {
 anchors = (

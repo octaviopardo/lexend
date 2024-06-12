@@ -495,7 +495,7 @@ pos = (621,0);
 ref = eight.dnom;
 }
 );
-width = 1069;
+width = 1097;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
@@ -535,7 +535,7 @@ pos = (704,0);
 ref = eight.dnom;
 }
 );
-width = 1141;
+width = 1195;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -555,7 +555,7 @@ pos = (954,0);
 ref = eight.dnom;
 }
 );
-width = 1422;
+width = 1506;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

@@ -207,7 +207,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = i;
 };
-width = 854;
+width = 840;
 },
 {
 anchors = (
@@ -237,7 +237,7 @@ pos = (610,0);
 ref = i;
 }
 );
-width = 802;
+width = 772;
 },
 {
 anchors = (
@@ -267,7 +267,7 @@ pos = (646,0);
 ref = i;
 }
 );
-width = 856;
+width = 842;
 },
 {
 anchors = (
@@ -297,7 +297,7 @@ pos = (740,0);
 ref = i;
 }
 );
-width = 1055;
+width = 1085;
 },
 {
 anchors = (
@@ -327,7 +327,7 @@ pos = (758,0);
 ref = i;
 }
 );
-width = 991;
+width = 1005;
 },
 {
 anchors = (
@@ -491,15 +491,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (361,0);
+pos = (366,0);
 ref = f;
 },
 {
-pos = (792,0);
+pos = (802,0);
 ref = i;
 }
 );
-width = 1155;
+width = 1165;
 },
 {
 anchors = (
@@ -561,7 +561,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = i;
 };
-width = 1666;
+width = 1762;
 },
 {
 anchors = (
@@ -591,7 +591,7 @@ pos = (1460,0);
 ref = i;
 }
 );
-width = 1823;
+width = 2003;
 },
 {
 anchors = (
@@ -621,7 +621,7 @@ pos = (1432,0);
 ref = i;
 }
 );
-width = 1855;
+width = 2035;
 },
 {
 anchors = (
@@ -640,15 +640,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (320,0);
+pos = (348,0);
 ref = f;
 },
 {
-pos = (710,0);
+pos = (766,0);
 ref = i;
 }
 );
-width = 1072;
+width = 1128;
 },
 {
 anchors = (
@@ -694,15 +694,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (341,0);
+pos = (377,0);
 ref = f;
 },
 {
-pos = (742,0);
+pos = (814,0);
 ref = i;
 }
 );
-width = 1105;
+width = 1177;
 },
 {
 anchors = (
@@ -721,15 +721,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (401,0);
+pos = (403,0);
 ref = f;
 },
 {
-pos = (852,0);
+pos = (856,0);
 ref = i;
 }
 );
-width = 1277;
+width = 1281;
 },
 {
 anchors = (

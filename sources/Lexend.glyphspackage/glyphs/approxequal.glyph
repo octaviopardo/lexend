@@ -34,7 +34,7 @@ pos = (0,-135);
 ref = asciitilde;
 }
 );
-width = 571;
+width = 591;
 },
 {
 background = {
@@ -60,7 +60,7 @@ pos = (0,-130);
 ref = asciitilde;
 }
 );
-width = 565;
+width = 611;
 },
 {
 background = {
@@ -86,7 +86,7 @@ pos = (0,-101);
 ref = asciitilde;
 }
 );
-width = 610;
+width = 590;
 },
 {
 background = {
@@ -211,7 +211,7 @@ pos = (0,-124);
 ref = asciitilde;
 }
 );
-width = 603;
+width = 591;
 },
 {
 background = {
@@ -291,7 +291,7 @@ pos = (-33,-121);
 ref = asciitilde;
 }
 );
-width = 610;
+width = 590;
 },
 {
 layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
@@ -305,7 +305,7 @@ pos = (-33,-124);
 ref = asciitilde;
 }
 );
-width = 604;
+width = 591;
 },
 {
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
@@ -319,7 +319,7 @@ pos = (-34,-129);
 ref = asciitilde;
 }
 );
-width = 565;
+width = 613;
 },
 {
 background = {
@@ -345,7 +345,7 @@ pos = (-36,-137);
 ref = asciitilde;
 }
 );
-width = 573;
+width = 592;
 },
 {
 background = {
@@ -657,7 +657,7 @@ pos = (0,-135);
 ref = asciitilde;
 }
 );
-width = 706;
+width = 715;
 },
 {
 background = {
@@ -698,13 +698,12 @@ pos = (0,-101);
 ref = asciitilde;
 }
 );
-width = 890;
+width = 880;
 },
 {
 background = {
 shapes = (
 {
-pos = (10,0);
 ref = equal;
 }
 );
@@ -712,15 +711,15 @@ ref = equal;
 layerId = "56E2E529-1525-41E1-A6C9-F61509B51536";
 shapes = (
 {
-pos = (10,90);
+pos = (0,90);
 ref = asciitilde;
 },
 {
-pos = (10,-135);
+pos = (0,-135);
 ref = asciitilde;
 }
 );
-width = 841;
+width = 881;
 },
 {
 layerId = "ECA432A1-DADC-473D-86B5-C0054BBC86FE";
@@ -734,7 +733,7 @@ pos = (0,-125);
 ref = asciitilde;
 }
 );
-width = 827;
+width = 867;
 },
 {
 background = {
@@ -854,7 +853,7 @@ pos = (-36,-137);
 ref = asciitilde;
 }
 );
-width = 700;
+width = 716;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -948,21 +947,21 @@ pos = (-27,-101);
 ref = asciitilde;
 }
 );
-width = 891;
+width = 880;
 },
 {
 layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";
 shapes = (
 {
-pos = (37,90);
+pos = (25,90);
 ref = asciitilde;
 },
 {
-pos = (-23,-135);
+pos = (-35,-135);
 ref = asciitilde;
 }
 );
-width = 844;
+width = 882;
 },
 {
 background = {
@@ -1042,7 +1041,7 @@ pos = (-34,-125);
 ref = asciitilde;
 }
 );
-width = 829;
+width = 869;
 }
 );
 metricLeft = asciitilde;

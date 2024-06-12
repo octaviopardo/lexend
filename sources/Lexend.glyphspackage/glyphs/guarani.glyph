@@ -865,11 +865,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (70,0);
+pos = (58,0);
 ref = bar.currency;
 }
 );
-width = 923;
+width = 942;
 },
 {
 background = {
@@ -939,11 +939,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (-304,0);
+pos = (40,0);
 ref = bar.currency;
 }
 );
-width = 897;
+width = 937;
 },
 {
 background = {
@@ -976,11 +976,11 @@ shapes = (
 ref = G;
 },
 {
-pos = (-308,0);
+pos = (41,0);
 ref = bar.currency;
 }
 );
-width = 879;
+width = 883;
 },
 {
 background = {

@@ -767,11 +767,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (70,0);
+pos = (56,0);
 ref = diagonal.UC;
 }
 );
-width = 968;
+width = 940;
 },
 {
 background = {
@@ -825,11 +825,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (55,0);
+pos = (59,0);
 ref = diagonal.UC;
 }
 );
-width = 951;
+width = 959;
 },
 {
 background = {
@@ -854,11 +854,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (45,0);
+pos = (43,0);
 ref = diagonal.UC;
 }
 );
-width = 934;
+width = 930;
 },
 {
 background = {

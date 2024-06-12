@@ -34,7 +34,7 @@ pos = (162,128);
 ref = centerbar.currency;
 }
 );
-width = 794;
+width = 820;
 },
 {
 background = {
@@ -55,7 +55,7 @@ pos = (155,117);
 ref = centerbar.currency;
 }
 );
-width = 826;
+width = 846;
 },
 {
 background = {
@@ -76,7 +76,7 @@ pos = (117,154);
 ref = centerbar.currency;
 }
 );
-width = 791;
+width = 801;
 },
 {
 background = {
@@ -207,7 +207,7 @@ pos = (160,154);
 ref = centerbar.currency;
 }
 );
-width = 802;
+width = 818;
 },
 {
 background = {
@@ -263,7 +263,7 @@ pos = (191,153);
 ref = centerbar.currency;
 }
 );
-width = 787;
+width = 797;
 },
 {
 layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
@@ -276,7 +276,7 @@ pos = (198,153);
 ref = centerbar.currency;
 }
 );
-width = 798;
+width = 814;
 },
 {
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
@@ -289,7 +289,7 @@ pos = (193,110);
 ref = centerbar.currency;
 }
 );
-width = 829;
+width = 849;
 },
 {
 layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
@@ -302,7 +302,7 @@ pos = (218,129);
 ref = centerbar.currency;
 }
 );
-width = 804;
+width = 830;
 },
 {
 layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
@@ -504,7 +504,7 @@ pos = (205,117);
 ref = centerbar.currency;
 }
 );
-width = 966;
+width = 946;
 },
 {
 background = {
@@ -532,7 +532,7 @@ ref = centerbar.currency;
 scale = (0.853,1);
 }
 );
-width = 1225;
+width = 1193;
 },
 {
 background = {
@@ -553,7 +553,7 @@ pos = (314,127);
 ref = centerbar.currency;
 }
 );
-width = 1235;
+width = 1259;
 },
 {
 background = {
@@ -583,7 +583,7 @@ pos = (350,112);
 ref = centerbar.currency;
 }
 );
-width = 1236;
+width = 1284;
 },
 {
 anchors = (
@@ -754,7 +754,7 @@ pos = (365,125);
 ref = centerbar.currency;
 }
 );
-width = 1246;
+width = 1270;
 },
 {
 background = {
@@ -784,7 +784,7 @@ pos = (385,113);
 ref = centerbar.currency;
 }
 );
-width = 1235;
+width = 1283;
 },
 {
 anchors = (

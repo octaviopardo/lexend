@@ -288,11 +288,11 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (98,0);
+pos = (102,0);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 707;
+width = 711;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
@@ -314,11 +314,11 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (87,-7);
+pos = (100,-7);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 682;
+width = 695;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";

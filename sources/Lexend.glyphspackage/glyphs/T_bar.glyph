@@ -800,11 +800,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (134,-14);
+pos = (132,-14);
 ref = ShortBar.UC;
 }
 );
-width = 628;
+width = 624;
 },
 {
 background = {
@@ -858,11 +858,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (124,-3);
+pos = (144,-3);
 ref = ShortBar.UC;
 }
 );
-width = 630;
+width = 670;
 },
 {
 background = {
@@ -887,11 +887,11 @@ shapes = (
 ref = T;
 },
 {
-pos = (152,-33);
+pos = (162,-33);
 ref = ShortBar.UC;
 }
 );
-width = 749;
+width = 769;
 },
 {
 background = {

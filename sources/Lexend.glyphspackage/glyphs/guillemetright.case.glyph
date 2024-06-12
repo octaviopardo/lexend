@@ -17,7 +17,7 @@ pos = (0,81);
 ref = guillemetright;
 }
 );
-width = 503;
+width = 501;
 },
 {
 guides = (
@@ -45,7 +45,7 @@ ref = guillemetright;
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = guillemetright;
 };
-width = 457;
+width = 450;
 },
 {
 layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
@@ -91,14 +91,14 @@ ref = guillemetright;
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = guillemetright;
 };
-width = 473;
+width = 471;
 },
 {
 background = {
 shapes = (
 {
 angle = 180;
-pos = (493,612);
+pos = (489,612);
 ref = guillemetleft;
 }
 );
@@ -110,7 +110,7 @@ pos = (22,81);
 ref = guillemetright;
 }
 );
-width = 458;
+width = 451;
 },
 {
 layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
@@ -120,7 +120,7 @@ pos = (22,81);
 ref = guillemetright;
 }
 );
-width = 472;
+width = 470;
 },
 {
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
@@ -140,7 +140,7 @@ pos = (22,81);
 ref = guillemetright;
 }
 );
-width = 504;
+width = 502;
 },
 {
 layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
@@ -262,14 +262,14 @@ pos = (0,81);
 ref = guillemetright;
 }
 );
-width = 982;
+width = 984;
 },
 {
 background = {
 shapes = (
 {
 angle = 180;
-pos = (491,612);
+pos = (486,612);
 ref = guillemetleft;
 }
 );
@@ -341,7 +341,7 @@ pos = (22,81);
 ref = guillemetright;
 }
 );
-width = 982;
+width = 984;
 }
 );
 metricLeft = guillemetright;

@@ -715,7 +715,7 @@ shapes = (
 ref = oslash;
 }
 );
-width = 744;
+width = 712;
 },
 {
 background = {
@@ -827,7 +827,7 @@ shapes = (
 ref = oslash;
 }
 );
-width = 711;
+width = 755;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -836,7 +836,7 @@ shapes = (
 ref = oslash;
 }
 );
-width = 718;
+width = 734;
 },
 {
 guides = (

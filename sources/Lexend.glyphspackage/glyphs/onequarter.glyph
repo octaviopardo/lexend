@@ -74,7 +74,7 @@ width = 854;
 background = {
 shapes = (
 {
-pos = (558,0);
+pos = (684,0);
 ref = onehalf;
 }
 );
@@ -400,15 +400,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (327,0);
+pos = (335,0);
 ref = fraction;
 },
 {
-pos = (603,0);
+pos = (701,0);
 ref = four.dnom;
 }
 );
-width = 1005;
+width = 1153;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
@@ -434,15 +434,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (317,0);
+pos = (398,0);
 ref = fraction;
 },
 {
-pos = (648,0);
+pos = (737,0);
 ref = four.dnom;
 }
 );
-width = 1035;
+width = 1201;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -451,15 +451,15 @@ shapes = (
 ref = one.numr;
 },
 {
-pos = (335,0);
+pos = (425,0);
 ref = fraction;
 },
 {
-pos = (861,0);
+pos = (721,0);
 ref = four.dnom;
 }
 );
-width = 1263;
+width = 1225;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

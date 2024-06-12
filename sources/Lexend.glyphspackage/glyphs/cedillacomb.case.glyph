@@ -199,7 +199,7 @@ alignment = -1;
 ref = cedillacomb;
 }
 );
-width = 501;
+width = 503;
 },
 {
 anchors = (
@@ -575,7 +575,7 @@ alignment = -1;
 ref = cedillacomb;
 }
 );
-width = 543;
+width = 540;
 },
 {
 anchors = (
@@ -595,7 +595,7 @@ alignment = -1;
 ref = cedillacomb;
 }
 );
-width = 551;
+width = 580;
 }
 );
 metricWidth = dieresiscomb;

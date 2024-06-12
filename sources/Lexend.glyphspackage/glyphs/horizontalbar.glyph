@@ -203,7 +203,7 @@ shapes = (
 ref = emdash;
 }
 );
-width = 1045;
+width = 925;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
@@ -221,7 +221,7 @@ shapes = (
 ref = emdash;
 }
 );
-width = 1024;
+width = 1050;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";

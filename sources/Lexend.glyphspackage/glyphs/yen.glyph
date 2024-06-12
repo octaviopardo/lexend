@@ -876,11 +876,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (309,0);
+pos = (321,0);
 ref = doubledash.currency;
 }
 );
-width = 692;
+width = 716;
 },
 {
 background = {
@@ -962,11 +962,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (314,0);
+pos = (340,0);
 ref = doubledash.currency;
 }
 );
-width = 686;
+width = 738;
 },
 {
 background = {
@@ -997,11 +997,11 @@ shapes = (
 ref = Y;
 },
 {
-pos = (351,0);
+pos = (371,0);
 ref = doubledash.currency;
 }
 );
-width = 750;
+width = 790;
 },
 {
 background = {

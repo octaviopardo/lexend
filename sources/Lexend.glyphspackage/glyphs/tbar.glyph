@@ -385,7 +385,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (33,0);
+pos = (20,0);
 ref = shortstroke.lc;
 }
 );
@@ -412,7 +412,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (35,0);
+pos = (20,0);
 ref = shortstroke.lc;
 }
 );
@@ -436,7 +436,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (23,0);
+pos = (10,0);
 ref = shortstroke.lc;
 }
 );
@@ -621,7 +621,7 @@ pos = (20,0);
 ref = shortstroke.lc;
 }
 );
-width = 445;
+width = 473;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
@@ -647,7 +647,7 @@ pos = (19,0);
 ref = shortstroke.lc;
 }
 );
-width = 444;
+width = 476;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -660,7 +660,7 @@ pos = (11,0);
 ref = shortstroke.lc;
 }
 );
-width = 451;
+width = 476;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

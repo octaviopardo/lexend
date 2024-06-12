@@ -624,11 +624,11 @@ alignment = 1;
 ref = zero;
 },
 {
-pos = (319,326);
+pos = (367,326);
 ref = period;
 }
 );
-width = 859;
+width = 861;
 },
 {
 background = {
@@ -676,11 +676,11 @@ alignment = 1;
 ref = zero;
 },
 {
-pos = (322,277);
+pos = (318,277);
 ref = period;
 }
 );
-width = 830;
+width = 846;
 },
 {
 background = {
@@ -703,12 +703,12 @@ alignment = 1;
 ref = zero;
 },
 {
-pos = (351,275);
+pos = (333,275);
 ref = period;
 scale = (0.8498,0.8498);
 }
 );
-width = 849;
+width = 843;
 },
 {
 background = {

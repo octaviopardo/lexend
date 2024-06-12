@@ -1120,11 +1120,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (41,0);
+pos = (29,0);
 ref = bar.currency;
 }
 );
-width = 840;
+width = 868;
 },
 {
 background = {
@@ -1206,11 +1206,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (-304,0);
+pos = (40,0);
 ref = bar.currency;
 }
 );
-width = 811;
+width = 867;
 },
 {
 background = {
@@ -1249,11 +1249,11 @@ shapes = (
 ref = C;
 },
 {
-pos = (-293,0);
+pos = (56,0);
 ref = bar.currency;
 }
 );
-width = 776;
+width = 814;
 },
 {
 background = {

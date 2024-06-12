@@ -195,7 +195,7 @@ pos = (33,124);
 ref = dotaccentcomb;
 }
 );
-width = 499;
+width = 503;
 },
 {
 anchors = (
@@ -594,7 +594,7 @@ pos = (35,131);
 ref = dotaccentcomb;
 }
 );
-width = 530;
+width = 580;
 }
 );
 metricWidth = dieresiscomb;

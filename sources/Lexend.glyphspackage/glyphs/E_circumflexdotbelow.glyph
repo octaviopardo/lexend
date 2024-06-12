@@ -378,7 +378,7 @@ pos = (156,0);
 ref = circumflexcomb.case;
 }
 );
-width = 736;
+width = 764;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
@@ -412,7 +412,7 @@ pos = (131,0);
 ref = circumflexcomb.case;
 }
 );
-width = 713;
+width = 753;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -429,7 +429,7 @@ pos = (152,0);
 ref = circumflexcomb.case;
 }
 );
-width = 763;
+width = 777;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
