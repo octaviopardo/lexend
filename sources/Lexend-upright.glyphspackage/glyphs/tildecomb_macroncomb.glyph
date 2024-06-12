@@ -1,0 +1,370 @@
+{
+color = 1;
+glyphname = tildecomb_macroncomb;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = 1;
+pos = (-36,0);
+ref = tildecomb;
+},
+{
+pos = (-36,165);
+ref = macroncomb;
+}
+);
+};
+layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,147);
+ref = "macron-combinator";
+}
+);
+width = 500;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (13,0);
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (13,185);
+ref = macroncomb;
+}
+);
+};
+layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (2,171);
+ref = "macron-combinator";
+}
+);
+width = 500;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (22,0);
+ref = tildecomb;
+},
+{
+pos = (22,235);
+ref = macroncomb;
+}
+);
+};
+layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,202);
+ref = "macron-combinator";
+}
+);
+width = 500;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (11,185);
+ref = macroncomb;
+}
+);
+};
+layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,171);
+ref = "macron-combinator";
+}
+);
+width = 540;
+},
+{
+background = {
+shapes = (
+{
+alignment = 1;
+ref = tildecomb;
+},
+{
+pos = (1,165);
+ref = macroncomb;
+}
+);
+};
+layerId = "9FF8E21A-ED06-4F66-AEDE-2CE647DC4B08";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,146);
+ref = "macron-combinator";
+}
+);
+width = 540;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = tildecomb;
+},
+{
+pos = (6,235);
+ref = macroncomb;
+}
+);
+};
+layerId = "ED109265-B005-47B0-97BD-F1815082B32B";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,218);
+ref = "macron-combinator";
+}
+);
+width = 540;
+},
+{
+background = {
+shapes = (
+{
+alignment = 1;
+pos = (-25,0);
+ref = tildecomb;
+},
+{
+pos = (-25,175);
+ref = macroncomb;
+}
+);
+};
+layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (1,162);
+ref = "macron-combinator";
+}
+);
+width = 500;
+},
+{
+background = {
+shapes = (
+{
+alignment = 1;
+ref = tildecomb;
+},
+{
+pos = (0,165);
+ref = macroncomb;
+}
+);
+};
+color = 3;
+layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,147);
+ref = "macron-combinator";
+}
+);
+width = 500;
+},
+{
+background = {
+shapes = (
+{
+alignment = 1;
+ref = tildecomb;
+},
+{
+pos = (0,175);
+ref = macroncomb;
+}
+);
+};
+layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (1,162);
+ref = "macron-combinator";
+}
+);
+width = 500;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (0,185);
+ref = macroncomb;
+}
+);
+};
+color = 3;
+layerId = "B37EE612-3452-4020-8432-4D908928325E";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (2,171);
+ref = "macron-combinator";
+}
+);
+width = 500;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = tildecomb;
+},
+{
+pos = (0,235);
+ref = macroncomb;
+}
+);
+};
+color = 3;
+layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,202);
+ref = "macron-combinator";
+}
+);
+width = 500;
+},
+{
+background = {
+shapes = (
+{
+alignment = 1;
+pos = (-6,0);
+ref = tildecomb;
+},
+{
+pos = (-5,165);
+ref = macroncomb;
+}
+);
+};
+layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,146);
+ref = "macron-combinator";
+}
+);
+width = 540;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (23,0);
+ref = tildecomb;
+},
+{
+alignment = -1;
+pos = (34,185);
+ref = macroncomb;
+}
+);
+};
+layerId = "56E2E529-1525-41E1-A6C9-F61509B51536";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,171);
+ref = "macron-combinator";
+}
+);
+width = 540;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (84,0);
+ref = tildecomb;
+},
+{
+pos = (90,235);
+ref = macroncomb;
+}
+);
+};
+layerId = "ECA432A1-DADC-473D-86B5-C0054BBC86FE";
+shapes = (
+{
+ref = "tilde-combinator";
+},
+{
+pos = (0,218);
+ref = "macron-combinator";
+}
+);
+width = 577;
+}
+);
+}
