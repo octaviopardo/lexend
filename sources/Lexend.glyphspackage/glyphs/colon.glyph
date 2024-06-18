@@ -104,7 +104,7 @@ pos = (0,-1);
 ref = period;
 },
 {
-pos = (120,446);
+pos = (111,413);
 ref = period;
 }
 );
@@ -349,7 +349,7 @@ pos = (0,-1);
 ref = period;
 },
 {
-pos = (120,446);
+pos = (111,413);
 ref = period;
 }
 );

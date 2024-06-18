@@ -23,13 +23,16 @@ width = 853;
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
+alignment = -1;
 ref = one.numr;
 },
 {
+alignment = -1;
 pos = (322,0);
 ref = fraction;
 },
 {
+alignment = -1;
 pos = (548,0);
 ref = two.dnom;
 }

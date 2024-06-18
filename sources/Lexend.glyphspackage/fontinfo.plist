@@ -1,5 +1,5 @@
 {
-.appVersion = "3309";
+.appVersion = "3310";
 .formatVersion = 3;
 axes = (
 {
@@ -550,6 +550,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -674,6 +695,27 @@ value = (
 {
 pos = 520;
 size = 12;
+}
+);
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 0;
 }
 );
 }
@@ -805,6 +847,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -965,6 +1028,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -1126,6 +1210,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -1241,6 +1346,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -1392,6 +1518,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -1533,6 +1680,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -1653,6 +1821,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -1758,6 +1947,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -1907,6 +2117,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -2062,6 +2293,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -2187,6 +2439,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -2328,6 +2601,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 0;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -2477,6 +2771,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -2601,6 +2916,27 @@ value = (
 {
 pos = 520;
 size = 12;
+}
+);
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 0;
 }
 );
 }
@@ -2732,6 +3068,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -2892,6 +3249,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -3053,6 +3431,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -3168,6 +3567,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -3319,6 +3739,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
 }
 );
 guides = (
@@ -3460,6 +3901,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -3580,6 +4042,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -3685,6 +4168,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -3834,6 +4338,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -3989,6 +4514,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -4114,6 +4660,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -4255,6 +4822,27 @@ value = -100;
 {
 name = "Master Icon Glyph Name";
 value = e;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 151;
+},
+{
+Axis = Spacing;
+Location = 100;
+},
+{
+Axis = Slant;
+Location = 15;
+}
+);
 }
 );
 guides = (
@@ -4362,6 +4950,7 @@ axesValues = (
 0,
 0
 );
+exports = 0;
 instanceInterpolations = {
 "9FF8E21A-ED06-4F66-AEDE-2CE647DC4B08" = 1;
 };
@@ -4375,6 +4964,7 @@ axesValues = (
 0,
 0
 );
+exports = 0;
 instanceInterpolations = {
 "649E0662-786D-44F6-8E8D-A6782F19FFAA" = 0.32558;
 "9FF8E21A-ED06-4F66-AEDE-2CE647DC4B08" = 0.67442;
@@ -4414,6 +5004,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "649E0662-786D-44F6-8E8D-A6782F19FFAA" = 1;
 };
@@ -4546,6 +5137,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "ED109265-B005-47B0-97BD-F1815082B32B" = 1;
 };
@@ -6597,6 +7189,7 @@ axesValues = (
 100,
 0
 );
+exports = 0;
 instanceInterpolations = {
 "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B" = 1;
 };
@@ -6687,6 +7280,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "56E2E529-1525-41E1-A6C9-F61509B51536" = 1;
 };
@@ -6879,6 +7473,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "ECA432A1-DADC-473D-86B5-C0054BBC86FE" = 1;
 };
@@ -6904,6 +7499,7 @@ axesValues = (
 0,
 15
 );
+exports = 0;
 instanceInterpolations = {
 "8308C8B0-7AF6-4656-9414-979187CCC571" = 1;
 };
@@ -6917,6 +7513,7 @@ axesValues = (
 0,
 15
 );
+exports = 0;
 instanceInterpolations = {
 "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E" = 1;
 };
@@ -6955,6 +7552,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "73A43B10-0648-4DFD-A886-FD6879423919" = 1;
 };
@@ -7086,6 +7684,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "FE3F4174-F99C-4541-83B0-EDAFBCC2B583" = 1;
 };
@@ -9138,6 +9737,7 @@ axesValues = (
 100,
 15
 );
+exports = 0;
 instanceInterpolations = {
 "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18" = 1;
 };
@@ -9225,6 +9825,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "D67B8E41-2CEF-4455-B850-223AD2117ADF" = 1;
 };
@@ -9412,6 +10013,7 @@ value = (
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "6B5BFE12-C72B-425A-88A7-6F386C92AD96" = 1;
 };
@@ -9433,7 +10035,40 @@ weightClass = 900;
 customParameters = (
 {
 name = "Variable Font Origin";
-value = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
+value = "5A878C7E-547A-4951-B48F-676DBBC9B762";
+},
+{
+name = "Axis Mappings";
+value = {
+SPAC = {
+0 = 0;
+100 = 100;
+};
+slnt = {
+0 = 0;
+15 = 15;
+};
+wdth = {
+100 = 0;
+120 = 40;
+128 = 56;
+132 = 64;
+136 = 72;
+140 = 80;
+151 = 100;
+};
+wght = {
+100 = 22;
+200 = 50;
+300 = 78;
+400 = 108;
+500 = 130;
+600 = 150;
+700 = 170;
+800 = 198;
+900 = 216;
+};
+};
 }
 );
 name = Variable;
