@@ -1,5 +1,6 @@
 {
 .appVersion = "3314";
+.storedFileType = com.glyphsapp.glyphspackage;
 .formatVersion = 3;
 axes = (
 {
@@ -60,6 +61,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Axis Mappings";
 value = {
 SPAC = {
