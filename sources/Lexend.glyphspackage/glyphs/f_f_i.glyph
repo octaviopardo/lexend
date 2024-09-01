@@ -9,11 +9,11 @@ layers = (
 anchors = (
 {
 name = caret_1;
-pos = (364,0);
+pos = (378,0);
 },
 {
 name = caret_2;
-pos = (707,0);
+pos = (721,0);
 }
 );
 layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
@@ -36,11 +36,11 @@ width = 993;
 anchors = (
 {
 name = caret_1;
-pos = (389,0);
+pos = (449,0);
 },
 {
 name = caret_2;
-pos = (758,0);
+pos = (818,0);
 }
 );
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
@@ -63,11 +63,11 @@ width = 1077;
 anchors = (
 {
 name = caret_1;
-pos = (268,0);
+pos = (285,0);
 },
 {
 name = caret_2;
-pos = (548,0);
+pos = (565,0);
 }
 );
 layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";

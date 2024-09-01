@@ -85,12 +85,10 @@ width = 765;
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
-alignment = -1;
 ref = a.ss01;
 },
 {
-alignment = -1;
-pos = (43,-6);
+pos = (26,-6);
 ref = brevecomb_gravecomb;
 }
 );
@@ -168,7 +166,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (125,0);
+pos = (126,3);
 ref = brevecomb_gravecomb;
 }
 );
@@ -181,7 +179,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (103,-7);
+pos = (111,-7);
 ref = brevecomb_gravecomb;
 }
 );
@@ -353,7 +351,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (188,-7);
+pos = (196,-7);
 ref = brevecomb_gravecomb;
 }
 );

@@ -7,33 +7,31 @@ layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
 shapes = (
 {
 alignment = -1;
-pos = (-254,0);
 ref = periodcentered.case;
 }
 );
-width = 6;
+width = 234;
 },
 {
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
 alignment = -1;
-pos = (-259,0);
 ref = periodcentered.case;
 }
 );
-width = 0;
+width = 278;
 },
 {
 layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
 shapes = (
 {
 alignment = -1;
-pos = (-254,30);
+pos = (0,30);
 ref = periodcentered.case;
 }
 );
-width = 0;
+width = 228;
 },
 {
 layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";

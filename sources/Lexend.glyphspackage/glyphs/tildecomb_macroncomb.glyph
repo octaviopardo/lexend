@@ -7,11 +7,11 @@ background = {
 shapes = (
 {
 alignment = 1;
-pos = (-36,0);
+pos = (-72,0);
 ref = tildecomb;
 },
 {
-pos = (-36,165);
+pos = (-72,165);
 ref = macroncomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = "tilde-combinator";
 },
 {
-pos = (0,147);
+pos = (0,160);
 ref = "macron-combinator";
 }
 );
@@ -33,12 +33,12 @@ background = {
 shapes = (
 {
 alignment = -1;
-pos = (13,0);
+pos = (26,0);
 ref = tildecomb;
 },
 {
 alignment = -1;
-pos = (13,185);
+pos = (26,185);
 ref = macroncomb;
 }
 );
@@ -60,11 +60,11 @@ background = {
 shapes = (
 {
 alignment = -1;
-pos = (22,0);
+pos = (154,0);
 ref = tildecomb;
 },
 {
-pos = (22,235);
+pos = (154,235);
 ref = macroncomb;
 }
 );
@@ -203,7 +203,7 @@ shapes = (
 ref = "tilde-combinator";
 },
 {
-pos = (40,147);
+pos = (39,160);
 ref = "macron-combinator";
 }
 );
@@ -382,7 +382,7 @@ shapes = (
 ref = "tilde-combinator";
 },
 {
-pos = (0,147);
+pos = (0,160);
 ref = "macron-combinator";
 }
 );
@@ -539,7 +539,7 @@ shapes = (
 ref = "tilde-combinator";
 },
 {
-pos = (0,218);
+pos = (-19,218);
 ref = "macron-combinator";
 }
 );
@@ -564,7 +564,7 @@ shapes = (
 ref = "tilde-combinator";
 },
 {
-pos = (40,147);
+pos = (39,160);
 ref = "macron-combinator";
 }
 );

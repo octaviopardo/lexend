@@ -10,10 +10,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(326,354,l),
-(326,375,l),
-(24,375,l),
-(24,354,l)
+(321,354,l),
+(321,375,l),
+(19,375,l),
+(19,354,l)
 );
 }
 );
@@ -22,34 +22,34 @@ layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
 shapes = (
 {
 alignment = -1;
-pos = (-1,0);
+pos = (-6,0);
 ref = D;
 },
 {
-pos = (4,0);
+pos = (-1,0);
 ref = ShortBar.UC;
 }
 );
-width = 736;
+width = 731;
 },
 {
 background = {
 shapes = (
 {
-pos = (69,0);
+pos = (56,0);
 ref = D;
 },
 {
 closed = 1;
 nodes = (
-(401,308,l),
-(401,402,l),
-(49,402,l),
-(49,308,l)
+(388,308,l),
+(388,402,l),
+(36,402,l),
+(36,308,l)
 );
 },
 {
-pos = (34,0);
+pos = (21,0);
 ref = ShortBar.UC;
 }
 );
@@ -58,34 +58,34 @@ layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
 shapes = (
 {
 alignment = -1;
-pos = (69,0);
+pos = (56,0);
 ref = D;
 },
 {
-pos = (47,0);
+pos = (34,0);
 ref = ShortBar.UC;
 }
 );
-width = 834;
+width = 821;
 },
 {
 background = {
 shapes = (
 {
-pos = (29,0);
+pos = (4,0);
 ref = D;
 },
 {
 closed = 1;
 nodes = (
-(422,285,l),
-(422,425,l),
-(24,425,l),
-(24,285,l)
+(397,285,l),
+(397,425,l),
+(-1,425,l),
+(-1,285,l)
 );
 },
 {
-pos = (9,0);
+pos = (-16,0);
 ref = ShortBar.UC;
 }
 );
@@ -94,15 +94,15 @@ layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
 alignment = -1;
-pos = (29,0);
+pos = (4,0);
 ref = D;
 },
 {
-pos = (20,0);
+pos = (-5,0);
 ref = ShortBar.UC;
 }
 );
-width = 819;
+width = 794;
 },
 {
 background = {
@@ -194,6 +194,11 @@ ref = ShortBar.UC;
 }
 );
 };
+guides = (
+{
+pos = (585,426);
+}
+);
 layerId = "ED109265-B005-47B0-97BD-F1815082B32B";
 shapes = (
 {
@@ -535,7 +540,6 @@ pos = (46,0);
 ref = D;
 },
 {
-pos = (-2,-8);
 ref = ShortBar.UC;
 }
 );
@@ -919,7 +923,7 @@ pos = (36,0);
 ref = D;
 },
 {
-alignment = -1;
+pos = (105,0);
 ref = ShortBar.UC;
 }
 );
@@ -977,8 +981,7 @@ pos = (29,0);
 ref = D;
 },
 {
-alignment = -1;
-pos = (0,1);
+pos = (100,1);
 ref = ShortBar.UC;
 }
 );
@@ -1013,7 +1016,7 @@ pos = (34,0);
 ref = D;
 },
 {
-alignment = -1;
+pos = (85,0);
 ref = ShortBar.UC;
 }
 );
@@ -1121,8 +1124,7 @@ pos = (160,0);
 ref = D;
 },
 {
-alignment = -1;
-pos = (84,0);
+pos = (181,0);
 ref = ShortBar.UC;
 }
 );
@@ -1189,8 +1191,7 @@ pos = (106,0);
 ref = D;
 },
 {
-alignment = -1;
-pos = (58,-8);
+pos = (152,-8);
 ref = ShortBar.UC;
 }
 );

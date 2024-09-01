@@ -1,5 +1,5 @@
 {
-.appVersion = "3314";
+.appVersion = "3316";
 .formatVersion = 3;
 axes = (
 {
@@ -60,6 +60,7 @@ value = (
 );
 },
 {
+disabled = 1;
 name = "Axis Mappings";
 value = {
 SPAC = {
@@ -1745,10 +1746,14 @@ pos = (739,710);
 },
 {
 angle = 75;
-pos = (250,262);
+pos = (31,288);
 },
 {
 pos = (394,553);
+},
+{
+angle = 75;
+pos = (512,186);
 }
 );
 id = "8308C8B0-7AF6-4656-9414-979187CCC571";
@@ -1868,7 +1873,7 @@ pos = (146,710);
 },
 {
 angle = 75;
-pos = (365,262);
+pos = (256,281);
 },
 {
 pos = (474,363);
@@ -2185,13 +2190,17 @@ pos = (165,749);
 },
 {
 angle = 75;
-pos = (60,343);
+pos = (577,204);
 },
 {
 pos = (47,508);
 },
 {
 pos = (47,508);
+},
+{
+angle = 75;
+pos = (256,262);
 }
 );
 id = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
@@ -2357,7 +2366,7 @@ pos = (250,262);
 },
 {
 angle = 75;
-pos = (436,282);
+pos = (719,329);
 },
 {
 pos = (165,367);
@@ -2370,7 +2379,7 @@ pos = (591,553);
 },
 {
 angle = 75;
-pos = (44,284);
+pos = (30,284);
 }
 );
 id = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
@@ -2483,25 +2492,6 @@ pos = (672,-10);
 {
 locked = 1;
 pos = (870,710);
-},
-{
-angle = 180;
-pos = (56,552);
-},
-{
-angle = 90;
-pos = (215,498);
-},
-{
-angle = 75;
-pos = (47,293);
-},
-{
-angle = 75;
-pos = (355,266);
-},
-{
-pos = (61,562);
 }
 );
 id = "1577F947-171C-47E9-B930-0DD9C5027ED3";
@@ -2668,11 +2658,15 @@ pos = (305,-10);
 },
 {
 angle = 75;
-pos = (250,262);
+pos = (733,262);
 },
 {
 angle = 75;
-pos = (44,284);
+pos = (51,284);
+},
+{
+angle = 75;
+pos = (270,264);
 }
 );
 id = "210AF8B6-7730-458C-980B-516175326DAB";
@@ -3136,10 +3130,10 @@ locked = 1;
 pos = (91,-243);
 },
 {
-pos = (325,372);
+pos = (883,471);
 },
 {
-pos = (51,361);
+pos = (28,114);
 },
 {
 pos = (51,361);
@@ -3981,10 +3975,14 @@ pos = (739,710);
 },
 {
 angle = 75;
-pos = (250,262);
+pos = (553,169);
 },
 {
 pos = (394,553);
+},
+{
+angle = 75;
+pos = (109,191);
 }
 );
 id = "B6EB032B-7431-414C-8322-D13634C73A8A";
@@ -4247,7 +4245,7 @@ pos = (125,748);
 },
 {
 angle = 75;
-pos = (17,177);
+pos = (156,173);
 },
 {
 pos = (302,350);
@@ -4421,13 +4419,17 @@ pos = (165,749);
 },
 {
 angle = 75;
-pos = (60,343);
+pos = (642,314);
 },
 {
 pos = (47,508);
 },
 {
 pos = (47,508);
+},
+{
+angle = 75;
+pos = (259,262);
 }
 );
 id = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -4606,7 +4608,7 @@ pos = (591,553);
 },
 {
 angle = 75;
-pos = (44,284);
+pos = (747,302);
 }
 );
 id = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
@@ -4730,7 +4732,7 @@ pos = (215,498);
 },
 {
 angle = 75;
-pos = (47,293);
+pos = (795,341);
 },
 {
 angle = 75;
@@ -4908,7 +4910,7 @@ pos = (250,262);
 },
 {
 angle = 75;
-pos = (44,284);
+pos = (811,311);
 }
 );
 id = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
@@ -16004,7 +16006,7 @@ sevensuperior = -20;
 fraction = {
 "@MMK_R_eightsup" = -30;
 "@MMK_R_fivesup" = -10;
-"@MMK_R_foursup" = -50;
+"@MMK_R_foursup" = -110;
 "@MMK_R_sixsup" = -40;
 "@MMK_R_threesup" = -20;
 "@MMK_R_twosup" = -30;
@@ -18212,7 +18214,7 @@ sevensuperior = -17;
 };
 fraction = {
 "@MMK_R_eightsup" = -20;
-"@MMK_R_foursup" = -45;
+"@MMK_R_foursup" = -80;
 "@MMK_R_sixsup" = -45;
 "@MMK_R_twosup" = -30;
 "@MMK_R_zerosup" = -40;
@@ -20675,9 +20677,9 @@ foursuperior = {
 sevensuperior = -11;
 };
 fraction = {
-"@MMK_R_eightsup" = 0;
+"@MMK_R_eightsup" = -30;
 "@MMK_R_fivesup" = -30;
-"@MMK_R_foursup" = -47;
+"@MMK_R_foursup" = -90;
 "@MMK_R_sixsup" = -50;
 "@MMK_R_twosup" = -40;
 "@MMK_R_zerosup" = -30;
@@ -34131,7 +34133,7 @@ sevensuperior = -17;
 };
 fraction = {
 "@MMK_R_eightsup" = -20;
-"@MMK_R_foursup" = -45;
+"@MMK_R_foursup" = -80;
 "@MMK_R_sixsup" = -45;
 "@MMK_R_twosup" = -30;
 "@MMK_R_zerosup" = -40;

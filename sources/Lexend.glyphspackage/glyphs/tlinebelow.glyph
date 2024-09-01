@@ -23,7 +23,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-52,0);
+pos = (-72,0);
 ref = macronbelowcomb;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (-30,0);
+pos = (-20,0);
 ref = macronbelowcomb;
 }
 );
@@ -85,12 +85,10 @@ width = 552;
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
-alignment = -1;
 ref = t;
 },
 {
-alignment = -1;
-pos = (-58,0);
+pos = (-66,0);
 ref = macronbelowcomb;
 }
 );
@@ -275,7 +273,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (77,0);
+pos = (84,0);
 ref = macronbelowcomb;
 }
 );

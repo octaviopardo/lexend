@@ -778,7 +778,7 @@ shapes = (
 ref = caroncomb;
 },
 {
-pos = (20,125);
+pos = (0,125);
 ref = dotaccentcomb;
 }
 );
@@ -825,7 +825,7 @@ shapes = (
 ref = caroncomb;
 },
 {
-pos = (4,155);
+pos = (14,155);
 ref = dotaccentcomb;
 }
 );
@@ -838,7 +838,7 @@ shapes = (
 ref = caroncomb;
 },
 {
-pos = (5,211);
+pos = (25,211);
 ref = dotaccentcomb;
 }
 );

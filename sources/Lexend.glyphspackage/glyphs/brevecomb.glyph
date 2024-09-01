@@ -197,6 +197,11 @@ nodes = (
 }
 );
 };
+guides = (
+{
+pos = (501,589);
+}
+);
 layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
 shapes = (
 {
@@ -811,6 +816,9 @@ guides = (
 {
 angle = 75;
 pos = (413,800);
+},
+{
+pos = (501,589);
 }
 );
 layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";

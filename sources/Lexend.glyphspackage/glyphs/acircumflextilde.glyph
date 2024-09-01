@@ -10,7 +10,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (72,0);
+pos = (44,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -33,12 +33,10 @@ width = 645;
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
-alignment = -1;
 ref = a;
 },
 {
-alignment = -1;
-pos = (118,10);
+pos = (92,10);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -51,7 +49,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (113,0);
+pos = (93,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -87,12 +85,10 @@ width = 803;
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
-alignment = -1;
 ref = a;
 },
 {
-alignment = -1;
-pos = (80,-5);
+pos = (62,-5);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -102,12 +98,10 @@ width = 607;
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
 shapes = (
 {
-alignment = -1;
 ref = a;
 },
 {
-alignment = -1;
-pos = (28,0);
+pos = (22,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -133,7 +127,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (66,0);
+pos = (58,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -185,7 +179,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (93,0);
+pos = (91,-7);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -240,7 +234,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (155,10);
+pos = (142,10);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -253,7 +247,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (187,0);
+pos = (167,0);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -266,7 +260,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (197,-7);
+pos = (183,-7);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -331,7 +325,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (102,0);
+pos = (91,0);
 ref = circumflexcomb_tildecomb;
 }
 );

@@ -233,7 +233,7 @@ pos = (0,81);
 ref = guilsinglleft;
 }
 );
-width = 336;
+width = 376;
 },
 {
 color = 3;
@@ -244,7 +244,7 @@ pos = (0,81);
 ref = guilsinglleft;
 }
 );
-width = 360;
+width = 415;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
@@ -321,7 +321,7 @@ pos = (22,81);
 ref = guilsinglleft;
 }
 );
-width = 336;
+width = 376;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -331,7 +331,7 @@ pos = (22,81);
 ref = guilsinglleft;
 }
 );
-width = 360;
+width = 415;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

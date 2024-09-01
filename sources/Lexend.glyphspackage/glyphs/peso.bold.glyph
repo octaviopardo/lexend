@@ -150,7 +150,7 @@ pos = (601,2);
 ref = doublerigthbar.currency;
 }
 );
-width = 846;
+width = 1098;
 },
 {
 background = {
@@ -2103,13 +2103,11 @@ pos = (125,0);
 ref = P;
 },
 {
-alignment = -1;
-pos = (-5,-1);
+pos = (84,-1);
 ref = doubleleftbar.currency;
 },
 {
-alignment = -1;
-pos = (761,-1);
+pos = (850,-1);
 ref = doublerigthbar.currency;
 }
 );

@@ -285,16 +285,19 @@ guides = (
 {
 angle = 75;
 pos = (528,253);
+},
+{
+pos = (394,157);
 }
 );
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
 shapes = (
 {
-pos = (25,91);
+pos = (29,106);
 ref = minus;
 },
 {
-pos = (-28,-106);
+pos = (-32,-121);
 ref = minus;
 }
 );

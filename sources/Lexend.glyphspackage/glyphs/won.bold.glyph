@@ -1332,13 +1332,11 @@ pos = (71,0);
 ref = W;
 },
 {
-alignment = -1;
-pos = (-37,-184);
+pos = (3,-184);
 ref = leftbar.currency;
 },
 {
-alignment = -1;
-pos = (836,-183);
+pos = (876,-183);
 ref = rigthbar.currency;
 }
 );

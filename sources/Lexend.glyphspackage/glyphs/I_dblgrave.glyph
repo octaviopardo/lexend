@@ -233,11 +233,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (25,0);
+pos = (64,0);
 ref = dblgravecomb.case;
 }
 );
-width = 634;
+width = 712;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
@@ -324,11 +324,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-3,0);
+pos = (36,0);
 ref = dblgravecomb.case;
 }
 );
-width = 636;
+width = 714;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

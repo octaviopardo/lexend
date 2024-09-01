@@ -7,17 +7,17 @@ background = {
 anchors = (
 {
 name = _top;
-pos = (237,525);
+pos = (224,525);
 }
 );
 shapes = (
 {
-pos = (-13,0);
+pos = (-26,0);
 ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (67,146);
+pos = (54,146);
 ref = "grave-combinator";
 }
 );
@@ -25,7 +25,7 @@ ref = "grave-combinator";
 guides = (
 {
 angle = 90;
-pos = (393,794);
+pos = (380,794);
 }
 );
 layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
@@ -46,24 +46,24 @@ background = {
 anchors = (
 {
 name = _top;
-pos = (247,525);
+pos = (246,525);
 }
 );
 shapes = (
 {
-pos = (-1,0);
+pos = (-2,0);
 ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (130,166);
+pos = (129,166);
 ref = "grave-combinator";
 }
 );
 };
 guides = (
 {
-pos = (559,762);
+pos = (558,762);
 }
 );
 layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";

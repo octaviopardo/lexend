@@ -41,8 +41,7 @@ pos = (0,88);
 ref = c;
 },
 {
-alignment = -1;
-pos = (231,-1);
+pos = (236,-1);
 ref = shortbar.currency;
 }
 );
@@ -497,8 +496,7 @@ pos = (24,88);
 ref = c;
 },
 {
-alignment = -1;
-pos = (223,0);
+pos = (228,0);
 ref = shortbar.currency;
 }
 );
@@ -890,8 +888,7 @@ pos = (0,88);
 ref = c;
 },
 {
-alignment = -1;
-pos = (328,-2);
+pos = (388,-2);
 ref = shortbar.currency;
 }
 );
@@ -1208,8 +1205,7 @@ pos = (23,88);
 ref = c;
 },
 {
-alignment = -1;
-pos = (310,-1);
+pos = (370,-1);
 ref = shortbar.currency;
 }
 );

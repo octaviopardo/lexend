@@ -144,7 +144,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = O;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = H;
 };
-width = 590;
+width = 589;
 },
 {
 background = {

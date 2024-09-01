@@ -2191,7 +2191,7 @@ nodes = (
 width = 1086;
 }
 );
-metricLeft = j;
+metricLeft = jdotless;
 metricRight = n;
 unicode = 626;
 }

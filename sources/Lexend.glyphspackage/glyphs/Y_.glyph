@@ -15,7 +15,7 @@ pos = (325,216);
 },
 {
 name = top;
-pos = (315,700);
+pos = (328,700);
 },
 {
 name = topleft;
@@ -37,6 +37,12 @@ nodes = (
 }
 );
 };
+guides = (
+{
+angle = 90;
+pos = (327,629);
+}
+);
 layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
 shapes = (
 {

@@ -261,19 +261,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(435,254,l),
-(435,802,l),
-(385,802,l),
-(385,254,l)
+(415,254,l),
+(415,802,l),
+(365,802,l),
+(365,254,l)
 );
 },
 {
 angle = 180;
-pos = (753,700);
+pos = (733,700);
 ref = U;
 },
 {
-pos = (66,0);
+pos = (46,0);
 ref = manatbar.currency;
 }
 );
@@ -283,11 +283,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (753,700);
+pos = (733,700);
 ref = U;
 },
 {
-pos = (312,0);
+pos = (302,0);
 ref = manatbar.currency;
 }
 );
@@ -295,7 +295,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = H;
 };
-width = 753;
+width = 733;
 },
 {
 background = {
@@ -341,19 +341,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(431,254,l),
-(578,802,l),
-(528,802,l),
-(381,254,l)
+(411,254,l),
+(558,802,l),
+(508,802,l),
+(361,254,l)
 );
 },
 {
 angle = 180;
-pos = (798,693);
+pos = (778,693);
 ref = U;
 },
 {
-pos = (65,0);
+pos = (45,0);
 ref = manatbar.currency;
 }
 );
@@ -363,15 +363,15 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (798,693);
+pos = (778,693);
 ref = U;
 },
 {
-pos = (309,-7);
+pos = (299,-7);
 ref = manatbar.currency;
 }
 );
-width = 753;
+width = 733;
 },
 {
 background = {

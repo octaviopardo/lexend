@@ -63,43 +63,43 @@ width = 826;
 anchors = (
 {
 name = bottom;
-pos = (412,0);
+pos = (463,0);
 },
 {
 name = top;
-pos = (412,700);
+pos = (463,700);
 }
 );
 background = {
 anchors = (
 {
 name = bottom;
-pos = (412,0);
+pos = (463,0);
 },
 {
 name = top;
-pos = (412,700);
+pos = (463,700);
 }
 );
 shapes = (
 {
 closed = 1;
 nodes = (
-(760,1,l),
-(501,362,l),
-(350,254,l),
-(612,-110,l)
+(811,1,l),
+(552,362,l),
+(401,254,l),
+(663,-110,l)
 );
 },
 {
-pos = (-10,0);
+pos = (41,0);
 ref = O;
 }
 );
 };
 guides = (
 {
-pos = (373,-110);
+pos = (424,-110);
 }
 );
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";

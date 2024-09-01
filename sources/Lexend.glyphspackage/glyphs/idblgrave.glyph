@@ -220,7 +220,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-126,7);
+pos = (-126,0);
 ref = dblgravecomb;
 }
 );

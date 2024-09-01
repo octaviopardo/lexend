@@ -85,16 +85,14 @@ width = 765;
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
-alignment = -1;
 ref = a.ss01;
 },
 {
-alignment = -1;
-pos = (43,-6);
+pos = (26,-6);
 ref = circumflexcomb_acutecomb;
 }
 );
-width = 552;
+width = 545;
 },
 {
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";

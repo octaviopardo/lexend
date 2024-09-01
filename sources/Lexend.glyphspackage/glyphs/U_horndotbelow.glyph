@@ -36,7 +36,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (146,0);
+pos = (167,0);
 ref = dotbelowcomb;
 }
 );
@@ -92,7 +92,7 @@ pos = (128,0);
 ref = dotbelowcomb;
 }
 );
-width = 753;
+width = 733;
 },
 {
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
@@ -118,7 +118,7 @@ pos = (120,0);
 ref = dotbelowcomb;
 }
 );
-width = 753;
+width = 733;
 },
 {
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
@@ -247,7 +247,7 @@ shapes = (
 ref = Uhorn;
 },
 {
-pos = (160,0);
+pos = (247,0);
 ref = dotbelowcomb;
 }
 );

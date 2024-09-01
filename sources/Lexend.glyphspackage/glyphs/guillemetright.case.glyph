@@ -98,7 +98,7 @@ background = {
 shapes = (
 {
 angle = 180;
-pos = (489,612);
+pos = (486,612);
 ref = guillemetleft;
 }
 );
@@ -213,7 +213,7 @@ pos = (0,81);
 ref = guillemetright;
 }
 );
-width = 550;
+width = 590;
 },
 {
 color = 3;
@@ -229,7 +229,7 @@ pos = (0,81);
 ref = guillemetright;
 }
 );
-width = 630;
+width = 685;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
@@ -269,7 +269,7 @@ background = {
 shapes = (
 {
 angle = 180;
-pos = (486,612);
+pos = (483,612);
 ref = guillemetleft;
 }
 );
@@ -301,7 +301,7 @@ pos = (22,81);
 ref = guillemetright;
 }
 );
-width = 551;
+width = 591;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -311,7 +311,7 @@ pos = (22,81);
 ref = guillemetright;
 }
 );
-width = 631;
+width = 686;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

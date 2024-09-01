@@ -133,26 +133,22 @@ width = 1437;
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
-alignment = -1;
 ref = I;
 },
 {
-alignment = -1;
-pos = (-23,0);
+pos = (-15,0);
 ref = acutecomb.case;
 },
 {
-alignment = -1;
-pos = (401,0);
+pos = (417,0);
 ref = J;
 },
 {
-alignment = -1;
-pos = (583,0);
+pos = (637,0);
 ref = acutecomb.case;
 }
 );
-width = 991;
+width = 1045;
 },
 {
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
@@ -221,26 +217,22 @@ width = 1305;
 layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
 shapes = (
 {
-alignment = -1;
 ref = I;
 },
 {
-alignment = -1;
-pos = (-27,0);
+pos = (-1,0);
 ref = acutecomb.case;
 },
 {
-alignment = -1;
-pos = (409,0);
+pos = (464,0);
 ref = J;
 },
 {
-alignment = -1;
-pos = (556,0);
+pos = (644,0);
 ref = acutecomb.case;
 }
 );
-width = 1021;
+width = 1110;
 },
 {
 layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
@@ -342,11 +334,11 @@ pos = (521,0);
 ref = J;
 },
 {
-pos = (733,0);
+pos = (783,0);
 ref = acutecomb.case;
 }
 );
-width = 1207;
+width = 1257;
 },
 {
 color = 3;
@@ -364,11 +356,11 @@ pos = (523,0);
 ref = J;
 },
 {
-pos = (717,0);
+pos = (749,0);
 ref = acutecomb.case;
 }
 );
-width = 1182;
+width = 1214;
 },
 {
 color = 3;
@@ -378,19 +370,19 @@ shapes = (
 ref = I;
 },
 {
-pos = (74,0);
+pos = (113,0);
 ref = acutecomb.case;
 },
 {
-pos = (619,0);
+pos = (697,0);
 ref = J;
 },
 {
-pos = (819,0);
+pos = (907,0);
 ref = acutecomb.case;
 }
 );
-width = 1301;
+width = 1469;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
@@ -491,11 +483,11 @@ pos = (520,0);
 ref = J;
 },
 {
-pos = (713,0);
+pos = (763,0);
 ref = acutecomb.case;
 }
 );
-width = 1200;
+width = 1250;
 },
 {
 layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
@@ -512,11 +504,11 @@ pos = (524,0);
 ref = J;
 },
 {
-pos = (703,0);
+pos = (735,0);
 ref = acutecomb.case;
 }
 );
-width = 1188;
+width = 1220;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -525,19 +517,19 @@ shapes = (
 ref = I;
 },
 {
-pos = (75,0);
+pos = (114,0);
 ref = acutecomb.case;
 },
 {
-pos = (621,0);
+pos = (699,0);
 ref = J;
 },
 {
-pos = (809,0);
+pos = (897,0);
 ref = acutecomb.case;
 }
 );
-width = 1303;
+width = 1471;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

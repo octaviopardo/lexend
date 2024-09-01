@@ -10,19 +10,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(211,425,l),
-(55,353,l),
-(91,270,l),
-(211,323,l)
+(198,425,l),
+(42,353,l),
+(78,270,l),
+(198,323,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(211,318,l),
-(471,433,l),
-(431,521,l),
-(211,420,l)
+(198,318,l),
+(458,433,l),
+(418,521,l),
+(198,420,l)
 );
 }
 );
@@ -31,15 +31,15 @@ layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
 shapes = (
 {
 alignment = -1;
-pos = (67,0);
+pos = (54,0);
 ref = L;
 },
 {
-pos = (53,0);
+pos = (40,0);
 ref = "diag-stroke.UC";
 }
 );
-width = 666;
+width = 653;
 },
 {
 background = {
@@ -47,19 +47,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(164,470,l),
-(-44,378,l),
-(25,221,l),
-(164,283,l)
+(160,470,l),
+(-48,378,l),
+(21,221,l),
+(160,283,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(174,281,l),
-(481,418,l),
-(408,571,l),
-(174,468,l)
+(170,281,l),
+(477,418,l),
+(404,571,l),
+(170,468,l)
 );
 }
 );
@@ -68,39 +68,39 @@ layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
 alignment = -1;
-pos = (15,0);
+pos = (11,0);
 ref = L;
 },
 {
-pos = (1,0);
+pos = (-3,0);
 ref = "diag-stroke.UC";
 }
 );
-width = 631;
+width = 627;
 },
 {
 background = {
 shapes = (
 {
-pos = (-36,0);
+pos = (-41,0);
 ref = Eth;
 },
 {
 closed = 1;
 nodes = (
-(285,431,l),
-(277,452,l),
-(124,382,l),
-(124,358,l)
+(280,431,l),
+(272,452,l),
+(119,382,l),
+(119,358,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(12,333,l),
-(20,312,l),
-(124,360,l),
-(124,384,l)
+(7,333,l),
+(15,312,l),
+(119,360,l),
+(119,384,l)
 );
 }
 );
@@ -109,18 +109,17 @@ layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
 shapes = (
 {
 alignment = -1;
-pos = (5,0);
 ref = L;
 },
 {
-pos = (-24,0);
+pos = (-29,0);
 ref = "diag-stroke.UC";
 }
 );
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = L;
 };
-width = 538;
+width = 533;
 },
 {
 background = {
@@ -225,6 +224,7 @@ pos = (48,0);
 ref = L;
 },
 {
+pos = (-30,0);
 ref = "diag-stroke.UC";
 }
 );
@@ -970,8 +970,7 @@ pos = (19,0);
 ref = L;
 },
 {
-alignment = -1;
-pos = (-29,0);
+pos = (35,0);
 ref = "diag-stroke.UC";
 }
 );

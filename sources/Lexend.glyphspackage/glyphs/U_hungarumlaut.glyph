@@ -88,11 +88,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (179,0);
+pos = (169,0);
 ref = hungarumlautcomb.case;
 }
 );
-width = 753;
+width = 733;
 },
 {
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
@@ -114,11 +114,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (166,0);
+pos = (156,0);
 ref = hungarumlautcomb.case;
 }
 );
-width = 753;
+width = 733;
 },
 {
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";

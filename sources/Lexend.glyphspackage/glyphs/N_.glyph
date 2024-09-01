@@ -185,7 +185,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = H;
 };
-width = 731;
+width = 730;
 },
 {
 anchors = (
@@ -269,7 +269,7 @@ pos = (759,355);
 },
 {
 name = top;
-pos = (441,700);
+pos = (451,700);
 }
 );
 layerId = "9FF8E21A-ED06-4F66-AEDE-2CE647DC4B08";

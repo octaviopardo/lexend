@@ -14,7 +14,7 @@ pos = (-129,0);
 ref = brevecomb.case;
 }
 );
-width = 243;
+width = 242;
 },
 {
 layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
@@ -273,7 +273,7 @@ shapes = (
 ref = I.ss01;
 },
 {
-pos = (-20,0);
+pos = (-17,0);
 ref = brevecomb.case;
 }
 );

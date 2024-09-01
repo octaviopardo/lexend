@@ -949,7 +949,7 @@ pos = (238,612);
 },
 {
 name = topright;
-pos = (353,740);
+pos = (443,740);
 }
 );
 color = 3;
@@ -992,7 +992,7 @@ pos = (223,612);
 },
 {
 name = topright;
-pos = (342,740);
+pos = (432,740);
 }
 );
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
@@ -1034,7 +1034,7 @@ pos = (239,612);
 },
 {
 name = topright;
-pos = (426,835);
+pos = (486,835);
 }
 );
 background = {
@@ -1099,7 +1099,7 @@ pos = (239,622);
 },
 {
 name = topright;
-pos = (493,860);
+pos = (533,860);
 }
 );
 background = {

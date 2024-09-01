@@ -227,7 +227,7 @@ pos = (398,0);
 },
 {
 name = center;
-pos = (182,350);
+pos = (152,350);
 },
 {
 name = periodcentered;
@@ -1019,7 +1019,7 @@ pos = (492,0);
 },
 {
 name = center;
-pos = (276,350);
+pos = (246,350);
 },
 {
 name = periodcentered;

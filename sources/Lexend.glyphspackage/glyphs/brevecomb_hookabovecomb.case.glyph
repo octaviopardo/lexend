@@ -382,7 +382,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (0,237);
+pos = (0,252);
 ref = "hookabove-combinator";
 }
 );
@@ -489,22 +489,19 @@ background = {
 anchors = (
 {
 name = _top;
-pos = (367,700);
-},
-{
-name = top;
-pos = (403,835);
+pos = (250,700);
 }
 );
 shapes = (
 {
 alignment = -1;
-pos = (43,160);
+pos = (0,125);
 ref = "breve-combinator";
 },
 {
-pos = (-4,14);
-ref = "hookaboveUC-combinator";
+alignment = -1;
+pos = (0,252);
+ref = "hookabove-combinator";
 }
 );
 };
@@ -522,7 +519,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (58,234);
+pos = (56,252);
 ref = "hookabove-combinator";
 }
 );
@@ -799,6 +796,11 @@ ref = "breve-combinator";
 {
 pos = (2,335);
 ref = "hookaboveUC-combinator";
+},
+{
+alignment = -1;
+pos = (0,252);
+ref = "hookabove-combinator";
 }
 );
 };
@@ -811,7 +813,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (0,237);
+pos = (0,252);
 ref = "hookabove-combinator";
 }
 );
@@ -1249,7 +1251,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (58,234);
+pos = (56,252);
 ref = "hookabove-combinator";
 }
 );

@@ -49,7 +49,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (113,0);
+pos = (93,0);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -166,7 +166,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (94,0);
+pos = (95,3);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -179,7 +179,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (93,0);
+pos = (99,-7);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -247,7 +247,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (188,0);
+pos = (168,0);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -351,7 +351,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (188,0);
+pos = (196,0);
 ref = brevecomb_hookabovecomb;
 }
 );

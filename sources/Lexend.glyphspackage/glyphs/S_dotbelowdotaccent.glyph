@@ -266,15 +266,15 @@ shapes = (
 ref = S;
 },
 {
-pos = (85,0);
+pos = (105,0);
 ref = dotbelowcomb;
 },
 {
-pos = (88,0);
+pos = (108,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 690;
+width = 700;
 },
 {
 color = 3;
@@ -387,15 +387,15 @@ shapes = (
 ref = S;
 },
 {
-pos = (108,0);
+pos = (130,0);
 ref = dotbelowcomb;
 },
 {
-pos = (52,0);
+pos = (74,0);
 ref = dotaccentcomb.case;
 }
 );
-width = 682;
+width = 704;
 },
 {
 layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";

@@ -247,7 +247,7 @@ shapes = (
 ref = y;
 },
 {
-pos = (140,0);
+pos = (120,0);
 ref = dotaccentcomb;
 }
 );

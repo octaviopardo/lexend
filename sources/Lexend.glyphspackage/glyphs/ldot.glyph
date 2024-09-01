@@ -24,11 +24,12 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (65,339);
 ref = period;
 }
 );
-width = 207;
+width = 192;
 },
 {
 background = {
@@ -50,11 +51,12 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (193,278);
 ref = period;
 }
 );
-width = 353;
+width = 360;
 },
 {
 background = {
@@ -76,12 +78,12 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (289,252);
+alignment = 1;
+pos = (294,252);
 ref = period;
 }
 );
-width = 505;
+width = 640;
 },
 {
 background = {
@@ -103,6 +105,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (185,267);
 ref = period;
 }
@@ -129,6 +132,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (116,340);
 ref = period;
 }
@@ -155,6 +159,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (290,256);
 ref = period;
 }
@@ -181,6 +186,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (109,309);
 ref = period;
 }
@@ -207,6 +213,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (154,343);
 ref = period;
 }
@@ -233,6 +240,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (197,314);
 ref = period;
 }
@@ -259,8 +267,8 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (357,252);
+alignment = 1;
+pos = (362,252);
 ref = period;
 }
 );
@@ -286,6 +294,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (266,277);
 ref = period;
 }
@@ -312,6 +321,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (208,343);
 ref = period;
 }
@@ -338,6 +348,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (357,252);
 ref = period;
 }
@@ -364,6 +375,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (256,268);
 ref = period;
 }
@@ -391,6 +403,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (252,339);
 ref = period;
 }
@@ -417,6 +430,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (126,309);
 ref = period;
 }
@@ -444,6 +458,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (190,284);
 ref = period;
 }
@@ -471,6 +486,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (306,252);
 ref = period;
 }
@@ -497,11 +513,12 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (89,340);
+alignment = 1;
+pos = (185,340);
 ref = period;
 }
 );
-width = 316;
+width = 458;
 },
 {
 background = {
@@ -523,11 +540,12 @@ alignment = -1;
 ref = l;
 },
 {
-pos = (217,267);
+alignment = 1;
+pos = (267,267);
 ref = period;
 }
 );
-width = 438;
+width = 543;
 },
 {
 background = {
@@ -549,8 +567,8 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (290,256);
+alignment = 1;
+pos = (300,256);
 ref = period;
 }
 );
@@ -576,8 +594,8 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (170,343);
+alignment = 1;
+pos = (219,343);
 ref = period;
 }
 );
@@ -603,8 +621,8 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (204,314);
+alignment = 1;
+pos = (214,314);
 ref = period;
 }
 );
@@ -630,8 +648,8 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (257,277);
+alignment = 1;
+pos = (263,277);
 ref = period;
 }
 );
@@ -657,8 +675,8 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (357,252);
+alignment = 1;
+pos = (364,252);
 ref = period;
 }
 );
@@ -684,6 +702,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (180,343);
 ref = period;
 }
@@ -710,6 +729,7 @@ alignment = -1;
 ref = l;
 },
 {
+alignment = 1;
 pos = (288,268);
 ref = period;
 }
@@ -736,8 +756,8 @@ alignment = -1;
 ref = l;
 },
 {
-alignment = -1;
-pos = (357,252);
+alignment = 1;
+pos = (367,252);
 ref = period;
 }
 );

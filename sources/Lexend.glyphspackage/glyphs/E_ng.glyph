@@ -132,7 +132,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = N;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = N;
 };
-width = 731;
+width = 730;
 },
 {
 background = {

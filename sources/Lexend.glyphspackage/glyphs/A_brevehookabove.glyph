@@ -244,12 +244,10 @@ width = 802;
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (182,0);
+pos = (173,0);
 ref = brevecomb_hookabovecomb.case;
 }
 );
@@ -259,12 +257,10 @@ width = 903;
 layerId = "56E2E529-1525-41E1-A6C9-F61509B51536";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (222,0);
+pos = (206,0);
 ref = brevecomb_hookabovecomb.case;
 }
 );
@@ -352,12 +348,10 @@ width = 903;
 layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (209,0);
+pos = (193,0);
 ref = brevecomb_hookabovecomb.case;
 }
 );

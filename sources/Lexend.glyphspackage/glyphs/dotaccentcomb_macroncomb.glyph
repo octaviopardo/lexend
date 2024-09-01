@@ -9,7 +9,7 @@ shapes = (
 ref = "dotaccent-combinator";
 },
 {
-pos = (0,161);
+pos = (0,174);
 ref = "macron-combinator";
 }
 );
@@ -105,7 +105,7 @@ shapes = (
 ref = "dotaccent-combinator";
 },
 {
-pos = (43,161);
+pos = (42,174);
 ref = "macron-combinator";
 }
 );
@@ -197,7 +197,7 @@ shapes = (
 ref = "dotaccent-combinator";
 },
 {
-pos = (0,161);
+pos = (0,174);
 ref = "macron-combinator";
 }
 );
@@ -282,7 +282,7 @@ shapes = (
 ref = "dotaccent-combinator";
 },
 {
-pos = (0,200);
+pos = (-19,200);
 ref = "macron-combinator";
 }
 );
@@ -295,7 +295,7 @@ shapes = (
 ref = "dotaccent-combinator";
 },
 {
-pos = (43,161);
+pos = (42,174);
 ref = "macron-combinator";
 }
 );

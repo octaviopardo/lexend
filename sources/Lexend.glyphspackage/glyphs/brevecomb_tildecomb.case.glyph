@@ -65,7 +65,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (6,281);
+pos = (6,296);
 ref = "tilde-combinator";
 }
 );
@@ -100,7 +100,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (-1,331);
+pos = (-1,341);
 ref = "tilde-combinator";
 }
 );
@@ -134,7 +134,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (0,281);
+pos = (0,291);
 ref = "tilde-combinator";
 }
 );
@@ -237,7 +237,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (-4,259);
+pos = (-4,279);
 ref = "tilde-combinator";
 }
 );
@@ -285,15 +285,22 @@ pos = (365,700);
 }
 );
 background = {
+anchors = (
+{
+name = _top;
+pos = (365,700);
+}
+);
 shapes = (
 {
-alignment = 1;
-pos = (-3,0);
+alignment = -1;
+pos = (30,125);
 ref = "breve-combinator";
 },
 {
-pos = (33,132);
-ref = tildecomb.case;
+alignment = -1;
+pos = (66,259);
+ref = "tilde-combinator";
 }
 );
 };
@@ -306,7 +313,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (66,259);
+pos = (73,279);
 ref = "tilde-combinator";
 }
 );
@@ -341,7 +348,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (79,331);
+pos = (84,341);
 ref = "tilde-combinator";
 }
 );
@@ -355,14 +362,22 @@ pos = (367,700);
 }
 );
 background = {
+anchors = (
+{
+name = _top;
+pos = (367,700);
+}
+);
 shapes = (
 {
-alignment = 1;
+alignment = -1;
+pos = (33,124);
 ref = "breve-combinator";
 },
 {
-pos = (56,167);
-ref = tildecomb.case;
+alignment = -1;
+pos = (76,282);
+ref = "tilde-combinator";
 }
 );
 };
@@ -375,7 +390,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (76,282);
+pos = (82,297);
 ref = "tilde-combinator";
 }
 );
@@ -459,12 +474,48 @@ pos = (394,700);
 background = {
 shapes = (
 {
-alignment = 1;
-ref = "breve-combinator";
+closed = 1;
+nodes = (
+(541,727,o),
+(617,779,o),
+(644,858,c),
+(570,873,l),
+(541,826,o),
+(504,805,o),
+(446,805,cs),
+(387,805,o),
+(350,826,o),
+(322,873,c),
+(248,858,l),
+(275,779,o),
+(351,727,o),
+(446,727,cs)
+);
 },
 {
-pos = (29,170);
-ref = tildecomb.case;
+closed = 1;
+nodes = (
+(308,909,l),
+(313,945,o),
+(330,956,o),
+(353,956,cs),
+(390,956,o),
+(487,912,o),
+(546,912,cs),
+(599,912,o),
+(635,962,o),
+(639,1036,c),
+(584,1042,l),
+(579,1005,o),
+(562,995,o),
+(538,995,cs),
+(501,995,o),
+(404,1039,o),
+(346,1039,cs),
+(294,1039,o),
+(257,990,o),
+(253,914,c)
+);
 }
 );
 };
@@ -477,7 +528,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (74,279);
+pos = (72,289);
 ref = "tilde-combinator";
 }
 );
@@ -686,7 +737,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (16,281);
+pos = (16,291);
 ref = "tilde-combinator";
 }
 );
@@ -927,7 +978,7 @@ ref = "breve-combinator";
 },
 {
 alignment = -1;
-pos = (90,279);
+pos = (91,291);
 ref = "tilde-combinator";
 }
 );

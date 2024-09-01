@@ -33,12 +33,10 @@ width = 700;
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (117,0);
+pos = (92,0);
 ref = gravecomb.case;
 }
 );
@@ -87,12 +85,10 @@ width = 898;
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
-alignment = -1;
 ref = A;
 },
 {
-alignment = -1;
-pos = (68,0);
+pos = (55,0);
 ref = gravecomb.case;
 }
 );

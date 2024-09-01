@@ -260,7 +260,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (251,-7);
+pos = (241,-7);
 ref = caroncomb;
 }
 );
@@ -273,7 +273,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (268,0);
+pos = (248,0);
 ref = caroncomb;
 }
 );
@@ -361,12 +361,10 @@ width = 1015;
 layerId = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
 shapes = (
 {
-alignment = -1;
 ref = n;
 },
 {
-alignment = -1;
-pos = (256,0);
+pos = (216,0);
 ref = caroncomb;
 }
 );

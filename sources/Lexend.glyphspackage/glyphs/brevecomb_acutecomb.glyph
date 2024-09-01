@@ -55,7 +55,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (36,184);
+pos = (36,154);
 ref = "acute-combinator";
 }
 );
@@ -124,13 +124,18 @@ ref = acutecomb.case;
 }
 );
 };
+guides = (
+{
+pos = (511,633);
+}
+);
 layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
 shapes = (
 {
 ref = "breve-combinator";
 },
 {
-pos = (55,206);
+pos = (55,186);
 ref = "acute-combinator";
 }
 );
@@ -230,7 +235,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (85,184);
+pos = (77,154);
 ref = "acute-combinator";
 }
 );
@@ -374,13 +379,18 @@ ref = acutecomb.case;
 }
 );
 };
+guides = (
+{
+pos = (511,633);
+}
+);
 layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
 shapes = (
 {
 ref = "breve-combinator";
 },
 {
-pos = (86,176);
+pos = (73,186);
 ref = "acute-combinator";
 }
 );
@@ -440,7 +450,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (36,184);
+pos = (36,154);
 ref = "acute-combinator";
 }
 );
@@ -569,7 +579,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (55,206);
+pos = (55,186);
 ref = "acute-combinator";
 }
 );
@@ -620,7 +630,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (85,184);
+pos = (77,154);
 ref = "acute-combinator";
 }
 );
@@ -747,7 +757,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (86,176);
+pos = (73,186);
 ref = "acute-combinator";
 }
 );

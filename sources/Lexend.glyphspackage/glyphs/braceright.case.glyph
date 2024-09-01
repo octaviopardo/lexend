@@ -176,7 +176,7 @@ ref = braceright;
 userData = {
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = braceright;
 };
-width = 481;
+width = 505;
 },
 {
 color = 3;
@@ -251,7 +251,7 @@ pos = (13,50);
 ref = braceright;
 }
 );
-width = 483;
+width = 507;
 },
 {
 layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";

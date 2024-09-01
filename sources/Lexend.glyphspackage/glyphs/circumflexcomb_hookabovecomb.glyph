@@ -7,7 +7,7 @@ background = {
 shapes = (
 {
 alignment = -1;
-pos = (108,132);
+pos = (88,132);
 ref = "hookabove-combinator";
 }
 );
@@ -30,18 +30,18 @@ background = {
 anchors = (
 {
 name = _top;
-pos = (235,525);
+pos = (220,525);
 }
 );
 shapes = (
 {
 alignment = -1;
-pos = (-14,-143);
+pos = (-29,-143);
 ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-pos = (141,162);
+pos = (126,162);
 ref = "hookabove-combinator";
 }
 );
@@ -64,18 +64,18 @@ background = {
 anchors = (
 {
 name = _top;
-pos = (238,525);
+pos = (166,525);
 }
 );
 shapes = (
 {
 alignment = -1;
-pos = (-11,-143);
+pos = (-83,-143);
 ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-pos = (166,204);
+pos = (94,204);
 ref = "hookabove-combinator";
 }
 );

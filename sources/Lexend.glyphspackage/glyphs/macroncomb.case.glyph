@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (227,700);
+pos = (247,700);
 },
 {
 name = top;
-pos = (227,850);
+pos = (247,850);
 }
 );
 background = {
@@ -529,18 +529,18 @@ width = 540;
 anchors = (
 {
 name = _top;
-pos = (257,700);
+pos = (270,700);
 },
 {
 name = top;
-pos = (257,850);
+pos = (270,850);
 }
 );
 layerId = "56E2E529-1525-41E1-A6C9-F61509B51536";
 shapes = (
 {
 alignment = -1;
-pos = (-13,134);
+pos = (-16,134);
 ref = macron;
 }
 );

@@ -7,11 +7,11 @@ background = {
 shapes = (
 {
 alignment = 1;
-pos = (-18,0);
+pos = (-36,0);
 ref = tildecomb;
 },
 {
-pos = (2,-10);
+pos = (-16,-10);
 ref = acutecomb.case;
 }
 );
@@ -33,11 +33,11 @@ background = {
 shapes = (
 {
 alignment = -1;
-pos = (13,0);
+pos = (26,0);
 ref = tildecomb;
 },
 {
-pos = (23,10);
+pos = (36,10);
 ref = acutecomb.case;
 }
 );
@@ -59,11 +59,11 @@ background = {
 shapes = (
 {
 alignment = -1;
-pos = (7,0);
+pos = (49,0);
 ref = tildecomb;
 },
 {
-pos = (14,60);
+pos = (56,60);
 ref = acutecomb.case;
 }
 );

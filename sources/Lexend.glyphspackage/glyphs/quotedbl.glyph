@@ -56,11 +56,11 @@ shapes = (
 ref = quotesingle;
 },
 {
-pos = (187,0);
+pos = (127,0);
 ref = quotesingle;
 }
 );
-width = 374;
+width = 314;
 },
 {
 background = {
@@ -189,11 +189,11 @@ shapes = (
 ref = quotesingle;
 },
 {
-pos = (102,0);
+pos = (127,0);
 ref = quotesingle;
 }
 );
-width = 290;
+width = 315;
 },
 {
 background = {

@@ -52,6 +52,7 @@ pos = (65,405);
 layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -67,23 +68,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(787,482,l),
-(787,572,l),
-(10,572,l),
-(10,482,l)
+(871,482,l),
+(871,572,l),
+(94,572,l),
+(94,482,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(787,359,l),
-(787,449,l),
-(10,449,l),
-(10,359,l)
+(871,359,l),
+(871,449,l),
+(94,449,l),
+(94,359,l)
 );
 },
 {
-pos = (54,0);
+pos = (138,0);
 ref = P;
 }
 );
@@ -91,6 +92,7 @@ ref = P;
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -98,12 +100,13 @@ pos = (202,117);
 ref = doublecenterbar.currency;
 }
 );
-width = 846;
+width = 1098;
 },
 {
 layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -143,6 +146,7 @@ nodes = (
 layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -170,6 +174,7 @@ pos = (40,490);
 layerId = "9FF8E21A-ED06-4F66-AEDE-2CE647DC4B08";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -195,6 +200,7 @@ ref = naira;
 layerId = "ED109265-B005-47B0-97BD-F1815082B32B";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -289,6 +295,7 @@ pos = (30,498);
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -328,6 +335,7 @@ nodes = (
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -379,6 +387,7 @@ nodes = (
 layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -414,6 +423,7 @@ nodes = (
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -449,6 +459,7 @@ nodes = (
 layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -462,6 +473,7 @@ width = 822;
 layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -517,6 +529,7 @@ ref = P;
 layerId = "210AF8B6-7730-458C-980B-516175326DAB";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -616,6 +629,7 @@ nodes = (
 layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -630,6 +644,7 @@ color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -664,6 +679,7 @@ pos = (30,498);
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -726,6 +742,7 @@ pos = (65,405);
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -766,6 +783,7 @@ color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -793,6 +811,7 @@ pos = (40,490);
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -832,6 +851,7 @@ nodes = (
 layerId = "56E2E529-1525-41E1-A6C9-F61509B51536";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -853,6 +873,7 @@ ref = naira;
 layerId = "ECA432A1-DADC-473D-86B5-C0054BBC86FE";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -952,6 +973,7 @@ nodes = (
 layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -1003,6 +1025,7 @@ nodes = (
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -1038,6 +1061,7 @@ nodes = (
 layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -1073,6 +1097,7 @@ nodes = (
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -1086,12 +1111,11 @@ width = 968;
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
 shapes = (
 {
-alignment = -1;
+alignment = 1;
 ref = peso.bold;
 },
 {
-alignment = -1;
-pos = (235,156);
+pos = (324,156);
 ref = doublecenterbar.currency;
 }
 );
@@ -1123,6 +1147,7 @@ nodes = (
 layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {
@@ -1178,6 +1203,7 @@ ref = P;
 layerId = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
 shapes = (
 {
+alignment = 1;
 ref = peso.bold;
 },
 {

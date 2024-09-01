@@ -10,7 +10,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (14,0);
+pos = (14,13);
 ref = macroncomb_dieresiscomb;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (1,0);
+pos = (0,13);
 ref = macroncomb_dieresiscomb;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (110,0);
+pos = (110,13);
 ref = macroncomb_dieresiscomb;
 }
 );
@@ -273,7 +273,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (247,0);
+pos = (228,0);
 ref = macroncomb_dieresiscomb;
 }
 );
@@ -286,7 +286,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (97,0);
+pos = (96,13);
 ref = macroncomb_dieresiscomb;
 }
 );

@@ -85,12 +85,10 @@ width = 818;
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
-alignment = -1;
 ref = o;
 },
 {
-alignment = -1;
-pos = (99,1);
+pos = (84,1);
 ref = hungarumlautcomb;
 }
 );
@@ -181,7 +179,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (167,0);
+pos = (167,7);
 ref = hungarumlautcomb;
 }
 );
@@ -353,7 +351,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (239,0);
+pos = (241,7);
 ref = hungarumlautcomb;
 }
 );

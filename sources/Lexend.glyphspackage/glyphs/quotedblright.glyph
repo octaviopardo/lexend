@@ -136,11 +136,16 @@ com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quoteright;
 width = 403;
 },
 {
+guides = (
+{
+pos = (401,721);
+}
+);
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
 shapes = (
 {
 angle = 180;
-pos = (570,1318);
+pos = (556,1266);
 ref = quotedblleft;
 }
 );

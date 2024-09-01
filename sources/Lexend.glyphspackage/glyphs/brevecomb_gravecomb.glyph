@@ -21,7 +21,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (-21,184);
+pos = (-21,154);
 ref = "grave-combinator";
 }
 );
@@ -96,7 +96,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (-17,206);
+pos = (-17,186);
 ref = "grave-combinator";
 }
 );
@@ -196,7 +196,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (17,184);
+pos = (9,154);
 ref = "grave-combinator";
 }
 );
@@ -354,7 +354,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (7,176);
+pos = (-6,186);
 ref = "grave-combinator";
 }
 );
@@ -380,7 +380,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (-21,184);
+pos = (-21,154);
 ref = "grave-combinator";
 }
 );
@@ -509,7 +509,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (-17,206);
+pos = (-17,186);
 ref = "grave-combinator";
 }
 );
@@ -560,7 +560,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (17,184);
+pos = (9,154);
 ref = "grave-combinator";
 }
 );
@@ -695,7 +695,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (7,176);
+pos = (-6,186);
 ref = "grave-combinator";
 }
 );

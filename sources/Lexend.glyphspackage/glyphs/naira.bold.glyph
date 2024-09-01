@@ -108,7 +108,7 @@ pos = (694,-116);
 ref = rigthbar.currency;
 }
 );
-width = 939;
+width = 1107;
 },
 {
 background = {
@@ -1492,13 +1492,11 @@ pos = (110,0);
 ref = N;
 },
 {
-alignment = -1;
-pos = (-51,-156);
+pos = (38,-156);
 ref = leftbar.currency;
 },
 {
-alignment = -1;
-pos = (782,-156);
+pos = (871,-156);
 ref = rigthbar.currency;
 }
 );

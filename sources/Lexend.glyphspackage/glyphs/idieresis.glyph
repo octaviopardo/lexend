@@ -220,7 +220,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-69,7);
+pos = (-69,0);
 ref = dieresiscomb;
 }
 );
@@ -270,12 +270,10 @@ width = 543;
 layerId = "ECA432A1-DADC-473D-86B5-C0054BBC86FE";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
-alignment = -1;
-pos = (31,10);
+pos = (12,10);
 ref = dieresiscomb;
 }
 );
@@ -363,12 +361,10 @@ width = 543;
 layerId = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
 shapes = (
 {
-alignment = -1;
 ref = idotless;
 },
 {
-alignment = -1;
-pos = (34,10);
+pos = (14,10);
 ref = dieresiscomb;
 }
 );

@@ -6,6 +6,7 @@ layers = (
 background = {
 shapes = (
 {
+pos = (22,0);
 ref = dieresiscomb;
 }
 );

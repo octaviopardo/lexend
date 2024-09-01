@@ -6,11 +6,11 @@ layers = (
 background = {
 shapes = (
 {
-pos = (-40,0);
+pos = (-80,0);
 ref = macroncomb;
 },
 {
-pos = (-41,165);
+pos = (-81,165);
 ref = "dieresis-combinator";
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = "macron-combinator";
 },
 {
-pos = (0,159);
+pos = (0,132);
 ref = "dieresis-combinator";
 }
 );
@@ -56,11 +56,11 @@ width = 500;
 background = {
 shapes = (
 {
-pos = (-11,0);
+pos = (-83,0);
 ref = macroncomb;
 },
 {
-pos = (-11,265);
+pos = (-83,265);
 ref = "dieresis-combinator";
 }
 );
@@ -196,7 +196,7 @@ shapes = (
 ref = "macron-combinator";
 },
 {
-pos = (43,159);
+pos = (36,132);
 ref = "dieresis-combinator";
 }
 );
@@ -375,7 +375,7 @@ shapes = (
 ref = "macron-combinator";
 },
 {
-pos = (0,159);
+pos = (0,132);
 ref = "dieresis-combinator";
 }
 );
@@ -527,7 +527,7 @@ shapes = (
 ref = "macron-combinator";
 },
 {
-pos = (0,180);
+pos = (19,180);
 ref = "dieresis-combinator";
 }
 );
@@ -552,7 +552,7 @@ shapes = (
 ref = "macron-combinator";
 },
 {
-pos = (43,159);
+pos = (36,132);
 ref = "dieresis-combinator";
 }
 );

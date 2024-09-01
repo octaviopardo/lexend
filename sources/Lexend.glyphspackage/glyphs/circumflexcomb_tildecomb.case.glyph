@@ -172,7 +172,7 @@ ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (-1,323);
+pos = (-1,333);
 ref = "tilde-combinator";
 }
 );
@@ -390,7 +390,7 @@ ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (0,250);
+pos = (0,262);
 ref = "tilde-combinator";
 }
 );
@@ -462,7 +462,7 @@ ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (67,249);
+pos = (71,271);
 ref = "tilde-combinator";
 }
 );
@@ -498,7 +498,7 @@ ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (81,325);
+pos = (83,335);
 ref = "tilde-combinator";
 }
 );
@@ -580,7 +580,7 @@ width = 540;
 anchors = (
 {
 name = _top;
-pos = (386,700);
+pos = (391,700);
 }
 );
 background = {
@@ -698,47 +698,19 @@ background = {
 anchors = (
 {
 name = _top;
-pos = (239,699);
+pos = (250,700);
 }
 );
 shapes = (
 {
-closed = 1;
-nodes = (
-(265,882,l),
-(235,882,l),
-(372,797,l),
-(400,822,l),
-(281,913,l),
-(219,913,l),
-(100,822,l),
-(128,797,l)
-);
+alignment = -1;
+pos = (0,125);
+ref = "circumflex-combinator";
 },
 {
-closed = 1;
-nodes = (
-(152,970,l),
-(156,1000,o),
-(165,1017,o),
-(186,1017,cs),
-(218,1017,o),
-(270,967,o),
-(314,967,cs),
-(353,967,o),
-(382,998,o),
-(386,1056,c),
-(349,1060,l),
-(345,1028,o),
-(337,1013,o),
-(313,1013,cs),
-(281,1013,o),
-(230,1062,o),
-(185,1062,cs),
-(148,1062,o),
-(120,1031,o),
-(114,974,c)
-);
+alignment = -1;
+pos = (0,250);
+ref = "tilde-combinator";
 }
 );
 };
@@ -751,7 +723,7 @@ ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (0,250);
+pos = (0,262);
 ref = "tilde-combinator";
 }
 );

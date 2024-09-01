@@ -21,7 +21,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (0,184);
+pos = (0,154);
 ref = "hookabove-combinator";
 }
 );
@@ -96,7 +96,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (0,206);
+pos = (0,186);
 ref = "hookabove-combinator";
 }
 );
@@ -195,7 +195,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (49,184);
+pos = (41,154);
 ref = "hookabove-combinator";
 }
 );
@@ -345,7 +345,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (56,176);
+pos = (43,186);
 ref = "hookabove-combinator";
 }
 );
@@ -371,7 +371,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (0,184);
+pos = (0,154);
 ref = "hookabove-combinator";
 }
 );
@@ -499,7 +499,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (0,206);
+pos = (0,186);
 ref = "hookabove-combinator";
 }
 );
@@ -550,7 +550,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (49,184);
+pos = (41,154);
 ref = "hookabove-combinator";
 }
 );
@@ -677,7 +677,7 @@ shapes = (
 ref = "breve-combinator";
 },
 {
-pos = (56,176);
+pos = (43,186);
 ref = "hookabove-combinator";
 }
 );

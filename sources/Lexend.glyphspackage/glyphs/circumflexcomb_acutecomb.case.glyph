@@ -52,7 +52,7 @@ ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (129,240);
+pos = (129,260);
 ref = "acute-combinator";
 }
 );
@@ -239,7 +239,7 @@ ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (122,225);
+pos = (127,245);
 ref = "acute-combinator";
 }
 );
@@ -294,8 +294,14 @@ pos = (322,700);
 background = {
 shapes = (
 {
-pos = (-45,0);
-ref = circumflexcomb.case;
+alignment = -1;
+pos = (-45,125);
+ref = "circumflex-combinator";
+},
+{
+alignment = -1;
+pos = (127,245);
+ref = "acute-combinator";
 }
 );
 };
@@ -313,7 +319,7 @@ ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (171,226);
+pos = (173,244);
 ref = "acute-combinator";
 }
 );
@@ -378,7 +384,7 @@ ref = "circumflex-combinator";
 },
 {
 alignment = -1;
-pos = (161,239);
+pos = (167,259);
 ref = "acute-combinator";
 }
 );
@@ -510,39 +516,16 @@ width = 500;
 anchors = (
 {
 name = _top;
-pos = (250,700);
+pos = (205,700);
 }
 );
 background = {
-shapes = (
+anchors = (
 {
-closed = 1;
-nodes = (
-(220,850,l),
-(190,850,l),
-(327,765,l),
-(355,790,l),
-(236,881,l),
-(174,881,l),
-(55,790,l),
-(83,765,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(445,982,l),
-(389,1018,l),
-(312,891,l),
-(343,871,l)
-);
-},
-{
-ref = circumflexcomb.case;
+name = _top;
+pos = (250,700);
 }
 );
-};
-layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
 shapes = (
 {
 alignment = -1;
@@ -555,7 +538,21 @@ pos = (167,225);
 ref = "acute-combinator";
 }
 );
-width = 500;
+};
+layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
+shapes = (
+{
+alignment = -1;
+pos = (-45,125);
+ref = "circumflex-combinator";
+},
+{
+alignment = -1;
+pos = (127,245);
+ref = "acute-combinator";
+}
+);
+width = 496;
 },
 {
 anchors = (

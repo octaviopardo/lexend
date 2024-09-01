@@ -52,7 +52,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (68,0);
 ref = ne.fig;
 }
 );
@@ -90,7 +90,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (17,0);
 ref = ne.fig;
 }
 );
@@ -100,13 +100,13 @@ width = 611;
 anchors = (
 {
 name = center;
-pos = (290,278);
+pos = (300,278);
 }
 );
 layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = equal;
 },
 {
@@ -139,7 +139,7 @@ nodes = (
 layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = equal;
 },
 {
@@ -179,7 +179,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (88,0);
 ref = ne.fig;
 }
 );
@@ -212,7 +212,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (37,0);
 ref = ne.fig;
 }
 );
@@ -268,7 +268,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (85,0);
 ref = ne.fig;
 }
 );
@@ -319,7 +319,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (82,0);
 ref = ne.fig;
 }
 );
@@ -370,7 +370,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (85,0);
 ref = ne.fig;
 }
 );
@@ -421,7 +421,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (27,0);
 ref = ne.fig;
 }
 );
@@ -454,7 +454,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (54,0);
 ref = ne.fig;
 }
 );
@@ -487,7 +487,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (101,0);
 ref = ne.fig;
 }
 );
@@ -520,7 +520,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (65,0);
 ref = ne.fig;
 }
 );
@@ -553,7 +553,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (71,0);
 ref = ne.fig;
 }
 );
@@ -570,7 +570,7 @@ color = 3;
 layerId = "B27DEF7E-0E96-4E19-AF74-B52533B146C6";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = equal;
 },
 {
@@ -630,8 +630,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
-pos = (60,0);
+pos = (84,0);
 ref = ne.fig;
 }
 );
@@ -688,8 +687,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
-pos = (68,0);
+pos = (74,0);
 ref = ne.fig;
 }
 );
@@ -728,8 +726,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
-pos = (32,0);
+pos = (39,0);
 ref = ne.fig;
 }
 );
@@ -766,8 +763,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
-pos = (57,0);
+pos = (60,0);
 ref = ne.fig;
 }
 );
@@ -800,7 +796,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (20,0);
 ref = ne.fig;
 }
 );
@@ -833,7 +829,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (-16,0);
 ref = ne.fig;
 }
 );
@@ -884,8 +880,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
-pos = (72,0);
+pos = (94,0);
 ref = ne.fig;
 }
 );
@@ -936,8 +931,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
-pos = (49,0);
+pos = (71,0);
 ref = ne.fig;
 }
 );
@@ -970,8 +964,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
-pos = (72,0);
+pos = (-8,0);
 ref = ne.fig;
 }
 );
@@ -1022,8 +1015,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
-pos = (31,0);
+pos = (-13,0);
 ref = ne.fig;
 }
 );
@@ -1056,8 +1048,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
-pos = (40,0);
+pos = (56,0);
 ref = ne.fig;
 }
 );
@@ -1090,7 +1081,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (-9,0);
 ref = ne.fig;
 }
 );
@@ -1123,7 +1114,7 @@ alignment = -1;
 ref = equal;
 },
 {
-alignment = -1;
+pos = (-9,0);
 ref = ne.fig;
 }
 );

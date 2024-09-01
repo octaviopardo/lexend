@@ -187,7 +187,7 @@ pos = (0,40);
 ref = bracketright;
 }
 );
-width = 447;
+width = 497;
 },
 {
 color = 3;
@@ -261,7 +261,7 @@ pos = (11,40);
 ref = bracketright;
 }
 );
-width = 447;
+width = 497;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";

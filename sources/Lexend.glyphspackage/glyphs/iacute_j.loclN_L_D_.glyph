@@ -334,11 +334,11 @@ pos = (370,0);
 ref = jdotless;
 },
 {
-pos = (281,-5);
+pos = (331,-5);
 ref = acutecomb;
 }
 );
-width = 695;
+width = 745;
 },
 {
 color = 3;
@@ -348,7 +348,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-49,7);
+pos = (-49,0);
 ref = acutecomb;
 },
 {

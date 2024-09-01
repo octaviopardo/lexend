@@ -10,11 +10,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (731,0);
+pos = (730,0);
 ref = J.ss01;
 }
 );
-width = 1243;
+width = 1242;
 },
 {
 layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
@@ -33,16 +33,14 @@ width = 1352;
 layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
 shapes = (
 {
-alignment = -1;
 ref = N;
 },
 {
-alignment = -1;
-pos = (813,0);
+pos = (833,0);
 ref = J.ss01;
 }
 );
-width = 1419;
+width = 1439;
 },
 {
 layerId = "9FF8E21A-ED06-4F66-AEDE-2CE647DC4B08";
@@ -87,16 +85,14 @@ width = 1669;
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
-alignment = -1;
 ref = N;
 },
 {
-alignment = -1;
-pos = (730,0);
+pos = (746,0);
 ref = J.ss01;
 }
 );
-width = 1317;
+width = 1323;
 },
 {
 layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
@@ -115,31 +111,27 @@ width = 1245;
 layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
 shapes = (
 {
-alignment = -1;
 ref = N;
 },
 {
-alignment = -1;
-pos = (729,0);
+pos = (745,0);
 ref = J.ss01;
 }
 );
-width = 1311;
+width = 1317;
 },
 {
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
 shapes = (
 {
-alignment = -1;
 ref = N;
 },
 {
-alignment = -1;
-pos = (813,0);
+pos = (833,0);
 ref = J.ss01;
 }
 );
-width = 1414;
+width = 1434;
 },
 {
 layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
@@ -218,7 +210,7 @@ pos = (930,0);
 ref = J.ss01;
 }
 );
-width = 1551;
+width = 1601;
 },
 {
 color = 3;
@@ -232,7 +224,7 @@ pos = (922,0);
 ref = J.ss01;
 }
 );
-width = 1554;
+width = 1586;
 },
 {
 color = 3;
@@ -246,7 +238,7 @@ pos = (953,0);
 ref = J.ss01;
 }
 );
-width = 1621;
+width = 1631;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
@@ -311,7 +303,7 @@ pos = (929,0);
 ref = J.ss01;
 }
 );
-width = 1547;
+width = 1597;
 },
 {
 layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
@@ -324,7 +316,7 @@ pos = (923,0);
 ref = J.ss01;
 }
 );
-width = 1560;
+width = 1592;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
@@ -337,7 +329,7 @@ pos = (953,0);
 ref = J.ss01;
 }
 );
-width = 1616;
+width = 1626;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";

@@ -283,6 +283,19 @@ name = _center;
 pos = (250,359);
 }
 );
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(536,285,l),
+(536,425,l),
+(15,425,l),
+(15,285,l)
+);
+}
+);
+};
 layerId = "210AF8B6-7730-458C-980B-516175326DAB";
 shapes = (
 {

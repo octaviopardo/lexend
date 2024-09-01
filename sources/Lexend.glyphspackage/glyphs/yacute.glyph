@@ -84,12 +84,10 @@ width = 811;
 layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
 shapes = (
 {
-alignment = -1;
 ref = y;
 },
 {
-alignment = -1;
-pos = (31,-5);
+pos = (30,-5);
 ref = acutecomb;
 }
 );

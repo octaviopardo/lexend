@@ -465,7 +465,7 @@ layerId = "56E2E529-1525-41E1-A6C9-F61509B51536";
 shapes = (
 {
 alignment = -1;
-pos = (0,1647);
+pos = (-16,1647);
 ref = brevecomb.case;
 scale = (1,-1);
 }
@@ -476,11 +476,11 @@ width = 540;
 anchors = (
 {
 name = _top;
-pos = (282,700);
+pos = (290,700);
 },
 {
 name = top;
-pos = (282,920);
+pos = (290,920);
 }
 );
 layerId = "ECA432A1-DADC-473D-86B5-C0054BBC86FE";

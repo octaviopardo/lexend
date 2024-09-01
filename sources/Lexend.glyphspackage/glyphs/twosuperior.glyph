@@ -97,12 +97,11 @@ width = 353;
 layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
 shapes = (
 {
-alignment = -1;
 pos = (20,74);
 ref = two.numr;
 }
 );
-width = 387;
+width = 388;
 },
 {
 layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
@@ -159,36 +158,33 @@ width = 420;
 layerId = "776C49E0-977A-4BD6-8CD3-5D9049D1BEB7";
 shapes = (
 {
-alignment = -1;
 pos = (0,70);
 ref = two.numr;
 }
 );
-width = 345;
+width = 435;
 },
 {
 color = 3;
 layerId = "B37EE612-3452-4020-8432-4D908928325E";
 shapes = (
 {
-alignment = -1;
 pos = (0,70);
 ref = two.numr;
 }
 );
-width = 344;
+width = 463;
 },
 {
 color = 3;
 layerId = "6C4CF2CA-8AA6-49AE-A907-2FEF4292C6A1";
 shapes = (
 {
-alignment = -1;
 pos = (0,70);
 ref = two.numr;
 }
 );
-width = 363;
+width = 473;
 },
 {
 layerId = "FC7C5204-88CF-4DF6-B66A-632FDC5ADC6B";
@@ -204,7 +200,6 @@ width = 421;
 layerId = "56E2E529-1525-41E1-A6C9-F61509B51536";
 shapes = (
 {
-alignment = -1;
 pos = (0,70);
 ref = two.numr;
 }
@@ -215,7 +210,6 @@ width = 441;
 layerId = "ECA432A1-DADC-473D-86B5-C0054BBC86FE";
 shapes = (
 {
-alignment = -1;
 pos = (0,70);
 ref = two.numr;
 }
@@ -226,45 +220,41 @@ width = 449;
 layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
 shapes = (
 {
-alignment = -1;
 pos = (19,70);
 ref = two.numr;
 }
 );
-width = 338;
+width = 420;
 },
 {
 layerId = "1BA9AD09-26CB-4A81-8B32-9AF925A3E80B";
 shapes = (
 {
-alignment = -1;
 pos = (19,70);
 ref = two.numr;
 }
 );
-width = 348;
+width = 438;
 },
 {
 layerId = "7ECF0C9D-4D27-4613-B5D6-A64BE5C8DA0B";
 shapes = (
 {
-alignment = -1;
 pos = (19,70);
 ref = two.numr;
 }
 );
-width = 345;
+width = 464;
 },
 {
 layerId = "D6496498-4437-4E7E-9055-2080D7EFA995";
 shapes = (
 {
-alignment = -1;
 pos = (20,74);
 ref = two.numr;
 }
 );
-width = 363;
+width = 473;
 },
 {
 layerId = "5DF384D7-1E3E-4513-B0EB-C99FAB66EB18";
@@ -280,12 +270,11 @@ width = 422;
 layerId = "D67B8E41-2CEF-4455-B850-223AD2117ADF";
 shapes = (
 {
-alignment = -1;
-pos = (20,70);
+pos = (19,70);
 ref = two.numr;
 }
 );
-width = 442;
+width = 441;
 },
 {
 layerId = "6B5BFE12-C72B-425A-88A7-6F386C92AD96";
