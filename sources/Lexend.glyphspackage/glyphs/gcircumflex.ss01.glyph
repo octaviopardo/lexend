@@ -277,7 +277,7 @@ pos = (234,10);
 ref = circumflexcomb;
 }
 );
-width = 988;
+width = 1018;
 },
 {
 layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
@@ -368,7 +368,7 @@ pos = (215,10);
 ref = circumflexcomb;
 }
 );
-width = 988;
+width = 1018;
 }
 );
 }

@@ -273,11 +273,11 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (97,10);
+pos = (187,10);
 ref = gravecomb;
 }
 );
-width = 905;
+width = 995;
 },
 {
 layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";

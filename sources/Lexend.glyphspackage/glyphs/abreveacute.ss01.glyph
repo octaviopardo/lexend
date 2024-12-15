@@ -273,11 +273,11 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (128,0);
+pos = (218,0);
 ref = brevecomb_acutecomb;
 }
 );
-width = 905;
+width = 995;
 },
 {
 layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";

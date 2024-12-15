@@ -277,7 +277,7 @@ pos = (293,10);
 ref = commaturnedabovecomb;
 }
 );
-width = 988;
+width = 1018;
 },
 {
 layerId = "B6EB032B-7431-414C-8322-D13634C73A8A";
@@ -368,7 +368,7 @@ pos = (281,10);
 ref = commaturnedabovecomb;
 }
 );
-width = 988;
+width = 1018;
 }
 );
 }
