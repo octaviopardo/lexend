@@ -1,0 +1,382 @@
+{
+color = 1;
+glyphname = macroncomb_acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (250,525);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(257,848,l),
+(234,865,l),
+(155,755,l),
+(170,744,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(305,685,l),
+(35,685,l),
+(35,663,l),
+(305,663,l)
+);
+}
+);
+};
+layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (36,132);
+ref = "acute-combinator";
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,525);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(427,867,l),
+(350,924,l),
+(258,783,l),
+(310,747,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(452,632,l),
+(452,707,l),
+(168,707,l),
+(168,632,l)
+);
+}
+);
+};
+layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (47,172);
+ref = "acute-combinator";
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,535);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(676,937,l),
+(557,1021,l),
+(462,838,l),
+(541,788,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(717,618,l),
+(717,738,l),
+(343,738,l),
+(343,618,l)
+);
+}
+);
+};
+layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (50,180);
+ref = "acute-combinator";
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (270,525);
+}
+);
+layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (55,172);
+ref = "acute-combinator";
+}
+);
+width = 540;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (270,525);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(330,824,l),
+(307,841,l),
+(228,730,l),
+(243,719,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(385,653,l),
+(385,675,l),
+(115,675,l),
+(115,653,l)
+);
+}
+);
+};
+layerId = "9FF8E21A-ED06-4F66-AEDE-2CE647DC4B08";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (47,159);
+ref = "acute-combinator";
+}
+);
+width = 540;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (270,535);
+}
+);
+layerId = "ED109265-B005-47B0-97BD-F1815082B32B";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (0,180);
+ref = "acute-combinator";
+}
+);
+width = 540;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,525);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(340,831,l),
+(295,862,l),
+(217,736,l),
+(248,716,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(387,639,l),
+(387,682,l),
+(113,682,l),
+(113,639,l)
+);
+}
+);
+};
+layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (30,163);
+ref = "acute-combinator";
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (278,525);
+}
+);
+layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (71,132);
+ref = "acute-combinator";
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (321,525);
+}
+);
+layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (74,163);
+ref = "acute-combinator";
+}
+);
+width = 503;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (319,525);
+}
+);
+layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (82,180);
+ref = "acute-combinator";
+}
+);
+width = 503;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (340,525);
+}
+);
+layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (85,172);
+ref = "acute-combinator";
+}
+);
+width = 501;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (339,525);
+}
+);
+layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (92,159);
+ref = "acute-combinator";
+}
+);
+width = 540;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (319,525);
+}
+);
+layerId = "210AF8B6-7730-458C-980B-516175326DAB";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (88,180);
+ref = "acute-combinator";
+}
+);
+width = 540;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (340,525);
+}
+);
+layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
+shapes = (
+{
+ref = "macron-combinator";
+},
+{
+pos = (76,172);
+ref = "acute-combinator";
+}
+);
+width = 540;
+}
+);
+}

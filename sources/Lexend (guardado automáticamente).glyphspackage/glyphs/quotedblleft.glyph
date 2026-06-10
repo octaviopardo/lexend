@@ -1,0 +1,321 @@
+{
+glyphname = quotedblleft;
+kernLeft = quoteleft;
+kernRight = quoteleft;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(108,717,o),
+(68,662,o),
+(68,596,cs),
+(68,531,o),
+(100,507,o),
+(134,507,cs),
+(155,507,o),
+(180,523,o),
+(180,555,cs),
+(180,579,o),
+(167,589,o),
+(154,599,cs),
+(141,609,o),
+(127,618,o),
+(127,642,cs),
+(127,669,o),
+(151,702,o),
+(181,721,c),
+(161,748,l)
+);
+}
+);
+};
+layerId = "5A878C7E-547A-4951-B48F-676DBBC9B762";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (202,0);
+ref = quoteleft;
+}
+);
+width = 436;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(108,717,o),
+(68,662,o),
+(68,596,cs),
+(68,531,o),
+(100,507,o),
+(134,507,cs),
+(155,507,o),
+(180,523,o),
+(180,555,cs),
+(180,579,o),
+(167,589,o),
+(154,599,cs),
+(141,609,o),
+(127,618,o),
+(127,642,cs),
+(127,669,o),
+(151,702,o),
+(181,721,c),
+(161,748,l)
+);
+}
+);
+};
+layerId = "554F9022-F5DF-470A-8852-5D1AD00D5051";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (247,0);
+ref = quoteleft;
+}
+);
+width = 525;
+},
+{
+guides = (
+{
+pos = (205,571);
+}
+);
+layerId = "CCD999A9-9CE8-4787-8FD2-D5D19514269E";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (107,0);
+ref = quoteleft;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quoteleft;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quoteleft;
+};
+width = 335;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(102,711,o),
+(57,645,o),
+(57,558,cs),
+(57,499,o),
+(93,457,o),
+(144,457,cs),
+(177,457,o),
+(217,482,o),
+(217,526,cs),
+(217,563,o),
+(196,579,o),
+(176,591,cs),
+(157,603,o),
+(138,611,o),
+(138,629,cs),
+(138,654,o),
+(168,685,o),
+(216,708,c),
+(183,749,l)
+);
+}
+);
+};
+layerId = "649E0662-786D-44F6-8E8D-A6782F19FFAA";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (282,0);
+ref = quoteleft;
+}
+);
+width = 590;
+},
+{
+layerId = "9FF8E21A-ED06-4F66-AEDE-2CE647DC4B08";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (202,0);
+ref = quoteleft;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quoteleft;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quoteleft;
+};
+width = 430;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(102,711,o),
+(57,645,o),
+(57,558,cs),
+(57,499,o),
+(93,457,o),
+(144,457,cs),
+(177,457,o),
+(217,482,o),
+(217,526,cs),
+(217,563,o),
+(196,579,o),
+(176,591,cs),
+(157,603,o),
+(138,611,o),
+(138,629,cs),
+(138,654,o),
+(168,685,o),
+(216,708,c),
+(183,749,l)
+);
+}
+);
+};
+layerId = "ED109265-B005-47B0-97BD-F1815082B32B";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (327,0);
+ref = quoteleft;
+}
+);
+width = 655;
+},
+{
+layerId = "2B3ECD2C-4B3A-40C3-8F2B-A5E41B85E4DD";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (167,0);
+ref = quoteleft;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quoteleft;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quoteleft;
+};
+width = 403;
+},
+{
+layerId = "8308C8B0-7AF6-4656-9414-979187CCC571";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (128,0);
+ref = quoteleft;
+}
+);
+width = 357;
+},
+{
+layerId = "D73EB801-FF0D-4FD4-BE21-14A6697D7C8E";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (167,0);
+ref = quoteleft;
+}
+);
+width = 402;
+},
+{
+layerId = "FE3F4174-F99C-4541-83B0-EDAFBCC2B583";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (247,0);
+ref = quoteleft;
+}
+);
+width = 525;
+},
+{
+layerId = "73A43B10-0648-4DFD-A886-FD6879423919";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (203,0);
+ref = quoteleft;
+}
+);
+width = 436;
+},
+{
+layerId = "B003C4EB-62D5-4A01-8468-942AE2555DD2";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (201,0);
+ref = quoteleft;
+}
+);
+width = 430;
+},
+{
+layerId = "210AF8B6-7730-458C-980B-516175326DAB";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (327,0);
+ref = quoteleft;
+}
+);
+width = 655;
+},
+{
+layerId = "1577F947-171C-47E9-B930-0DD9C5027ED3";
+shapes = (
+{
+ref = quoteleft;
+},
+{
+pos = (283,0);
+ref = quoteleft;
+}
+);
+width = 590;
+}
+);
+metricLeft = quoteleft;
+metricRight = quoteleft;
+unicode = 8220;
+}
