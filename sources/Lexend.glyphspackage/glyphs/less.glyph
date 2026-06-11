@@ -187,6 +187,193 @@ ref = greater;
 }
 );
 width = 630;
+},
+{
+guides = (
+{
+pos = (241,303);
+}
+);
+layerId = "ADA104CF-6688-4BB0-81A9-4EDFD2E3C2CA";
+shapes = (
+{
+pos = (687,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 687;
+},
+{
+guides = (
+{
+pos = (275,269);
+},
+{
+pos = (290,306);
+}
+);
+layerId = "7E0E4AE9-3EDB-427C-BC45-28665A6961BD";
+shapes = (
+{
+pos = (716,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 716;
+},
+{
+layerId = "BF25AF59-1A7E-4086-ABBC-F3F2B3D35DE9";
+shapes = (
+{
+pos = (740,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 740;
+},
+{
+layerId = "09C782DC-BA1D-442E-A528-34FDFF8F1AC5";
+shapes = (
+{
+pos = (723,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 723;
+},
+{
+guides = (
+{
+pos = (-33,273);
+}
+);
+layerId = "BA046A93-360A-4E3A-BC8F-8C2435EFE482";
+shapes = (
+{
+pos = (810,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 810;
+},
+{
+layerId = "5A851F12-5038-4F62-992E-0902160BC16E";
+shapes = (
+{
+pos = (830,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 830;
+},
+{
+layerId = "D0212503-818D-4918-A66A-75628A394DEF";
+shapes = (
+{
+pos = (860,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 860;
+},
+{
+guides = (
+{
+pos = (84,299);
+}
+);
+layerId = "5D8B743F-1458-4BF9-A1C5-ADBB0DBB9394";
+shapes = (
+{
+angle = 180;
+pos = (702,580);
+ref = greater;
+}
+);
+width = 687;
+},
+{
+guides = (
+{
+pos = (121,269);
+}
+);
+layerId = "D064F5F4-BF7B-400B-A4D9-31D4696BD9AB";
+shapes = (
+{
+angle = 180;
+pos = (730,575);
+ref = greater;
+}
+);
+width = 717;
+},
+{
+layerId = "462ED6B0-F9FF-4868-AA33-9844F6B90436";
+shapes = (
+{
+angle = 180;
+pos = (751,573);
+ref = greater;
+}
+);
+width = 740;
+},
+{
+guides = (
+{
+pos = (62,222);
+}
+);
+layerId = "71F7E377-C92C-4838-87FA-2A2C4352862F";
+shapes = (
+{
+angle = 180;
+pos = (733,573);
+ref = greater;
+}
+);
+width = 723;
+},
+{
+layerId = "8BD0B63D-943E-44F6-8693-0DDDB08F3237";
+shapes = (
+{
+angle = 180;
+pos = (821,564);
+ref = greater;
+}
+);
+width = 811;
+},
+{
+layerId = "42E8C896-4C8E-4CC0-9879-D28FCE66B832";
+shapes = (
+{
+angle = 180;
+pos = (841,573);
+ref = greater;
+}
+);
+width = 830;
+},
+{
+layerId = "C24A5CC2-DD0B-4C78-9344-AE350A897A6D";
+shapes = (
+{
+angle = 180;
+pos = (866,556);
+ref = greater;
+}
+);
+width = 860;
 }
 );
 metricLeft = "=|greater";
