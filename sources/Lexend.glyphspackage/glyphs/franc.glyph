@@ -549,7 +549,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (27,7);
+pos = (-73,7);
 ref = bar2.currency;
 }
 );
@@ -579,7 +579,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (37,5);
+pos = (-63,5);
 ref = bar2.currency;
 }
 );
@@ -609,7 +609,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (51,21);
+pos = (-49,21);
 ref = bar2.currency;
 }
 );
@@ -640,7 +640,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (13,10);
+pos = (-87,10);
 ref = bar2.currency;
 }
 );
@@ -676,7 +676,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (3,-10);
+pos = (-97,-10);
 ref = bar2.currency;
 }
 );
@@ -707,7 +707,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (18,19);
+pos = (-82,19);
 ref = bar2.currency;
 }
 );
@@ -767,7 +767,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (31,10);
+pos = (-69,10);
 ref = bar2.currency;
 }
 );
@@ -797,7 +797,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (33,5);
+pos = (-67,5);
 ref = bar2.currency;
 }
 );
@@ -827,7 +827,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (39,6);
+pos = (-61,6);
 ref = bar2.currency;
 }
 );
@@ -857,7 +857,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (51,18);
+pos = (-49,18);
 ref = bar2.currency;
 }
 );
@@ -887,7 +887,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (9,12);
+pos = (-91,12);
 ref = bar2.currency;
 }
 );
@@ -917,7 +917,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (-2,-10);
+pos = (-102,-10);
 ref = bar2.currency;
 }
 );
@@ -947,7 +947,7 @@ shapes = (
 ref = F;
 },
 {
-pos = (22,10);
+pos = (-78,10);
 ref = bar2.currency;
 }
 );
