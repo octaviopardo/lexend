@@ -1,5 +1,5 @@
 {
-.appVersion = "3529";
+.appVersion = "3530";
 .formatVersion = 3;
 axes = (
 {
@@ -94,7 +94,7 @@ value = 1;
 }
 );
 date = "2022-12-23 18:25:01 +0000";
-familyName = LexendNewSuggested;
+familyName = LexendNS;
 featurePrefixes = (
 {
 automatic = 1;
@@ -1646,7 +1646,7 @@ sliderTopMin = 30;
 axesValues = (
 22,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -1792,7 +1792,7 @@ name = "Thin Slanted";
 axesValues = (
 50,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -1919,7 +1919,7 @@ name = "ExtraLight Slanted";
 axesValues = (
 108,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -2090,7 +2090,7 @@ sliderTopMin = "30";
 axesValues = (
 216,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -2271,7 +2271,7 @@ sliderTopMin = "30";
 axesValues = (
 22,
 100,
-15,
+-15,
 0
 );
 customParameters = (
@@ -2418,7 +2418,7 @@ name = "Zetta Thin Slanted";
 axesValues = (
 108,
 100,
-15,
+-15,
 0
 );
 customParameters = (
@@ -2562,7 +2562,7 @@ sliderTopMin = 30;
 axesValues = (
 216,
 100,
-15,
+-15,
 0
 );
 customParameters = (
@@ -3875,7 +3875,7 @@ sliderTopMin = 30;
 axesValues = (
 22,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -4021,7 +4021,7 @@ name = "Thin Slanted SPAC100";
 axesValues = (
 50,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -4148,7 +4148,7 @@ name = "ExtraLight Slanted SPAC100";
 axesValues = (
 108,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -4319,7 +4319,7 @@ sliderTopMin = "30";
 axesValues = (
 216,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -4500,7 +4500,7 @@ sliderTopMin = "30";
 axesValues = (
 22,
 100,
-15,
+-15,
 100
 );
 customParameters = (
@@ -4647,7 +4647,7 @@ name = "Zetta Thin Slanted SPAC100";
 axesValues = (
 108,
 100,
-15,
+-15,
 100
 );
 customParameters = (
@@ -4791,7 +4791,7 @@ sliderTopMin = 30;
 axesValues = (
 216,
 100,
-15,
+-15,
 100
 );
 customParameters = (
@@ -5167,7 +5167,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -5191,7 +5191,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -5216,7 +5216,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -5249,7 +5249,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -5284,7 +5284,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -5320,7 +5320,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -5357,7 +5357,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -5393,7 +5393,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -5428,7 +5428,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -5453,7 +5453,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -5479,7 +5479,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -5506,7 +5506,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -5540,7 +5540,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -5577,7 +5577,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -5615,7 +5615,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -5654,7 +5654,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -5692,7 +5692,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -5728,7 +5728,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -5753,7 +5753,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -5779,7 +5779,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -5806,7 +5806,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -5840,7 +5840,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -5877,7 +5877,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -5915,7 +5915,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -5954,7 +5954,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -5992,7 +5992,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -6028,7 +6028,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -6053,7 +6053,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -6079,7 +6079,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -6106,7 +6106,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -6140,7 +6140,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -6177,7 +6177,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -6215,7 +6215,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -6254,7 +6254,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -6292,7 +6292,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -6328,7 +6328,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -6353,7 +6353,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -6379,7 +6379,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -6406,7 +6406,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -6440,7 +6440,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -6477,7 +6477,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -6515,7 +6515,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -6554,7 +6554,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -6592,7 +6592,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -6628,7 +6628,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -6653,7 +6653,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -6679,7 +6679,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -6706,7 +6706,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -6740,7 +6740,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -6777,7 +6777,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -6815,7 +6815,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -6854,7 +6854,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -6892,7 +6892,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -6928,7 +6928,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -6952,7 +6952,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -6978,7 +6978,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -7004,7 +7004,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -7038,7 +7038,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -7074,7 +7074,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -7111,7 +7111,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -7149,7 +7149,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -7186,7 +7186,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -7222,7 +7222,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -7234,7 +7234,7 @@ widthClass = 7;
 axesValues = (
 22,
 0,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -7247,7 +7247,7 @@ weightClass = 100;
 axesValues = (
 50,
 0,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -7260,7 +7260,7 @@ weightClass = 200;
 axesValues = (
 78,
 0,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -7274,7 +7274,7 @@ weightClass = 300;
 axesValues = (
 108,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7295,7 +7295,7 @@ name = "Regular-Slanted";
 axesValues = (
 130,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7320,7 +7320,7 @@ weightClass = 500;
 axesValues = (
 150,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7345,7 +7345,7 @@ weightClass = 600;
 axesValues = (
 170,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7371,7 +7371,7 @@ weightClass = 700;
 axesValues = (
 198,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7396,7 +7396,7 @@ weightClass = 800;
 axesValues = (
 216,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7420,7 +7420,7 @@ weightClass = 900;
 axesValues = (
 22,
 0,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -7433,7 +7433,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -7444,7 +7444,7 @@ weightClass = 100;
 axesValues = (
 50,
 0,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -7457,7 +7457,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -7468,7 +7468,7 @@ weightClass = 200;
 axesValues = (
 78,
 0,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -7482,7 +7482,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -7493,7 +7493,7 @@ weightClass = 300;
 axesValues = (
 108,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7515,7 +7515,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -7525,7 +7525,7 @@ value = "LexendNewSuggested Deca";
 axesValues = (
 130,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7550,7 +7550,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -7561,7 +7561,7 @@ weightClass = 500;
 axesValues = (
 150,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7586,7 +7586,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -7597,7 +7597,7 @@ weightClass = 600;
 axesValues = (
 170,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7623,7 +7623,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -7634,7 +7634,7 @@ weightClass = 700;
 axesValues = (
 198,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7659,7 +7659,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -7670,7 +7670,7 @@ weightClass = 800;
 axesValues = (
 216,
 0,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7694,7 +7694,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -7705,7 +7705,7 @@ weightClass = 900;
 axesValues = (
 22,
 40,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -7719,7 +7719,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -7730,7 +7730,7 @@ weightClass = 100;
 axesValues = (
 50,
 40,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -7745,7 +7745,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -7756,7 +7756,7 @@ weightClass = 200;
 axesValues = (
 78,
 40,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -7772,7 +7772,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -7783,7 +7783,7 @@ weightClass = 300;
 axesValues = (
 108,
 40,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7806,7 +7806,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -7816,7 +7816,7 @@ value = "LexendNewSuggested Exa";
 axesValues = (
 130,
 40,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7843,7 +7843,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -7854,7 +7854,7 @@ weightClass = 500;
 axesValues = (
 150,
 40,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7881,7 +7881,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -7892,7 +7892,7 @@ weightClass = 600;
 axesValues = (
 170,
 40,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7920,7 +7920,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -7931,7 +7931,7 @@ weightClass = 700;
 axesValues = (
 198,
 40,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7958,7 +7958,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -7969,7 +7969,7 @@ weightClass = 800;
 axesValues = (
 216,
 40,
-15,
+-15,
 0
 );
 customParameters = (
@@ -7994,7 +7994,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -8005,7 +8005,7 @@ weightClass = 900;
 axesValues = (
 22,
 56,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8019,7 +8019,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -8030,7 +8030,7 @@ weightClass = 100;
 axesValues = (
 50,
 56,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8045,7 +8045,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -8056,7 +8056,7 @@ weightClass = 200;
 axesValues = (
 78,
 56,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8072,7 +8072,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -8083,7 +8083,7 @@ weightClass = 300;
 axesValues = (
 108,
 56,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8106,7 +8106,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -8116,7 +8116,7 @@ value = "LexendNewSuggested Giga";
 axesValues = (
 130,
 56,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8143,7 +8143,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -8154,7 +8154,7 @@ weightClass = 500;
 axesValues = (
 150,
 56,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8181,7 +8181,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -8192,7 +8192,7 @@ weightClass = 600;
 axesValues = (
 170,
 56,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8220,7 +8220,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -8231,7 +8231,7 @@ weightClass = 700;
 axesValues = (
 198,
 56,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8258,7 +8258,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -8269,7 +8269,7 @@ weightClass = 800;
 axesValues = (
 216,
 56,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8294,7 +8294,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -8305,7 +8305,7 @@ weightClass = 900;
 axesValues = (
 22,
 64,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8319,7 +8319,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -8330,7 +8330,7 @@ weightClass = 100;
 axesValues = (
 50,
 64,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8345,7 +8345,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -8356,7 +8356,7 @@ weightClass = 200;
 axesValues = (
 78,
 64,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8372,7 +8372,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -8383,7 +8383,7 @@ weightClass = 300;
 axesValues = (
 108,
 64,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8406,7 +8406,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -8416,7 +8416,7 @@ value = "LexendNewSuggested Mega";
 axesValues = (
 130,
 64,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8443,7 +8443,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -8454,7 +8454,7 @@ weightClass = 500;
 axesValues = (
 150,
 64,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8481,7 +8481,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -8492,7 +8492,7 @@ weightClass = 600;
 axesValues = (
 170,
 64,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8520,7 +8520,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -8531,7 +8531,7 @@ weightClass = 700;
 axesValues = (
 198,
 64,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8558,7 +8558,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -8569,7 +8569,7 @@ weightClass = 800;
 axesValues = (
 216,
 64,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8594,7 +8594,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -8605,7 +8605,7 @@ weightClass = 900;
 axesValues = (
 22,
 72,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8619,7 +8619,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -8630,7 +8630,7 @@ weightClass = 100;
 axesValues = (
 50,
 72,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8645,7 +8645,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -8656,7 +8656,7 @@ weightClass = 200;
 axesValues = (
 78,
 72,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8672,7 +8672,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -8683,7 +8683,7 @@ weightClass = 300;
 axesValues = (
 108,
 72,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8706,7 +8706,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -8716,7 +8716,7 @@ value = "LexendNewSuggested Peta";
 axesValues = (
 130,
 72,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8743,7 +8743,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -8754,7 +8754,7 @@ weightClass = 500;
 axesValues = (
 150,
 72,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8781,7 +8781,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -8792,7 +8792,7 @@ weightClass = 600;
 axesValues = (
 170,
 72,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8820,7 +8820,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -8831,7 +8831,7 @@ weightClass = 700;
 axesValues = (
 198,
 72,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8858,7 +8858,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -8869,7 +8869,7 @@ weightClass = 800;
 axesValues = (
 216,
 72,
-15,
+-15,
 0
 );
 customParameters = (
@@ -8894,7 +8894,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -8905,7 +8905,7 @@ weightClass = 900;
 axesValues = (
 22,
 80,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8919,7 +8919,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -8930,7 +8930,7 @@ weightClass = 100;
 axesValues = (
 50,
 80,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8945,7 +8945,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -8956,7 +8956,7 @@ weightClass = 200;
 axesValues = (
 78,
 80,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -8972,7 +8972,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -8983,7 +8983,7 @@ weightClass = 300;
 axesValues = (
 108,
 80,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9006,7 +9006,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -9016,7 +9016,7 @@ value = "LexendNewSuggested Tera";
 axesValues = (
 130,
 80,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9043,7 +9043,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -9054,7 +9054,7 @@ weightClass = 500;
 axesValues = (
 150,
 80,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9081,7 +9081,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -9093,7 +9093,7 @@ weightClass = 600;
 axesValues = (
 170,
 80,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9121,7 +9121,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -9132,7 +9132,7 @@ weightClass = 700;
 axesValues = (
 198,
 80,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9159,7 +9159,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -9170,7 +9170,7 @@ weightClass = 800;
 axesValues = (
 216,
 80,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9195,7 +9195,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -9206,7 +9206,7 @@ weightClass = 900;
 axesValues = (
 22,
 100,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -9219,7 +9219,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -9230,7 +9230,7 @@ weightClass = 100;
 axesValues = (
 50,
 100,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -9244,7 +9244,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -9256,7 +9256,7 @@ weightClass = 200;
 axesValues = (
 78,
 100,
-15,
+-15,
 0
 );
 instanceInterpolations = {
@@ -9270,7 +9270,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -9281,7 +9281,7 @@ weightClass = 300;
 axesValues = (
 108,
 100,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9303,7 +9303,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -9313,7 +9313,7 @@ value = "LexendNewSuggested Zetta";
 axesValues = (
 130,
 100,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9338,7 +9338,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -9349,7 +9349,7 @@ weightClass = 500;
 axesValues = (
 150,
 100,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9374,7 +9374,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -9385,7 +9385,7 @@ weightClass = 600;
 axesValues = (
 170,
 100,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9411,7 +9411,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -9422,7 +9422,7 @@ weightClass = 700;
 axesValues = (
 198,
 100,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9447,7 +9447,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -9458,7 +9458,7 @@ weightClass = 800;
 axesValues = (
 216,
 100,
-15,
+-15,
 0
 );
 customParameters = (
@@ -9482,7 +9482,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -9745,7 +9745,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -9770,7 +9770,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -9796,7 +9796,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -9830,7 +9830,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -9866,7 +9866,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -9903,7 +9903,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -9941,7 +9941,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -9978,7 +9978,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -10014,7 +10014,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -10040,7 +10040,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -10067,7 +10067,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -10095,7 +10095,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -10130,7 +10130,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -10168,7 +10168,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -10207,7 +10207,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -10247,7 +10247,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -10286,7 +10286,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -10323,7 +10323,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -10349,7 +10349,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -10376,7 +10376,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -10404,7 +10404,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -10439,7 +10439,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -10477,7 +10477,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -10516,7 +10516,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -10556,7 +10556,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -10595,7 +10595,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -10632,7 +10632,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -10658,7 +10658,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -10685,7 +10685,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -10713,7 +10713,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -10748,7 +10748,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -10786,7 +10786,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -10825,7 +10825,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -10865,7 +10865,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -10904,7 +10904,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -10941,7 +10941,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -10967,7 +10967,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -10994,7 +10994,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -11022,7 +11022,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -11057,7 +11057,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -11095,7 +11095,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -11134,7 +11134,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -11174,7 +11174,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -11213,7 +11213,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -11250,7 +11250,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -11276,7 +11276,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -11303,7 +11303,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -11331,7 +11331,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -11366,7 +11366,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -11404,7 +11404,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -11443,7 +11443,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -11483,7 +11483,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -11522,7 +11522,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -11559,7 +11559,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -11584,7 +11584,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -11611,7 +11611,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -11638,7 +11638,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -11673,7 +11673,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -11710,7 +11710,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -11748,7 +11748,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -11787,7 +11787,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -11825,7 +11825,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -11862,7 +11862,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -11875,7 +11875,7 @@ widthClass = 7;
 axesValues = (
 22,
 0,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -11889,7 +11889,7 @@ weightClass = 100;
 axesValues = (
 50,
 0,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -11903,7 +11903,7 @@ weightClass = 200;
 axesValues = (
 78,
 0,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -11918,7 +11918,7 @@ weightClass = 300;
 axesValues = (
 108,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -11940,7 +11940,7 @@ visible = 0;
 axesValues = (
 130,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -11966,7 +11966,7 @@ weightClass = 500;
 axesValues = (
 150,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -11992,7 +11992,7 @@ weightClass = 600;
 axesValues = (
 170,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12019,7 +12019,7 @@ weightClass = 700;
 axesValues = (
 198,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12045,7 +12045,7 @@ weightClass = 800;
 axesValues = (
 216,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12070,7 +12070,7 @@ weightClass = 900;
 axesValues = (
 22,
 0,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12083,7 +12083,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -12095,7 +12095,7 @@ weightClass = 100;
 axesValues = (
 50,
 0,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12108,7 +12108,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -12120,7 +12120,7 @@ weightClass = 200;
 axesValues = (
 78,
 0,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12134,7 +12134,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -12146,7 +12146,7 @@ weightClass = 300;
 axesValues = (
 108,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12168,7 +12168,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -12179,7 +12179,7 @@ visible = 0;
 axesValues = (
 130,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12204,7 +12204,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -12216,7 +12216,7 @@ weightClass = 500;
 axesValues = (
 150,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12241,7 +12241,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -12253,7 +12253,7 @@ weightClass = 600;
 axesValues = (
 170,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12279,7 +12279,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -12291,7 +12291,7 @@ weightClass = 700;
 axesValues = (
 198,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12316,7 +12316,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -12328,7 +12328,7 @@ weightClass = 800;
 axesValues = (
 216,
 0,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12352,7 +12352,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Deca";
+value = "LexendNS Deca";
 }
 );
 }
@@ -12364,7 +12364,7 @@ weightClass = 900;
 axesValues = (
 22,
 40,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12378,7 +12378,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -12390,7 +12390,7 @@ weightClass = 100;
 axesValues = (
 50,
 40,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12405,7 +12405,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -12417,7 +12417,7 @@ weightClass = 200;
 axesValues = (
 78,
 40,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12433,7 +12433,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -12445,7 +12445,7 @@ weightClass = 300;
 axesValues = (
 108,
 40,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12468,7 +12468,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -12479,7 +12479,7 @@ visible = 0;
 axesValues = (
 130,
 40,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12506,7 +12506,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -12518,7 +12518,7 @@ weightClass = 500;
 axesValues = (
 150,
 40,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12545,7 +12545,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -12557,7 +12557,7 @@ weightClass = 600;
 axesValues = (
 170,
 40,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12585,7 +12585,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -12597,7 +12597,7 @@ weightClass = 700;
 axesValues = (
 198,
 40,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12624,7 +12624,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -12636,7 +12636,7 @@ weightClass = 800;
 axesValues = (
 216,
 40,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12661,7 +12661,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Exa";
+value = "LexendNS Exa";
 }
 );
 }
@@ -12673,7 +12673,7 @@ weightClass = 900;
 axesValues = (
 22,
 56,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12687,7 +12687,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -12699,7 +12699,7 @@ weightClass = 100;
 axesValues = (
 50,
 56,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12714,7 +12714,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -12726,7 +12726,7 @@ weightClass = 200;
 axesValues = (
 78,
 56,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12742,7 +12742,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -12754,7 +12754,7 @@ weightClass = 300;
 axesValues = (
 108,
 56,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12777,7 +12777,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -12788,7 +12788,7 @@ visible = 0;
 axesValues = (
 130,
 56,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12815,7 +12815,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -12827,7 +12827,7 @@ weightClass = 500;
 axesValues = (
 150,
 56,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12854,7 +12854,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -12866,7 +12866,7 @@ weightClass = 600;
 axesValues = (
 170,
 56,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12894,7 +12894,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -12906,7 +12906,7 @@ weightClass = 700;
 axesValues = (
 198,
 56,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12933,7 +12933,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -12945,7 +12945,7 @@ weightClass = 800;
 axesValues = (
 216,
 56,
-15,
+-15,
 100
 );
 customParameters = (
@@ -12970,7 +12970,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Giga";
+value = "LexendNS Giga";
 }
 );
 }
@@ -12982,7 +12982,7 @@ weightClass = 900;
 axesValues = (
 22,
 64,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -12996,7 +12996,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -13008,7 +13008,7 @@ weightClass = 100;
 axesValues = (
 50,
 64,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13023,7 +13023,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -13035,7 +13035,7 @@ weightClass = 200;
 axesValues = (
 78,
 64,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13051,7 +13051,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -13063,7 +13063,7 @@ weightClass = 300;
 axesValues = (
 108,
 64,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13086,7 +13086,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -13097,7 +13097,7 @@ visible = 0;
 axesValues = (
 130,
 64,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13124,7 +13124,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -13136,7 +13136,7 @@ weightClass = 500;
 axesValues = (
 150,
 64,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13163,7 +13163,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -13175,7 +13175,7 @@ weightClass = 600;
 axesValues = (
 170,
 64,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13203,7 +13203,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -13215,7 +13215,7 @@ weightClass = 700;
 axesValues = (
 198,
 64,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13242,7 +13242,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -13254,7 +13254,7 @@ weightClass = 800;
 axesValues = (
 216,
 64,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13279,7 +13279,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Mega";
+value = "LexendNS Mega";
 }
 );
 }
@@ -13291,7 +13291,7 @@ weightClass = 900;
 axesValues = (
 22,
 72,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13305,7 +13305,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -13317,7 +13317,7 @@ weightClass = 100;
 axesValues = (
 50,
 72,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13332,7 +13332,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -13344,7 +13344,7 @@ weightClass = 200;
 axesValues = (
 78,
 72,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13360,7 +13360,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -13372,7 +13372,7 @@ weightClass = 300;
 axesValues = (
 108,
 72,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13395,7 +13395,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -13406,7 +13406,7 @@ visible = 0;
 axesValues = (
 130,
 72,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13433,7 +13433,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -13445,7 +13445,7 @@ weightClass = 500;
 axesValues = (
 150,
 72,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13472,7 +13472,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -13484,7 +13484,7 @@ weightClass = 600;
 axesValues = (
 170,
 72,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13512,7 +13512,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -13524,7 +13524,7 @@ weightClass = 700;
 axesValues = (
 198,
 72,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13551,7 +13551,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -13563,7 +13563,7 @@ weightClass = 800;
 axesValues = (
 216,
 72,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13588,7 +13588,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Peta";
+value = "LexendNS Peta";
 }
 );
 }
@@ -13600,7 +13600,7 @@ weightClass = 900;
 axesValues = (
 22,
 80,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13614,7 +13614,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -13626,7 +13626,7 @@ weightClass = 100;
 axesValues = (
 50,
 80,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13641,7 +13641,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -13653,7 +13653,7 @@ weightClass = 200;
 axesValues = (
 78,
 80,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13669,7 +13669,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -13681,7 +13681,7 @@ weightClass = 300;
 axesValues = (
 108,
 80,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13704,7 +13704,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -13715,7 +13715,7 @@ visible = 0;
 axesValues = (
 130,
 80,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13742,7 +13742,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -13754,7 +13754,7 @@ weightClass = 500;
 axesValues = (
 150,
 80,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13781,7 +13781,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -13793,7 +13793,7 @@ weightClass = 600;
 axesValues = (
 170,
 80,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13821,7 +13821,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -13833,7 +13833,7 @@ weightClass = 700;
 axesValues = (
 198,
 80,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13860,7 +13860,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -13872,7 +13872,7 @@ weightClass = 800;
 axesValues = (
 216,
 80,
-15,
+-15,
 100
 );
 customParameters = (
@@ -13897,7 +13897,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Tera";
+value = "LexendNS Tera";
 }
 );
 }
@@ -13909,7 +13909,7 @@ weightClass = 900;
 axesValues = (
 22,
 100,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13922,7 +13922,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -13934,7 +13934,7 @@ weightClass = 100;
 axesValues = (
 50,
 100,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13948,7 +13948,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -13960,7 +13960,7 @@ weightClass = 200;
 axesValues = (
 78,
 100,
-15,
+-15,
 100
 );
 instanceInterpolations = {
@@ -13974,7 +13974,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -13986,7 +13986,7 @@ weightClass = 300;
 axesValues = (
 108,
 100,
-15,
+-15,
 100
 );
 customParameters = (
@@ -14008,7 +14008,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -14019,7 +14019,7 @@ visible = 0;
 axesValues = (
 130,
 100,
-15,
+-15,
 100
 );
 customParameters = (
@@ -14044,7 +14044,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -14056,7 +14056,7 @@ weightClass = 500;
 axesValues = (
 150,
 100,
-15,
+-15,
 100
 );
 customParameters = (
@@ -14081,7 +14081,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -14093,7 +14093,7 @@ weightClass = 600;
 axesValues = (
 170,
 100,
-15,
+-15,
 100
 );
 customParameters = (
@@ -14119,7 +14119,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -14131,7 +14131,7 @@ weightClass = 700;
 axesValues = (
 198,
 100,
-15,
+-15,
 100
 );
 customParameters = (
@@ -14156,7 +14156,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }
@@ -14168,7 +14168,7 @@ weightClass = 800;
 axesValues = (
 216,
 100,
-15,
+-15,
 100
 );
 customParameters = (
@@ -14192,7 +14192,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNewSuggested Zetta";
+value = "LexendNS Zetta";
 }
 );
 }

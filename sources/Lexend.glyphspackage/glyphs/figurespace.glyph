@@ -114,6 +114,6 @@ layerId = "C24A5CC2-DD0B-4C78-9344-AE350A897A6D";
 width = 1089;
 }
 );
-metricWidth = zero;
+metricWidth = "=zero";
 unicode = 8199;
 }
