@@ -22,15 +22,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (338,0);
+pos = (318,0);
 ref = f;
 },
 {
-pos = (746,0);
+pos = (726,0);
 ref = l;
 }
 );
-width = 993;
+width = 973;
 },
 {
 anchors = (
@@ -304,15 +304,15 @@ shapes = (
 ref = f;
 },
 {
-pos = (349,0);
+pos = (319,0);
 ref = f;
 },
 {
-pos = (758,0);
+pos = (728,0);
 ref = l;
 }
 );
-width = 1007;
+width = 977;
 },
 {
 anchors = (

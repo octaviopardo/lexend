@@ -3,6 +3,9 @@ displayStrings = (
 "1",
 "◌a",
 "×",
-"◌"
+"◌",
+"0",
+"/zero.zero",
+"/slash.lc ł"
 );
 }

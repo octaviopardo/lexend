@@ -1,5 +1,5 @@
 {
-.appVersion = "3530";
+.appVersion = "3531";
 .formatVersion = 3;
 axes = (
 {
@@ -7,8 +7,8 @@ name = Weight;
 tag = wght;
 },
 {
-name = Xtransparent;
-tag = XTRA;
+name = Width;
+tag = wdth;
 },
 {
 name = Slant;
@@ -94,7 +94,7 @@ value = 1;
 }
 );
 date = "2022-12-23 18:25:01 +0000";
-familyName = LexendNS;
+familyName = Lexend;
 featurePrefixes = (
 {
 automatic = 1;
@@ -1758,7 +1758,7 @@ pos = (394,553);
 },
 {
 angle = 75;
-pos = (512,186);
+pos = (306,223);
 }
 );
 id = "8308C8B0-7AF6-4656-9414-979187CCC571";
@@ -1878,7 +1878,7 @@ pos = (146,710);
 },
 {
 angle = 75;
-pos = (256,281);
+pos = (335,293);
 },
 {
 pos = (474,363);
@@ -2021,7 +2021,7 @@ pos = (125,748);
 },
 {
 angle = 75;
-pos = (17,177);
+pos = (345,177);
 },
 {
 pos = (302,350);
@@ -2195,7 +2195,7 @@ pos = (165,749);
 },
 {
 angle = 75;
-pos = (577,204);
+pos = (375,204);
 },
 {
 pos = (47,508);
@@ -2371,7 +2371,7 @@ pos = (250,262);
 },
 {
 angle = 75;
-pos = (719,329);
+pos = (505,359);
 },
 {
 pos = (165,367);
@@ -2671,7 +2671,7 @@ pos = (51,284);
 },
 {
 angle = 75;
-pos = (270,264);
+pos = (556,264);
 }
 );
 id = "210AF8B6-7730-458C-980B-516175326DAB";
@@ -4106,8 +4106,8 @@ locked = 1;
 pos = (146,710);
 },
 {
-angle = 75;
-pos = (256,281);
+angle = 255;
+pos = (547,281);
 },
 {
 pos = (474,363);
@@ -5167,7 +5167,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -5191,7 +5191,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -5216,7 +5216,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -5249,7 +5249,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -5284,7 +5284,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -5320,7 +5320,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -5357,7 +5357,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -5393,7 +5393,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -5428,7 +5428,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -5453,7 +5453,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -5479,7 +5479,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -5506,7 +5506,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -5540,7 +5540,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -5577,7 +5577,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -5615,7 +5615,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -5654,7 +5654,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -5692,7 +5692,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -5728,7 +5728,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -5753,7 +5753,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -5779,7 +5779,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -5806,7 +5806,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -5840,7 +5840,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -5877,7 +5877,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -5915,7 +5915,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -5954,7 +5954,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -5992,7 +5992,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -6028,7 +6028,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -6053,7 +6053,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -6079,7 +6079,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -6106,7 +6106,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -6140,7 +6140,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -6177,7 +6177,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -6215,7 +6215,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -6254,7 +6254,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -6292,7 +6292,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -6328,7 +6328,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -6353,7 +6353,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -6379,7 +6379,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -6406,7 +6406,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -6440,7 +6440,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -6477,7 +6477,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -6515,7 +6515,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -6554,7 +6554,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -6592,7 +6592,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -6628,7 +6628,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -6653,7 +6653,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -6679,7 +6679,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -6706,7 +6706,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -6740,7 +6740,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -6777,7 +6777,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -6815,7 +6815,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -6854,7 +6854,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -6892,7 +6892,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -6928,7 +6928,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -6952,7 +6952,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -6978,7 +6978,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -7004,7 +7004,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -7038,7 +7038,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -7074,7 +7074,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -7111,7 +7111,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -7149,7 +7149,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -7186,7 +7186,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -7222,7 +7222,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -7433,7 +7433,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -7457,7 +7457,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -7482,7 +7482,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -7515,7 +7515,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -7550,7 +7550,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -7586,7 +7586,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -7623,7 +7623,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -7659,7 +7659,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -7694,7 +7694,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -7719,7 +7719,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -7745,7 +7745,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -7772,7 +7772,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -7806,7 +7806,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -7843,7 +7843,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -7881,7 +7881,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -7920,7 +7920,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -7958,7 +7958,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -7994,7 +7994,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -8019,7 +8019,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -8045,7 +8045,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -8072,7 +8072,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -8106,7 +8106,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -8143,7 +8143,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -8181,7 +8181,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -8220,7 +8220,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -8258,7 +8258,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -8294,7 +8294,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -8319,7 +8319,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -8345,7 +8345,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -8372,7 +8372,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -8406,7 +8406,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -8443,7 +8443,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -8481,7 +8481,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -8520,7 +8520,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -8558,7 +8558,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -8594,7 +8594,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -8619,7 +8619,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -8645,7 +8645,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -8672,7 +8672,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -8706,7 +8706,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -8743,7 +8743,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -8781,7 +8781,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -8820,7 +8820,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -8858,7 +8858,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -8894,7 +8894,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -8919,7 +8919,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -8945,7 +8945,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -8972,7 +8972,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -9006,7 +9006,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -9043,7 +9043,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -9081,7 +9081,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -9121,7 +9121,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -9159,7 +9159,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -9195,7 +9195,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -9219,7 +9219,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -9244,7 +9244,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -9270,7 +9270,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -9303,7 +9303,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -9338,7 +9338,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -9374,7 +9374,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -9411,7 +9411,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -9447,7 +9447,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -9482,7 +9482,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -9745,7 +9745,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -9770,7 +9770,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -9796,7 +9796,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -9830,7 +9830,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -9866,7 +9866,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -9903,7 +9903,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -9941,7 +9941,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -9978,7 +9978,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -10014,7 +10014,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -10040,7 +10040,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -10067,7 +10067,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -10095,7 +10095,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -10130,7 +10130,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -10168,7 +10168,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -10207,7 +10207,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -10247,7 +10247,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -10286,7 +10286,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -10323,7 +10323,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -10349,7 +10349,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -10376,7 +10376,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -10404,7 +10404,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -10439,7 +10439,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -10477,7 +10477,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -10516,7 +10516,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -10556,7 +10556,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -10595,7 +10595,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -10632,7 +10632,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -10658,7 +10658,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -10685,7 +10685,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -10713,7 +10713,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -10748,7 +10748,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -10786,7 +10786,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -10825,7 +10825,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -10865,7 +10865,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -10904,7 +10904,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -10941,7 +10941,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -10967,7 +10967,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -10994,7 +10994,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -11022,7 +11022,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -11057,7 +11057,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -11095,7 +11095,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -11134,7 +11134,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -11174,7 +11174,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -11213,7 +11213,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -11250,7 +11250,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -11276,7 +11276,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -11303,7 +11303,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -11331,7 +11331,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -11366,7 +11366,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -11404,7 +11404,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -11443,7 +11443,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -11483,7 +11483,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -11522,7 +11522,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -11559,7 +11559,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -11584,7 +11584,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -11611,7 +11611,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -11638,7 +11638,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -11673,7 +11673,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -11710,7 +11710,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -11748,7 +11748,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -11787,7 +11787,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -11825,7 +11825,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -11862,7 +11862,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -12083,7 +12083,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -12108,7 +12108,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -12134,7 +12134,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -12168,7 +12168,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -12204,7 +12204,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -12241,7 +12241,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -12279,7 +12279,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -12316,7 +12316,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -12352,7 +12352,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Deca";
+value = "Lexend Deca";
 }
 );
 }
@@ -12378,7 +12378,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -12405,7 +12405,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -12433,7 +12433,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -12468,7 +12468,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -12506,7 +12506,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -12545,7 +12545,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -12585,7 +12585,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -12624,7 +12624,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -12661,7 +12661,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Exa";
+value = "Lexend Exa";
 }
 );
 }
@@ -12687,7 +12687,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -12714,7 +12714,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -12742,7 +12742,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -12777,7 +12777,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -12815,7 +12815,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -12854,7 +12854,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -12894,7 +12894,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -12933,7 +12933,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -12970,7 +12970,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Giga";
+value = "Lexend Giga";
 }
 );
 }
@@ -12996,7 +12996,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -13023,7 +13023,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -13051,7 +13051,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -13086,7 +13086,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -13124,7 +13124,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -13163,7 +13163,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -13203,7 +13203,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -13242,7 +13242,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -13279,7 +13279,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Mega";
+value = "Lexend Mega";
 }
 );
 }
@@ -13305,7 +13305,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -13332,7 +13332,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -13360,7 +13360,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -13395,7 +13395,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -13433,7 +13433,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -13472,7 +13472,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -13512,7 +13512,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -13551,7 +13551,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -13588,7 +13588,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Peta";
+value = "Lexend Peta";
 }
 );
 }
@@ -13614,7 +13614,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -13641,7 +13641,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -13669,7 +13669,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -13704,7 +13704,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -13742,7 +13742,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -13781,7 +13781,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -13821,7 +13821,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -13860,7 +13860,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -13897,7 +13897,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Tera";
+value = "Lexend Tera";
 }
 );
 }
@@ -13922,7 +13922,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -13948,7 +13948,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -13974,7 +13974,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -14008,7 +14008,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -14044,7 +14044,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -14081,7 +14081,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -14119,7 +14119,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -14156,7 +14156,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -14192,7 +14192,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "LexendNS Zetta";
+value = "Lexend Zetta";
 }
 );
 }
@@ -19544,7 +19544,7 @@ underscore = -54;
 "@MMK_R_bracketright" = 40;
 "@MMK_R_c" = -25;
 "@MMK_R_comma" = -40;
-"@MMK_R_f" = -70;
+"@MMK_R_f" = -90;
 "@MMK_R_g.ss01" = -44;
 "@MMK_R_guilsinglleft" = -27;
 "@MMK_R_hbar" = 41;
@@ -35496,7 +35496,7 @@ underscore = -54;
 "@MMK_R_bracketright" = 40;
 "@MMK_R_c" = -15;
 "@MMK_R_comma" = -40;
-"@MMK_R_f" = -60;
+"@MMK_R_f" = -90;
 "@MMK_R_g.ss01" = -44;
 "@MMK_R_guilsinglleft" = -27;
 "@MMK_R_hbar" = 41;
