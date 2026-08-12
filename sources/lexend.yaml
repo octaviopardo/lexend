@@ -1,7 +1,8 @@
     sources:
-      - Lexend.glyphs
+      - Lexend.glyphspackage
     familyName: Lexend
     outputDir: ../fonts/lexend
+    buildStatic: False
     buildOTF: False
     buildWebfont: False
     axisOrder:
