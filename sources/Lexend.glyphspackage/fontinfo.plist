@@ -496,11 +496,103 @@ sub gmacron by gmacron.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = "All-inclusive features";
 }
 );
 notes = "Name: ";
 tag = ss01;
+},
+{
+code = "sub I by I.ss01;
+sub IJ by IJ.ss02;
+sub Iacute by Iacute.ss01;
+sub Ibreve by Ibreve.ss01;
+sub Icaron by Icaron.ss01;
+sub Icircumflex by Icircumflex.ss01;
+sub Idblgrave by Idblgrave.ss01;
+sub Idieresis by Idieresis.ss01;
+sub Idieresisacute by Idieresisacute.ss01;
+sub Idotaccent by Idotaccent.ss01;
+sub Idotbelow by Idotbelow.ss01;
+sub Igrave by Igrave.ss01;
+sub Ihookabove by Ihookabove.ss01;
+sub Iinvertedbreve by Iinvertedbreve.ss01;
+sub Imacron by Imacron.ss01;
+sub Iogonek by Iogonek.ss01;
+sub Itilde by Itilde.ss01;
+";
+labels = (
+{
+language = dflt;
+value = I.alt;
+}
+);
+tag = ss02;
+},
+{
+code = "sub J by J.ss01;
+sub Jcircumflex by Jcircumflex.ss01;
+sub LJ by LJ.ss01;
+sub NJ by NJ.ss01;
+sub IJ by IJ.ss03;";
+labels = (
+{
+language = dflt;
+value = J.alt;
+}
+);
+tag = ss03;
+},
+{
+code = "sub a by a.ss01;
+sub aacute by aacute.ss01;
+sub abreve by abreve.ss01;
+sub abreveacute by abreveacute.ss01;
+sub abrevedotbelow by abrevedotbelow.ss01;
+sub abrevegrave by abrevegrave.ss01;
+sub abrevehookabove by abrevehookabove.ss01;
+sub abrevetilde by abrevetilde.ss01;
+sub acaron by acaron.ss01;
+sub acircumflex by acircumflex.ss01;
+sub acircumflexacute by acircumflexacute.ss01;
+sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+sub acircumflexgrave by acircumflexgrave.ss01;
+sub acircumflexhookabove by acircumflexhookabove.ss01;
+sub acircumflextilde by acircumflextilde.ss01;
+sub adblgrave by adblgrave.ss01;
+sub adieresis by adieresis.ss01;
+sub adotbelow by adotbelow.ss01;
+sub agrave by agrave.ss01;
+sub ahookabove by ahookabove.ss01;
+sub ainvertedbreve by ainvertedbreve.ss01;
+sub amacron by amacron.ss01;
+sub aogonek by aogonek.ss01;
+sub aring by aring.ss01;
+sub aringacute by aringacute.ss01;
+sub atilde by atilde.ss01;";
+labels = (
+{
+language = dflt;
+value = a.alt;
+}
+);
+tag = ss04;
+},
+{
+code = "sub g by g.ss01;
+sub gbreve by gbreve.ss01;
+sub gcaron by gcaron.ss01;
+sub gcircumflex by gcircumflex.ss01;
+sub gcommaaccent by gcommaaccent.ss01;
+sub gdotaccent by gdotaccent.ss01;
+sub gmacron by gmacron.ss01;";
+labels = (
+{
+language = dflt;
+value = g.alt;
+}
+);
+tag = ss05;
 }
 );
 fontMaster = (
