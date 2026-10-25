@@ -4140,7 +4140,7 @@ nodes = (
 width = 1393;
 }
 );
-metricLeft = a.ss01;
+metricLeft = a;
 metricRight = e;
 unicode = 230;
 }

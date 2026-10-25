@@ -1,5 +1,5 @@
 {
-.appVersion = "3531";
+.appVersion = "3535";
 .formatVersion = 3;
 axes = (
 {
@@ -93,8 +93,8 @@ name = "Use Extension Kerning";
 value = 1;
 }
 );
-date = "2022-12-23 18:25:01 +0000";
-familyName = Lexend;
+date = "2026-10-19 15:12:37 +0000";
+familyName = "Lexend-aalt";
 featurePrefixes = (
 {
 automatic = 1;
@@ -129,7 +129,6 @@ feature case;
 feature zero;
 feature ss01;
 ";
-disabled = 1;
 tag = aalt;
 },
 {
@@ -196,7 +195,6 @@ script latn;
 lookup ccmp_latn_1;
 lookup ccmp_latn_2;
 ";
-disabled = 1;
 tag = ccmp;
 },
 {
@@ -250,7 +248,6 @@ lookup locl_latn_4 {
 	sub L periodcentered' L by periodcentered.loclCAT.case;
 } locl_latn_4;
 ";
-disabled = 1;
 tag = locl;
 },
 {
@@ -266,7 +263,6 @@ sub seven by seveninferior;
 sub eight by eightinferior;
 sub nine by nineinferior;
 ";
-disabled = 1;
 tag = subs;
 },
 {
@@ -282,7 +278,6 @@ sub seven by seveninferior;
 sub eight by eightinferior;
 sub nine by nineinferior;
 ";
-disabled = 1;
 tag = sinf;
 },
 {
@@ -298,7 +293,6 @@ sub seven by sevensuperior;
 sub eight by eightsuperior;
 sub nine by ninesuperior;
 ";
-disabled = 1;
 tag = sups;
 },
 {
@@ -314,7 +308,6 @@ sub seven by seven.numr;
 sub eight by eight.numr;
 sub nine by nine.numr;
 ";
-disabled = 1;
 tag = numr;
 },
 {
@@ -330,7 +323,6 @@ sub seven by seven.dnom;
 sub eight by eight.dnom;
 sub nine by nine.dnom;
 ";
-disabled = 1;
 tag = dnom;
 },
 {
@@ -346,7 +338,6 @@ lookup DOWN {
 	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 } DOWN;
 ";
-disabled = 1;
 tag = frac;
 },
 {
@@ -355,7 +346,6 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 sub N o period by numero;
 ";
-disabled = 1;
 tag = ordn;
 },
 {
@@ -416,7 +406,6 @@ sub commaaccentcomb by commaaccentcomb.case;
 sub cedillacomb by cedillacomb.case;
 sub ogonekcomb by ogonekcomb.case;
 ";
-disabled = 1;
 tag = case;
 },
 {
@@ -426,14 +415,12 @@ sub f f by f_f;
 sub f i by fi;
 sub f l by fl;
 ";
-disabled = 1;
 tag = liga;
 },
 {
 automatic = 1;
 code = "sub zero by zero.zero;
 ";
-disabled = 1;
 tag = zero;
 },
 {
@@ -5259,7 +5246,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -5283,7 +5270,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -5308,7 +5295,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -5341,7 +5328,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -5376,7 +5363,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -5412,7 +5399,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -5449,7 +5436,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -5485,7 +5472,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -5520,7 +5507,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -5545,7 +5532,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -5571,7 +5558,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -5598,7 +5585,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -5632,7 +5619,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -5669,7 +5656,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -5707,7 +5694,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -5746,7 +5733,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -5784,7 +5771,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -5820,7 +5807,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -5845,7 +5832,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -5871,7 +5858,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -5898,7 +5885,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -5932,7 +5919,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -5969,7 +5956,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -6007,7 +5994,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -6046,7 +6033,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -6084,7 +6071,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -6120,7 +6107,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -6145,7 +6132,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -6171,7 +6158,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -6198,7 +6185,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -6232,7 +6219,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -6269,7 +6256,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -6307,7 +6294,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -6346,7 +6333,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -6384,7 +6371,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -6420,7 +6407,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -6445,7 +6432,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -6471,7 +6458,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -6498,7 +6485,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -6532,7 +6519,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -6569,7 +6556,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -6607,7 +6594,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -6646,7 +6633,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -6684,7 +6671,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -6720,7 +6707,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -6745,7 +6732,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -6771,7 +6758,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -6798,7 +6785,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -6832,7 +6819,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -6869,7 +6856,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -6907,7 +6894,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -6946,7 +6933,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -6984,7 +6971,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -7020,7 +7007,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -7044,7 +7031,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -7070,7 +7057,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -7096,7 +7083,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -7130,7 +7117,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -7166,7 +7153,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -7203,7 +7190,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -7241,7 +7228,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -7278,7 +7265,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -7314,7 +7301,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -7525,7 +7512,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -7549,7 +7536,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -7574,7 +7561,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -7607,7 +7594,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -7642,7 +7629,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -7678,7 +7665,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -7715,7 +7702,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -7751,7 +7738,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -7786,7 +7773,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -7811,7 +7798,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -7837,7 +7824,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -7864,7 +7851,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -7898,7 +7885,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -7935,7 +7922,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -7973,7 +7960,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -8012,7 +7999,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -8050,7 +8037,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -8086,7 +8073,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -8111,7 +8098,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -8137,7 +8124,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -8164,7 +8151,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -8198,7 +8185,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -8235,7 +8222,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -8273,7 +8260,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -8312,7 +8299,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -8350,7 +8337,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -8386,7 +8373,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -8411,7 +8398,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -8437,7 +8424,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -8464,7 +8451,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -8498,7 +8485,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -8535,7 +8522,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -8573,7 +8560,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -8612,7 +8599,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -8650,7 +8637,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -8686,7 +8673,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -8711,7 +8698,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -8737,7 +8724,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -8764,7 +8751,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -8798,7 +8785,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -8835,7 +8822,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -8873,7 +8860,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -8912,7 +8899,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -8950,7 +8937,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -8986,7 +8973,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -9011,7 +8998,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -9037,7 +9024,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -9064,7 +9051,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -9098,7 +9085,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -9135,7 +9122,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -9173,7 +9160,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -9213,7 +9200,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -9251,7 +9238,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -9287,7 +9274,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -9311,7 +9298,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -9336,7 +9323,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -9362,7 +9349,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -9395,7 +9382,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -9430,7 +9417,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -9466,7 +9453,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -9503,7 +9490,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -9539,7 +9526,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -9574,7 +9561,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -9837,7 +9824,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -9862,7 +9849,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -9888,7 +9875,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -9922,7 +9909,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -9958,7 +9945,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -9995,7 +9982,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -10033,7 +10020,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -10070,7 +10057,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -10106,7 +10093,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -10132,7 +10119,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -10159,7 +10146,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -10187,7 +10174,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -10222,7 +10209,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -10260,7 +10247,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -10299,7 +10286,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -10339,7 +10326,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -10378,7 +10365,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -10415,7 +10402,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -10441,7 +10428,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -10468,7 +10455,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -10496,7 +10483,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -10531,7 +10518,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -10569,7 +10556,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -10608,7 +10595,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -10648,7 +10635,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -10687,7 +10674,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -10724,7 +10711,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -10750,7 +10737,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -10777,7 +10764,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -10805,7 +10792,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -10840,7 +10827,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -10878,7 +10865,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -10917,7 +10904,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -10957,7 +10944,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -10996,7 +10983,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -11033,7 +11020,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -11059,7 +11046,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -11086,7 +11073,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -11114,7 +11101,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -11149,7 +11136,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -11187,7 +11174,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -11226,7 +11213,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -11266,7 +11253,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -11305,7 +11292,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -11342,7 +11329,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -11368,7 +11355,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -11395,7 +11382,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -11423,7 +11410,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -11458,7 +11445,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -11496,7 +11483,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -11535,7 +11522,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -11575,7 +11562,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -11614,7 +11601,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -11651,7 +11638,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -11676,7 +11663,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -11703,7 +11690,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -11730,7 +11717,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -11765,7 +11752,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -11802,7 +11789,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -11840,7 +11827,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -11879,7 +11866,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -11917,7 +11904,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -11954,7 +11941,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -12175,7 +12162,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -12200,7 +12187,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -12226,7 +12213,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -12260,7 +12247,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -12296,7 +12283,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -12333,7 +12320,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -12371,7 +12358,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -12408,7 +12395,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -12444,7 +12431,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Deca";
+value = "Lexend-aalt Deca";
 }
 );
 }
@@ -12470,7 +12457,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -12497,7 +12484,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -12525,7 +12512,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -12560,7 +12547,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -12598,7 +12585,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -12637,7 +12624,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -12677,7 +12664,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -12716,7 +12703,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -12753,7 +12740,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Exa";
+value = "Lexend-aalt Exa";
 }
 );
 }
@@ -12779,7 +12766,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -12806,7 +12793,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -12834,7 +12821,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -12869,7 +12856,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -12907,7 +12894,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -12946,7 +12933,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -12986,7 +12973,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -13025,7 +13012,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -13062,7 +13049,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Giga";
+value = "Lexend-aalt Giga";
 }
 );
 }
@@ -13088,7 +13075,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -13115,7 +13102,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -13143,7 +13130,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -13178,7 +13165,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -13216,7 +13203,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -13255,7 +13242,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -13295,7 +13282,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -13334,7 +13321,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -13371,7 +13358,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Mega";
+value = "Lexend-aalt Mega";
 }
 );
 }
@@ -13397,7 +13384,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -13424,7 +13411,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -13452,7 +13439,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -13487,7 +13474,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -13525,7 +13512,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -13564,7 +13551,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -13604,7 +13591,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -13643,7 +13630,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -13680,7 +13667,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Peta";
+value = "Lexend-aalt Peta";
 }
 );
 }
@@ -13706,7 +13693,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -13733,7 +13720,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -13761,7 +13748,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -13796,7 +13783,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -13834,7 +13821,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -13873,7 +13860,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -13913,7 +13900,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -13952,7 +13939,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -13989,7 +13976,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Tera";
+value = "Lexend-aalt Tera";
 }
 );
 }
@@ -14014,7 +14001,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -14040,7 +14027,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -14066,7 +14053,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -14100,7 +14087,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -14136,7 +14123,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -14173,7 +14160,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -14211,7 +14198,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -14248,7 +14235,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -14284,7 +14271,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "Lexend Zetta";
+value = "Lexend-aalt Zetta";
 }
 );
 }
@@ -79363,5 +79350,5 @@ zero.zero
 };
 };
 versionMajor = 1;
-versionMinor = 10;
+versionMinor = 11;
 }

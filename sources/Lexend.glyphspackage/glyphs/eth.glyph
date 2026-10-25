@@ -737,7 +737,7 @@ background = {
 shapes = (
 {
 pos = (-15,0);
-ref = a;
+ref = a.ss01;
 }
 );
 };
@@ -809,7 +809,7 @@ background = {
 shapes = (
 {
 pos = (-14,0);
-ref = a;
+ref = a.ss01;
 }
 );
 };
@@ -1130,7 +1130,7 @@ background = {
 shapes = (
 {
 pos = (-1,0);
-ref = a;
+ref = a.ss01;
 }
 );
 };
@@ -2582,7 +2582,7 @@ background = {
 shapes = (
 {
 pos = (-15,0);
-ref = a;
+ref = a.ss01;
 }
 );
 };
@@ -2654,7 +2654,7 @@ background = {
 shapes = (
 {
 pos = (-14,0);
-ref = a;
+ref = a.ss01;
 }
 );
 };
@@ -2975,7 +2975,7 @@ background = {
 shapes = (
 {
 pos = (-1,0);
-ref = a;
+ref = a.ss01;
 }
 );
 };

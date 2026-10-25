@@ -1040,7 +1040,7 @@ background = {
 shapes = (
 {
 pos = (92,392);
-ref = a;
+ref = a.ss01;
 scale = (0.5986,0.5986);
 }
 );
@@ -2781,7 +2781,7 @@ background = {
 shapes = (
 {
 pos = (92,392);
-ref = a;
+ref = a.ss01;
 scale = (0.5986,0.5986);
 }
 );

@@ -991,7 +991,7 @@ background = {
 shapes = (
 {
 pos = (-15,0);
-ref = a;
+ref = a.ss01;
 }
 );
 };
@@ -3033,7 +3033,7 @@ background = {
 shapes = (
 {
 pos = (-15,0);
-ref = a;
+ref = a.ss01;
 }
 );
 };
